@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without axis labels, viewers cannot determine what the horizontal and vertical scales represent. The x-axis could be anything from time periods to locations, and the y-axis units are completely ambiguous\u2014it could be counts, percentages, currency, or any other metric. This fundamental lack of context makes it impossible to properly interpret the data being presented."
+}

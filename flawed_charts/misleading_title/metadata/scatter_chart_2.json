@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart clearly shows that sprint speed declines with age, with younger players (ages 17-23) having the highest sprint speeds and a noticeable downward trend as players get older, yet the title claims the opposite relationship exists."
+}

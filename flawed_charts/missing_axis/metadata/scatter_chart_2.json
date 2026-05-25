@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_axis",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis has been completely removed from the chart, including the axis line, tick marks, tick labels, and axis title. A reader looking at this scatter plot has no way to determine the actual sprint speed values of any data points, making it impossible to quantitatively interpret the vertical distribution of players' sprint speeds."
+}

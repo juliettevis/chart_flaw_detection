@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "color_blind_unfriendly",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "This visualization uses a color palette that alternates between red and green shades, making it extremely difficult for viewers with deuteranopia (red-green color blindness) to distinguish between the different WHO regions. The stacked areas would appear as various indistinguishable brownish-olive tones to approximately 5% of male viewers, rendering the chart effectively unreadable for tracking individual regional trends."
+}

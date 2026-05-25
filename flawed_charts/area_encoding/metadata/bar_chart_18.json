@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_18",
+  "chart_type": "bar_chart",
+  "flaw_type": "area_encoding",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The bars now vary in both length (representing the actual value) and thickness/height (also proportional to the value), meaning the perceived area of each bar grows as the square of the value. This makes differences between countries appear far more dramatic than they actually are \u2014 Qatar's bar, for instance, looks vastly more dominant than lower-ranked countries whose similar values would suggest a much smaller gap. A reader scanning the chart visually would be misled into thinking the top emitters are exponentially worse than the rest."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The title, axis labels, tick labels, and legend text are all rendered at extremely tiny font sizes, making them virtually unreadable against the otherwise normal-sized chart elements. A reader would struggle to identify the chart's subject, understand what the axes represent, or distinguish the age group categories along the x-axis. The disproportionately small text makes the chart effectively uninformative despite containing all the necessary labeling elements."
+}

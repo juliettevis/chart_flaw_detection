@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart makes it nearly impossible to compare the differences between regions and segments because the y-axis extends to 2,500 while the actual data peaks around 850. The bars are compressed into less than a third of the available vertical space, making it difficult to distinguish between values that might differ by 100-200 orders and obscuring important patterns in the data."
+}

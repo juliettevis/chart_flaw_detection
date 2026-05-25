@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_c",
+  "chart_type": "scatter_chart",
+  "flaw_type": "data_of_different_magnitudes",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "Per-country 2010 TB prevalence and incident cases plotted together on a shared linear y-axis (labelled \"Amount of cases\", M/K ticks). Large-population countries stretch the axis so mid- and small-burden countries cluster near zero and cannot be distinguished."
+}

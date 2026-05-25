@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart significantly understates the TB death toll in the two most affected regions by cutting off the top portions of their bars. The actual values for South-East Asia and Africa extend well beyond what's visible, making it impossible to accurately compare the scale of the crisis across regions or see the true magnitude of deaths in the worst-affected areas."
+}

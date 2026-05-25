@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_7",
+  "chart_type": "bar_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart shows a clear peak of players in their mid-twenties, yet the title incorrectly suggests that older, veteran players make up the majority of FIFA 18 rosters. This misleading title could lead readers to believe the game features predominantly aging players when in fact it shows a typical distribution skewed toward younger, prime-age athletes."
+}

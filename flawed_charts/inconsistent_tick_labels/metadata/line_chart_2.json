@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis labels use an inconsistent mix of formatting styles that makes it difficult to quickly compare values. Some values include dollar signs while others don't, some use thousands separators while others show decimals or use 'K' notation, creating visual confusion and making it harder to accurately read profit values at a glance."
+}

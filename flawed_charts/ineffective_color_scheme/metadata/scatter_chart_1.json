@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "ineffective_color_scheme",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The use of bright, unrelated categorical colors for each rating level makes it impossible to visually track the progression from lower to higher ratings. This color scheme wrongly suggests that each rating is a distinct category rather than part of a continuous scale, destroying the natural flow and making it harder to see patterns in how market value changes with overall rating."
+}

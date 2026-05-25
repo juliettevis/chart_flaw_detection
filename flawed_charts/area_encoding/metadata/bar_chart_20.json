@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_20",
+  "chart_type": "bar_chart",
+  "flaw_type": "area_encoding",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The bars encoding higher homicide rates are both longer and taller than those for lower-rate countries, meaning the perceived area grows roughly as value squared rather than linearly. This makes the differences between countries appear far more dramatic than they actually are \u2014 for example, Turks and Caicos Islands looks disproportionately dominant compared to Belize, even though the actual rate difference is roughly 3\u00d7, not 9\u00d7. A reader will intuitively perceive area, not just length, and will therefore greatly overestimate the inequality between countries."
+}

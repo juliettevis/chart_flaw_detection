@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_d",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_grouping",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "National CO₂ emissions are split into five sector bars for China (Industry, Power, Transport, Buildings, Other) but shown as single country totals for the next four largest emitters. The chart mixes within-country sector granularity with whole-country granularity."
+}

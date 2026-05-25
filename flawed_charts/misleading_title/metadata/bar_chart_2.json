@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart clearly shows that the West region has the highest order volumes and the Consumer segment dominates across all regions, yet the title incorrectly claims that the South region leads in corporate orders. This misleading title would cause readers to misinterpret the data, potentially leading to poor business decisions about regional focus and customer segment priorities."
+}

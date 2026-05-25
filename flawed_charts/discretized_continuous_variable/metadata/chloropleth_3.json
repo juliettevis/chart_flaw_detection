@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_3",
+  "chart_type": "chloropleth",
+  "flaw_type": "discretized_continuous_variable",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart discretizes what is inherently a continuous variable (CO\u2082 emissions per capita) into just four broad categories, making countries with very similar values\u2014like 6.9 and 7.1 tCO\u2082 per person\u2014appear drastically different in color despite being nearly identical. The sharp categorical boundaries hide the true gradual variation in emissions across countries, creating an illusion of distinct \"tiers\" that do not reflect the underlying data distribution. Readers are misled into thinking there are meaningful categorical differences between countries that are actually very close in their actual emission levels."
+}

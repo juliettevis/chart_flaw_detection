@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The uneven spacing between y-axis tick marks creates a visual distortion that makes it difficult to accurately compare bar heights and understand the true differences in order counts between segments and regions. The compressed intervals at lower values and expanded intervals at higher values can mislead viewers about the relative magnitude of differences in the data."
+}

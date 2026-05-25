@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly compresses the differences in sprint speed between players by using a logarithmic scale where a linear scale would be appropriate. The log scale makes it appear that there is less variation in sprint speeds across ages than actually exists, and the visual differences between players with speeds of 30 vs 90 appear much smaller than the threefold difference they represent."
+}

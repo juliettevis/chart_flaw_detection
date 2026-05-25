@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_7",
+  "chart_type": "bar_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart makes it nearly impossible to see the differences in player counts across age groups. The distribution pattern is severely compressed into the bottom portion of the chart, making it difficult to compare the relative heights of the bars or identify the peak age range for FIFA players. The excessive white space above the data obscures the meaningful variation in the dataset."
+}

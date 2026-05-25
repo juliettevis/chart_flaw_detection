@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_4",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This scatter plot lacks any reference points on the y-axis, making it impossible to determine the actual mortality rates being displayed. Without the numeric scale, viewers cannot quantify the relationship between TB prevalence and mortality or make meaningful comparisons between countries."
+}

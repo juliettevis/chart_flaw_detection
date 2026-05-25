@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_5",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_legend",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This pie chart shows the percentage breakdown of sales across different regions, but without any legend or labels, it's impossible to determine which color represents which region. The viewer can see that one segment accounts for 31.8% of sales and another for 29.7%, but has no way of knowing whether these represent the West, East, Central, or South regions."
+}

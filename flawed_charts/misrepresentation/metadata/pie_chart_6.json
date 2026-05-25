@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_6",
+  "chart_type": "pie_chart",
+  "flaw_type": "misrepresentation",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The chart shows the Democrat slice taking up roughly 75% of the pie while the Republican slice takes up only about 25%, yet the labels still read \"50.2%\" and \"49.8%\" respectively \u2014 nearly equal values. A reader would be misled into thinking one party dramatically outspent the other, when the labeled percentages suggest the spending was almost identical. The visual size of each slice is completely inconsistent with the percentage annotations displayed on them."
+}

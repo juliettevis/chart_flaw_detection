@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis has been inverted so that $0 appears at the top and larger values appear toward the bottom of the chart. This violates the conventional expectation that higher values should be higher on the chart, causing readers to misinterpret trends \u2014 lines that visually slope downward actually represent increasing sales, and apparent peaks are actually low points in the data."
+}

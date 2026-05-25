@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_22",
+  "chart_type": "bar_chart",
+  "flaw_type": "dual_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses two different y-axis scales \u2014 the left axis for Democrats goes up to $130M while the right axis for Republicans only goes to $65M \u2014 making Republican spending appear nearly as tall as Democrat spending in several categories. A casual reader will likely assume both series share the same scale, leading them to dramatically underestimate the gap between Democrat and Republican campaign expenditures. The visual impression falsely suggests the two parties spent comparably across most categories."
+}

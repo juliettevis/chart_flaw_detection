@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_5",
+  "chart_type": "pie_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The chart is nearly impossible to read because the title overlaps with the pie slice labels, creating a jumbled mess of text. The labels for each region are colliding with the title text, making it difficult to identify which region each slice represents or even read the chart's title clearly."
+}

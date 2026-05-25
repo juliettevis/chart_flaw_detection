@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick labels use wildly inconsistent number formats: \"0\" has no formatting, \"100,000\" uses a thousands separator, \"200K\" uses an abbreviation, \"300000.00\" shows unnecessary decimals with no separator, and \"400,000\" reverts to comma-separated format. This inconsistency makes it difficult for readers to quickly interpret the scale and compare values across the axis."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_e",
+  "chart_type": "pie_chart",
+  "flaw_type": "inconsistent_grouping",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "World population is split into four Asian sub-regions (Eastern, Southern, South-eastern, Western Asia) but kept as whole-continent slices for Africa, Europe, Americas, and Oceania. The pie mixes sub-region granularity on one continent with continent-level aggregation on every other."
+}

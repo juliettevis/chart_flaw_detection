@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "selective_data",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "This chart misleadingly suggests that tuberculosis deaths have been steadily declining across all countries, when in reality it only shows the period after India's peak in 2004. By omitting the earlier years when deaths were rising significantly, the visualization creates a false impression of consistent progress in combating TB, hiding the fact that the disease burden actually increased substantially before the recent improvements."
+}

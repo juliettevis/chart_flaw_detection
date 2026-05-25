@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_5",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_use_of_bar_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses a bar encoding for two continuous numeric variables, treating the x-axis (percentage of women in parliament) as if it were a set of discrete categories rather than a continuous numeric dimension. This makes the chart appear to compare individual \"items\" side by side, completely obscuring any underlying trend or correlation between the two variables and making it impossible to perceive the distributional relationship that a scatter plot would reveal."
+}

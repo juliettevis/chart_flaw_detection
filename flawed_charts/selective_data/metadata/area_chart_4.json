@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "selective_data",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "The chart misleadingly presents TB incidence as declining when the full title claims to show data from 1990\u20132013. By showing only the 2006\u20132013 period where incidence plateaus and slightly decreases, it creates the false impression that TB is a diminishing global health threat, hiding the significant growth that occurred from 1990 to 2005."
+}

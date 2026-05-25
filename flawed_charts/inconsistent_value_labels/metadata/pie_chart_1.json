@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_1",
+  "chart_type": "pie_chart",
+  "flaw_type": "inconsistent_value_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The percentage labels on the pie chart are formatted inconsistently: the largest slice (Technology) shows a rounded whole number like \"36%\", the middle slice (Furniture) shows two decimal places like \"32.40%\", and the smallest slice (Office Supplies) shows one decimal place like \"31.5%\". Additionally, the font sizes vary dramatically across the three labels (large, very small, and medium), making the chart look haphazardly assembled and difficult to read at a glance."
+}

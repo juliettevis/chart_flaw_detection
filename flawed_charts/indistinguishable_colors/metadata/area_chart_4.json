@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "indistinguishable_colors",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart is extremely difficult to interpret because all six WHO regions are represented by nearly identical shades of green. Readers cannot distinguish which area corresponds to which region, making it impossible to track the TB incidence trends for any specific region or compare regions effectively. The legend is essentially useless since the color differences are imperceptible."
+}

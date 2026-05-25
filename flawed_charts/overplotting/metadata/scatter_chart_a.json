@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_a",
+  "chart_type": "scatter_chart",
+  "flaw_type": "overplotting",
+  "flaw_category": "Hidden Information",
+  "flaw_stage": "Interpretation",
+  "description": "All ~18,000 FIFA 18 players plotted with Age (integer, range ~15\u201345) against Overall rating (integer, ~45\u201395). Because both axes are integer-valued the points land on a fixed grid, so each visible dot actually represents dozens to hundreds of players \u2014 the density of the population at typical values is completely invisible."
+}

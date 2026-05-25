@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "trend_line_on_random_data",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart misleadingly suggests a strong linear relationship between player rating and market value, when the data clearly shows high variability and many outliers. The prominent red trend line implies that market value increases predictably with rating, obscuring the fact that players with identical ratings can have vastly different values ranging from \u20ac5M to over \u20ac100M."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_19",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_item_order",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The bars are arranged in a seemingly random order \u2014 neither sorted by value nor alphabetically \u2014 making it nearly impossible to quickly identify which states spent the most or least. The lack of any natural ordering forces the reader to mentally re-sort the data, obscuring the clear spending hierarchy that a ranked chart would reveal. This arbitrary arrangement makes comparisons between states confusing and hides the dramatic gap between top spenders like Virginia and District of Columbia versus the rest."
+}

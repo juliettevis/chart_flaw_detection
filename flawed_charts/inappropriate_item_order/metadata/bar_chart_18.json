@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_18",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_item_order",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The countries are now arranged in a scrambled, arbitrary order rather than sorted by emissions value, making it impossible to quickly identify which countries emit the most or least CO\u2082 per capita. The lack of any meaningful ordering (neither ranked nor alphabetical) forces readers to scan back and forth across the chart without being able to detect any pattern or ranking. This arbitrary arrangement obscures the relative differences between countries and makes comparison extremely difficult."
+}

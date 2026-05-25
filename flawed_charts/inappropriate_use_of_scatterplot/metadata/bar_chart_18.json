@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_18",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_scatterplot",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The scatter plot falsely implies a continuous numeric relationship between the x-axis categories (countries), as if the position of one country relative to another on the x-axis carries mathematical meaning. The isolated dots make it difficult to compare values at a glance compared to bars, and the ordering of countries along the x-axis suggests a trend or progression that does not exist \u2014 these are simply discrete, unrelated categorical entities."
+}

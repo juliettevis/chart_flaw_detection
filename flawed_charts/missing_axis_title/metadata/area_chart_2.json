@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without axis labels, readers cannot determine what the horizontal axis represents (time periods) or what the vertical axis measures (dollar amounts). The formatted tick labels showing dates and currency symbols provide hints, but the lack of explicit axis titles makes the chart's purpose and scale ambiguous, forcing viewers to guess at what exactly is being displayed."
+}

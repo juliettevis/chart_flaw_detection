@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart misleadingly cuts off the peak values for India's tuberculosis deaths, making it impossible to see the true maximum around 420,000 deaths that occurred in the early 2000s. By truncating the y-axis at 320,000, the chart fails to show the full scale of the TB crisis in India and understates the severity of the epidemic during its worst years."
+}

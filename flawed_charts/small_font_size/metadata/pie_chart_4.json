@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_4",
+  "chart_type": "pie_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The text elements in this chart are so small that they're practically illegible, making it nearly impossible to read the title, percentages, or legend labels. While the pie slices themselves remain clearly visible at their normal size, the crucial information needed to interpret the data is effectively hidden due to the tiny font sizes, rendering the visualization useless for its intended purpose."
+}

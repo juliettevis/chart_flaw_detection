@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_aspect_ratio",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart has been made significantly narrower, compressing the horizontal axis and causing the lines to appear far steeper than they actually are. A reader would likely overestimate how rapidly mortality rates increase across age groups, since the visual slope of the lines is dramatically exaggerated by the squeezed width. The distorted aspect ratio makes gradual trends look like sharp, dramatic rises."
+}

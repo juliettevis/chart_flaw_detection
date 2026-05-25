@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_4",
+  "chart_type": "scatter_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The logarithmic scale on the y-axis makes the mortality differences between countries appear much smaller than they actually are, compressing the dramatic 100-fold variation (from 1 to 100 deaths per 100,000) into what looks like modest differences. This visualization severely understates the public health disparities between countries, making it difficult to appreciate that some nations have mortality rates that are orders of magnitude higher than others."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_9",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_use_of_accumulation",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart displays cumulative sums of the yearly average percentages rather than the actual periodic averages, making the trend appear as a steep, ever-increasing line reaching nearly 200%. This hides any slowing growth or plateauing in recent years, and the y-axis label still says \"Average % seats held by women,\" misleading readers into thinking these are the actual yearly percentages rather than accumulated totals."
+}

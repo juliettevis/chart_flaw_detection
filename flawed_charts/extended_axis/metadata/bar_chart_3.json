@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart makes it nearly impossible to see the meaningful variations in monthly order volumes. The bars are all compressed into the bottom portion of the chart, making September's peak (which is nearly double January's value) appear only marginally different from other months. The excessive vertical space wastes the visualization area and prevents readers from accurately comparing the relative differences between months."
+}

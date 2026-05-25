@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart violates standard visualization conventions by inverting the y-axis, causing higher sales values to appear at the bottom and lower values at the top. This counter-intuitive presentation makes it difficult to quickly assess growth trends and could lead viewers to misinterpret declining sales as improvements since the visual trajectory appears to rise when sales actually increase."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart appears to show regions with higher death counts as shorter bars, which is counterintuitive and misleading. The visual hierarchy is inverted - South-East Asia and Africa, which have the highest TB deaths, appear to have the smallest impact due to their bars extending downward from the top baseline rather than upward from the bottom as expected."
+}

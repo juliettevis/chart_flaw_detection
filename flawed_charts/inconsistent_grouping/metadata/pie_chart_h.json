@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_h",
+  "chart_type": "pie_chart",
+  "flaw_type": "inconsistent_grouping",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "USA causes of death are split into three heart-disease subtypes (ischemic, hypertensive, other heart disease) but every other cause is kept at the whole-category level (Cancer, Chronic respiratory, Stroke, Diabetes, Other). The pie mixes subtype granularity within heart disease with category granularity elsewhere."
+}

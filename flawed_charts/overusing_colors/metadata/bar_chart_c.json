@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_c",
+  "chart_type": "bar_chart",
+  "flaw_type": "overusing_colors",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "Top 30 superstore products by total sales, each bar colored by its Sub-Category (17 represented). Color encodes a real categorical variable but 17 categorical hues exceed what a reader can hold in memory, so the color dimension adds noise rather than insight."
+}

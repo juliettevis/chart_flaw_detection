@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "ineffective_color_scheme",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The rainbow color scheme is misleading because it creates false visual boundaries and patterns in what should be a simple two-variable relationship. The perceptually non-uniform nature of the rainbow palette makes certain age groups appear more prominent than others (particularly the bright yellow and cyan regions), suggesting artificial groupings or importance where none exists in the actual age-wage relationship."
+}

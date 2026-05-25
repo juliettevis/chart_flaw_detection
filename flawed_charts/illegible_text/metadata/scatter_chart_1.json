@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart suffers from severely overlapping text that makes the axis labels unreadable. The y-axis tick labels showing full monetary values (like \"\u20ac120,000,000\") overlap with each other and clash with the y-axis title, while the x-axis labels collide with the x-axis title, creating an illegible mess at the bottom of the visualization."
+}

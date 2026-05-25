@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_18",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_normalization",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart's title and axis label claim to show CO\u2082 emissions \"per capita,\" but the bars actually display total absolute emissions in thousand metric tons, which heavily favors large, populous countries like China, the United States, and India. This makes the comparison completely meaningless for understanding emission intensity, as tiny nations with high per-capita emissions disappear while large countries dominate solely due to population size."
+}

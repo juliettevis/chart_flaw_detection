@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis has been extended to nearly 5,000 \u2014 roughly three times the maximum data value of 1,630 \u2014 causing all bars to be compressed into the bottom third of the chart. As a result, the substantial differences between countries like England (1,630) and Netherlands (429) appear almost negligible, making it very difficult for readers to visually perceive the true magnitude of variation across nationalities."
+}

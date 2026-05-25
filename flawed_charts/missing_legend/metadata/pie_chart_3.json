@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_3",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_legend",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This pie chart shows the distribution of players across four distinct colored segments with percentages, but without any legend or labels, it's impossible to determine which segment represents forwards, midfielders, defenders, or goalkeepers. The viewer can see that one group makes up 39.9% of players and another 30.3%, but has no way of knowing which positions these percentages correspond to, making the visualization essentially meaningless despite having clear numerical data."
+}

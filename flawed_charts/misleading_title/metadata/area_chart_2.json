@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart's title claims that the South region dominates sales performance, but the visual data clearly shows that the West region (orange) consistently has the largest share of sales throughout 2025. This misleading title would cause readers to incorrectly attribute the company's sales success to the wrong region, potentially leading to misguided business decisions or resource allocation."
+}

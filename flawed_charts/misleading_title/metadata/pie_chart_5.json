@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_5",
+  "chart_type": "pie_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart clearly shows the West region leading sales with nearly 32% of the total, yet the title incorrectly claims that the South region dominates, when in reality South has the smallest share at just 16.8%. This misleading title could cause viewers to draw entirely wrong conclusions about regional performance without carefully examining the actual percentages."
+}

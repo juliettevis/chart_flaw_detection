@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart lacks axis labels, making it unclear what the horizontal and vertical dimensions represent. Without knowing that the x-axis shows countries and the y-axis shows prevalence rates per 100,000 population, viewers cannot properly interpret the data or understand the scale and units being displayed."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_17",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_item_order",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The candidates are displayed in a scrambled, arbitrary order rather than sorted by disbursement amount, making it nearly impossible to quickly identify who spent the most or least. The random arrangement forces readers to scan the entire chart to compare candidates, obscuring the natural ranking that would reveal clear spending tiers. This misleads viewers about the relative financial scale of each campaign."
+}

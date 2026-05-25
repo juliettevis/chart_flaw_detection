@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The absence of y-axis tick marks and labels makes it impossible to determine the actual values of incident TB cases for any region or time period. Readers cannot quantify the data or compare the magnitude of cases between regions, rendering the visualization essentially useless for understanding the scale of the TB burden across different WHO regions."
+}

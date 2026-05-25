@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_4",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_aspect_ratio",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The extreme horizontal compression of this scatter plot creates a misleading visualization that exaggerates the relationship between TB prevalence and mortality. The severely distorted aspect ratio makes the correlation appear much stronger and more linear than it actually is, potentially leading viewers to overestimate how closely these two variables are related."
+}

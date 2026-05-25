@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_value_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The value labels across the bars are wildly inconsistent: some bars show abbreviated values like \"0.9K\" or \"0.613K,\" others show two decimal places (e.g., \"906.00,\" \"651.00\"), one uses a single decimal (\"715.1\"), and two bars (Kiribati and South Africa) have no label at all. Font sizes also vary dramatically \u2014 from size 6 to size 16 \u2014 and one label is bolded while others are not, making the chart look haphazard and difficult to read consistently."
+}

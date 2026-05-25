@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_8",
+  "chart_type": "bar_chart",
+  "flaw_type": "3d",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The 3D perspective effect applied to this histogram makes it extremely difficult to accurately compare bar heights, as the visual distortion causes bars on the right to appear artificially larger than those on the left despite representing the same values. This perspective trick undermines the fundamental purpose of a histogram by making it nearly impossible to judge the true distribution of the data or compare frequencies between different sales ranges."
+}

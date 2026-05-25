@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_7",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_pie_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This pie chart is fundamentally misleading because it uses overlapping age categories that count the same players multiple times, causing the percentages to add up to well over 100%. The visualization suggests these are distinct parts of a whole, when in reality they are overlapping subsets that cannot be meaningfully compared as proportions."
+}

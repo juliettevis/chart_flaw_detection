@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_4",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_legend",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This pie chart displays the percentage distribution of TB deaths across different colored segments, but without any legend, it's impossible to determine which WHO region each color represents. The viewer can see that one segment accounts for 40.2% and another for 36.2% of deaths, but has no way of knowing whether these represent Africa, Asia, or any other region."
+}

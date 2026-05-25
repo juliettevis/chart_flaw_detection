@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis has no tick marks or numeric labels, making it impossible for readers to determine the actual values of any bars. Without these reference points, the chart only conveys relative comparisons between bars but provides no quantitative information about the number of orders in each category."
+}

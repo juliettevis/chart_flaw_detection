@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis has no tick marks or numeric labels, making it impossible to read the actual values of the bars. While the axis line and title (\"Number of Orders\") remain, readers cannot determine whether a bar represents 50, 100, or 200 orders without any scale reference points."
+}

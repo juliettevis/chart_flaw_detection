@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_pie_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This pie chart is fundamentally misleading because it shows only 4 countries but presents them as if they represent the whole, when in reality these percentages sum to only about 35% of all players. The visualization falsely implies these four nationalities make up the entire player base, when they're actually just a small fraction of the total. [NOTE: Generated code failed to execute]"
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "area_encoding",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart encodes each month's order count through both bar height and bar width simultaneously, causing the perceived visual area (width \u00d7 height) to grow roughly as the square of the actual value. This makes months with high order counts like September appear dramatically more prominent than their true proportional difference warrants \u2014 for instance, September's bar looks many times larger than January's, even though it only has about 4\u00d7 as many orders. Readers naturally perceive area rather than height alone, leading them to massively overestimate the differences between busy and slow months."
+}

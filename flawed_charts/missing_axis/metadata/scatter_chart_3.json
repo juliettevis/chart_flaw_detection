@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_axis",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis has been completely removed from the chart \u2014 there are no tick marks, tick labels, axis line, or axis title indicating wage values. Without any y-axis reference, readers cannot determine the actual wage amounts represented by the vertical positions of the data points, making it impossible to interpret the scale or magnitude of player wages."
+}

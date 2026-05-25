@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart is fundamentally flawed because it's impossible to determine the actual values or scale of TB deaths shown. Without any y-axis tick marks or labels, readers cannot quantify the death counts for any country, making it impossible to understand the magnitude of the TB crisis or make meaningful comparisons between countries."
+}

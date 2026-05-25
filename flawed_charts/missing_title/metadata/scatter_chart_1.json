@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without a title, the chart provides no context about what is being visualized or why. A reader is left to infer the purpose of the scatter plot solely from the axis labels, with no guidance on the overall message or story the chart intends to convey. This is particularly confusing since the original title referenced \"by Position,\" yet no positional distinction is visible in the data, making the chart's intent even more ambiguous."
+}

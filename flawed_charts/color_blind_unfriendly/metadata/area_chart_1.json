@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "color_blind_unfriendly",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "The stacked area chart uses a color scheme that makes it nearly impossible for viewers with red-green color blindness to distinguish between the different product categories. The vermillion, green, and red colors appear as similar muddy brown tones to approximately 5% of male viewers, making it difficult to track which category contributes what portion to the quarterly sales totals."
+}

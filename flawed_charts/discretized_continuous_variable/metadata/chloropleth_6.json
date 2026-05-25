@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_6",
+  "chart_type": "chloropleth",
+  "flaw_type": "discretized_continuous_variable",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The map now groups countries into four hard-edged categories (Low, Medium, High, Very High) using bold, discrete colors instead of a smooth gradient. Two countries with nearly identical densities\u2014say 99 and 101 people per km\u00b2\u2014are painted in completely different colors (Medium vs. High), making them look dramatically dissimilar when they are in reality almost identical. The true continuous variation within each category is entirely hidden, falsely implying that all \"Medium\" countries are equally dense and sharply different from \"High\" ones."
+}

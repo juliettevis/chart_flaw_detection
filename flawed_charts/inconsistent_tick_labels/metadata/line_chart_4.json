@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick labels use a jarring mix of number formats \u2014 some show two decimal places (e.g., \"10.00\"), others use comma-separated integers (e.g., \"100\"), abbreviated thousands notation (e.g., \"1.0K\"), plain integers without separators (e.g., \"1000\"), and comma-formatted decimals (e.g., \"10,000.0\"). This inconsistency makes it difficult for readers to quickly interpret or compare values along the death rate axis, as there is no consistent visual pattern to follow."
+}

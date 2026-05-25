@@ -1,0 +1,10 @@
+{
+  "job_name": "batches/gxvvsamgicaehmlksgtuzyruyvla6zq9i3u4",
+  "submitted_at": "2026-05-03T16:20:54.908324+00:00",
+  "judge_model": "gemini-3-flash-preview",
+  "source_files": [
+    "results/gpt5/batches/batch_69f76ba431188190a5ab81ce45722fb0/results.jsonl"
+  ],
+  "total_requests": 600,
+  "output_path": "/home/juvis/Documents/thesis/dataset_evaluation/compare_results_with_ground_truth/results/gpt5/batch_69f76ba431188190a5ab81ce45722fb0/judge_results.jsonl"
+}

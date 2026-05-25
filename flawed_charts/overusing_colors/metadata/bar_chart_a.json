@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_a",
+  "chart_type": "bar_chart",
+  "flaw_type": "overusing_colors",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "Total sales for the 25 top superstore cities, each bar colored by the city's State (~20 distinct states). Color meaningfully encodes a second categorical variable, but the number of hues is so large that the reader cannot visually match a bar to its state without the legend."
+}

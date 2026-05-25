@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_scatterplot",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart inappropriately uses a scatter plot for categorical data, creating a misleading visual that suggests there's a continuous numerical relationship between countries. The connected points imply that the countries exist on some meaningful numerical scale or continuum, when in reality they are discrete categories with no inherent ordering or distance between them."
+}

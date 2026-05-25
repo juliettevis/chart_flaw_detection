@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_9",
+  "chart_type": "pie_chart",
+  "flaw_type": "misrepresentation",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The pie chart is visually misleading because the slice sizes do not correspond to the percentage labels shown on the chart. For example, the United States slice appears to take up roughly 30% of the pie despite being labeled \"13.3%,\" while the \"Rest of world\" slice appears much smaller than its \"58.2%\" label would suggest. A reader relying on the visual proportions would reach completely incorrect conclusions about the distribution of COVID-19 cases."
+}

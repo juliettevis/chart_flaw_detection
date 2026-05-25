@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_use_of_bar_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly presents the relationship between overall rating and market value as if they were discrete categories being compared, when in fact both variables are continuous. The bar encoding completely obscures the density and distribution patterns that were visible in the scatter plot, making it impossible to see how values cluster or spread at different rating levels. The vertical bars create an artificial sense of separation between adjacent ratings that doesn't reflect the continuous nature of the underlying data."
+}

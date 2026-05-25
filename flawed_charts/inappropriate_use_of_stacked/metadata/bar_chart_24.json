@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_24",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_stacked",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "Each bar in this chart is divided into 5 stacked sub-segments with arbitrary regional labels, resulting in 10 differently colored layers per country pair. The rainbow palette and sheer number of stacked segments make it virtually impossible to identify where any individual sub-group begins or ends, or to compare equivalent layers across countries. The legend is cluttered and unhelpful, and the overall chart communicates far less information than the original two-color grouped bar chart."
+}

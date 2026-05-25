@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart's y-axis extends to $300,000, crushing all the data into the bottom third of the visualization and making it nearly impossible to distinguish meaningful differences between months or regions. The excessive vertical space wastes the chart area and obscures the actual sales trends that should be the focus of the visualization."
+}

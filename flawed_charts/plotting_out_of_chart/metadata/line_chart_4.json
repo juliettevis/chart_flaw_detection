@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis is cut off at roughly 75% of the maximum data value, so the lines and markers for the oldest age groups (particularly the \"80+\" group) visually overflow beyond the top of the chart area. A reader would be unable to see the actual peak values for both Male and Female mortality rates, making it appear as though the data simply ends or that those age groups have similar rates when in fact the chart is hiding the highest values."
+}

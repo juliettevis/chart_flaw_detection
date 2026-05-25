@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart's title claims that furniture is more profitable than technology, but the data clearly shows the opposite\u2014technology profits are dramatically higher throughout the entire time period, often exceeding furniture profits by 5-10 times or more. This misleading title could cause readers to draw completely incorrect conclusions about which product category drives better financial performance."
+}

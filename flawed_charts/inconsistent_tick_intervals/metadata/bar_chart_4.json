@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick marks are placed at irregular intervals (0, 150, 500, 700, 900, 1100, 1400, 1700), creating uneven visual spacing between gridlines. This distorts the reader's perception of the relative differences between bar heights \u2014 for example, the large visual gap between 0 and 500 exaggerates small values, while the compressed spacing between 700 and 1100 makes larger differences appear smaller than they actually are."
+}

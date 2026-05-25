@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "dual_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses two different y-axes at vastly different scales: the left axis shows deaths in the hundreds of thousands (for India, Nigeria, China, South Africa), while the right axis shows Brazil's deaths in the low thousands \u2014 yet Brazil's line appears to visually track or intersect with the other countries' trends. A casual reader would likely assume all five lines share the same scale, dramatically overestimating Brazil's death toll relative to the others and perceiving a false similarity in their trajectories."
+}

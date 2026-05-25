@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The x-axis labels on this chart are completely illegible due to severe overlapping - the full quarter names like \"First Quarter of 2023\" and \"Second Quarter of 2023\" are printed horizontally without any rotation, causing them to overlap into an unreadable mess. Additionally, the x-axis title \"Quarter\" is pushed up into the tick labels, creating another layer of text collision that makes it impossible to read any of the temporal information clearly."
+}

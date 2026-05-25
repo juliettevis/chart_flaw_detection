@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_stacked",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart is practically unreadable due to the excessive number of stacked layers. With 12 different colored segments stacked on top of each other, it's impossible to track how any individual sub-category performs across regions or make meaningful comparisons. The rainbow color scheme creates visual chaos, and the thin slices of each layer make it difficult to estimate values or identify trends for any specific segment."
+}

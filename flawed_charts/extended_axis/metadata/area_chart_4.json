@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart makes it nearly impossible to discern the relative changes in TB incidence across different WHO regions over time. The excessive vertical scale compresses all the data into the bottom third of the chart, making meaningful comparisons between regions and tracking trends over time extremely difficult, effectively hiding important public health patterns in the data."
+}

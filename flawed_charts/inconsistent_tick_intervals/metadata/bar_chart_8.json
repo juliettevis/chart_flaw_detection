@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_8",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The irregular spacing of the y-axis tick marks creates a distorted visual representation of the data distribution. The uneven intervals make it difficult to accurately gauge the relative heights of the bars and can lead viewers to misjudge the proportional differences between categories, potentially exaggerating or minimizing certain patterns in the sales distribution."
+}

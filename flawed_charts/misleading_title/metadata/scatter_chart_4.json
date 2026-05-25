@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_4",
+  "chart_type": "scatter_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart clearly shows a positive correlation between TB prevalence and mortality rates across countries, yet the title incorrectly claims that mortality decreases as prevalence increases. This misleading title could lead readers to believe that countries with higher TB prevalence somehow have better survival rates, which contradicts the actual data pattern shown in the scatter plot."
+}

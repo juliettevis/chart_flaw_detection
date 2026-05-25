@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly exaggerates the changes in TB incidence over time by starting the y-axis at 5.5 million instead of zero. The visual differences between years appear much more dramatic than they actually are, making relatively modest fluctuations in case numbers look like significant peaks and valleys. This truncated axis distorts the true proportions of the data and could lead viewers to overestimate both the growth and decline patterns in tuberculosis cases."
+}

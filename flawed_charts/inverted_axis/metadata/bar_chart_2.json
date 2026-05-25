@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly presents order counts with an inverted y-axis, making regions with fewer orders appear taller than those with more orders. The unconventional axis direction contradicts standard data visualization practices where values increase upward, potentially causing viewers to misinterpret which regions have higher order volumes at a glance."
+}

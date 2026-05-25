@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_6",
+  "chart_type": "scatter_chart",
+  "flaw_type": "trend_line_on_random_data",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart now displays a bold red regression line suggesting a meaningful upward trend between population density and homicide rates. However, the underlying data is extremely noisy with massive scatter and numerous outliers, meaning the trend line grossly misrepresents the actual (very weak) relationship. Without any R\u00b2 value or confidence interval, readers are likely to interpret the line as evidence of a strong, reliable pattern that simply does not exist."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_6",
+  "chart_type": "chloropleth",
+  "flaw_type": "missing_normalization",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart claims to show \"Population Density by Country\" with a legend labeled \"Population density per km\u00b2,\" but it actually displays total population in millions rather than population per unit area. This makes large countries like China and India appear to dominate the map simply because they have more people, not because they are more densely populated, rendering the cross-country comparison misleading \u2014 small but genuinely dense countries like Bangladesh or the Netherlands are visually indistinguishable from sparsely populated small nations."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_9",
+  "chart_type": "bar_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart clearly shows that the vast majority of countries (nearly 100 out of approximately 180) have TB prevalence rates below 50 per 100,000 population, yet the title claims most countries have high rates above 400 per 100,000. This fundamentally misrepresents the distribution, which is heavily right-skewed with most countries clustered at low prevalence values."
+}

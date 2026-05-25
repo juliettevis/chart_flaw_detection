@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "missing_axis",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis has been completely removed from the chart, including the axis line, tick marks, tick labels, and the \"Sales ($)\" label. Readers have no way to determine the actual dollar values represented by the lines, making it impossible to interpret the magnitude of sales figures or compare values accurately across months or categories."
+}

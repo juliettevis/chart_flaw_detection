@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_22",
+  "chart_type": "bar_chart",
+  "flaw_type": "overplotting",
+  "flaw_category": "Hidden Information",
+  "flaw_stage": "Interpretation",
+  "description": "The chart is overwhelmed with 50 spending categories on the x-axis and 15 individual candidates each shown as separate narrow bars, making it nearly impossible to distinguish any individual bar or read the category labels. The legend lists every candidate and competes for space, while the grouped bars are so thin they blur into indistinguishable slivers, rendering the chart effectively unreadable."
+}

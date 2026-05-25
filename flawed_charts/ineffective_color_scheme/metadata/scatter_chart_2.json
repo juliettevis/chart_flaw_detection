@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "ineffective_color_scheme",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The use of bright, unrelated categorical colors for age groups in this scatter plot destroys the natural sequential relationship between ages. The jarring color changes between adjacent ages make it impossible to see the gradual progression of how sprint speed changes with age, and the visual discontinuity misleadingly suggests that ages are independent categories rather than a continuous variable."
+}

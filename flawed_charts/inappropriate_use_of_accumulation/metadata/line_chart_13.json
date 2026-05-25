@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_13",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_use_of_accumulation",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart displays cumulative sums of annual renewable electricity percentages rather than the actual yearly values, making it appear as though Spain's renewable share has grown monotonically to over 400% \u2014 an impossibly high figure for a percentage-of-total metric. This completely hides any year-to-year fluctuations or periods of stagnation/decline (such as the dips visible around 2015\u20132018 in the original data) and grossly exaggerates the apparent trend."
+}

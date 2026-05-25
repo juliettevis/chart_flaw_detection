@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart shows that TB incidence remained relatively stable or even increased slightly between 1990 and 2013, with total cases hovering around 8-9 million throughout the period. However, the title falsely claims a decline across all regions since 2005, which contradicts the actual data showing sustained high levels of TB incidence globally."
+}

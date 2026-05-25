@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_22",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_stacked",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart now stacks 10 different sub-group layers on top of each other in a single bar per category, making it virtually impossible to compare any individual sub-group (e.g., \"Rep-Cruz\" or \"Dem-Sanders\") across the five spending categories. The rainbow color palette with 10 distinct hues creates visual noise, and because the layers are stacked rather than grouped, readers cannot meaningfully assess differences between Democrats and Republicans or track any single sub-series across the x-axis."
+}

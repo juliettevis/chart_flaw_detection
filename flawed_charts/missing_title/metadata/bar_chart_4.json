@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without a title, the chart provides no context about what data is being shown or why. A reader is left to guess the purpose of the visualization \u2014 whether it's about FIFA players, general population statistics, or something else entirely \u2014 relying solely on the axis labels, which don't fully convey the intent or scope of the data."
+}

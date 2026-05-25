@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_f",
+  "chart_type": "pie_chart",
+  "flaw_type": "inconsistent_grouping",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "Superstore sales are broken down to individual city level for the top-5 California cities (Los Angeles, San Francisco, San Diego, Anaheim, Fresno) but collapsed to a single regional total for Central, East, South, and West (excluding California). The pie mixes city-level granularity with region-level aggregates."
+}

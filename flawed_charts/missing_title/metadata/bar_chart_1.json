@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without a title, readers are left guessing about what this bar chart represents\u2014they can see sales data by sub-categories, but have no context about whether these are the top performers, what time period is covered, or what specific metric is being shown. The lack of a descriptive title forces viewers to piece together the chart's purpose from the axis labels alone, which significantly reduces the chart's ability to communicate its key message effectively."
+}

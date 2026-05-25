@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "3d",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart uses a simulated 3D perspective effect by adding artificial side and top faces to each bar, making them appear as solid 3D blocks. This perspective distortion causes smaller bars to appear visually larger relative to taller bars, since the 3D depth offset (proportional to the bar value) creates misleading visual weight differences. Readers may misjudge the relative magnitudes of the bars because the added faces distort the visual area occupied by each bar. [NOTE: Generated code failed to execute]"
+}

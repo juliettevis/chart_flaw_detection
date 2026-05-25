@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_a",
+  "chart_type": "scatter_chart",
+  "flaw_type": "data_of_different_magnitudes",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "For the top 50 FIFA 18 players, Wage (~\u20ac10\u2075) and Market Value (~\u20ac10\u2078) are plotted on a single linear y-axis (formatted in $M). The wage series collapses onto the x-axis while market value dominates the plot."
+}

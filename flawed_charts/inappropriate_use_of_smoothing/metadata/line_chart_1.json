@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_use_of_smoothing",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The smooth cubic spline curves connecting the monthly data points create the illusion of continuous trends and intermediate values that were never actually measured, including false peaks and valleys between real data points. For example, the smooth curve may suggest mid-month dips or surges in sales that have no basis in the underlying data. While the original markers remain visible, the flowing lines between them imply a level of data density and precision that simply does not exist."
+}

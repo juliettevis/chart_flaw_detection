@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "3d",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The 3D perspective distortion makes it extremely difficult to accurately compare the heights of bars that are positioned at different depths. Bars in the foreground appear taller than those in the background even when they represent similar values, making it nearly impossible to determine whether September actually had more orders than November or December."
+}

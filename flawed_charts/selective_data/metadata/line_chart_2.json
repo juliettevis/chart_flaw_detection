@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "selective_data",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "The chart's title claims to show quarterly profit from 2023\u20132026 but only displays data from Q2 2024 through Q1 2026\u2014a period where Technology profit shows a dramatic rise from ~$6,000 to ~$16,000 and then a sharp drop, while Furniture appears relatively flat and low. This cherry-picked window omits the earlier quarters (Q1 2023\u2013Q1 2024) where the two categories were much closer in profit and Technology's growth was less dramatic, as well as the later quarters (Q2 2026\u2013Q4 2026) where Technology surges to nearly $19,000, making the selected endpoint look like a decline rather than a temporary dip."
+}

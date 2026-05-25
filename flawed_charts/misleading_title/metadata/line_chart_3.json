@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "This chart clearly shows India with the highest TB death toll throughout the period, rising from around 330,000 to over 420,000 deaths before declining to about 240,000 by 2013. The title misleadingly claims China as the leader in TB reduction success, when China actually shows the second-highest death count and a much slower rate of decline compared to India's dramatic reduction after 2003."
+}

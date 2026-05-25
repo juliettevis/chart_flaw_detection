@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_11",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_binning_size",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The histogram uses wildly inconsistent bin widths \u2014 some bins span just 1 unit (e.g., 0\u20131, 1\u20132) while others span 5, 15, or even 15 units (e.g., 5\u201310, 10\u201325, 25\u201340) \u2014 yet all bars are displayed at equal visual widths. This makes the wider bins appear comparable to narrow bins even though they cover far more range, inflating the apparent count for mid-to-high emission ranges and disguising the true shape of the distribution."
+}

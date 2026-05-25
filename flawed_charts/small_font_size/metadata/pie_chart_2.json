@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_2",
+  "chart_type": "pie_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The text in this pie chart is virtually unreadable due to the microscopic font sizes, making it impossible for viewers to discern the title, legend labels, or percentage values without extreme magnification. This renders the chart effectively useless for its intended purpose of communicating the distribution of orders by shipping method, as the critical textual information is too small to be legible at normal viewing distances."
+}

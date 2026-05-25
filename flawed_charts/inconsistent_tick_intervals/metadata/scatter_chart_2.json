@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick marks are placed at highly irregular intervals (0, 5, 25, 45, 60, 70, 85, 100), meaning the visual distance between ticks does not correspond to equal numerical differences. This distorts the reader's perception of data density and distribution \u2014 for instance, the large gap between 0 and 25 appears the same size as the gap between 60 and 70, even though the former spans five times the range."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_21",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_scatterplot",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The scatter plot format falsely implies a continuous numeric relationship between the country categories on the x-axis, as if there is a meaningful trend or correlation as you move from one country to the next. The ordering of countries is essentially arbitrary (sorted by value), yet the connected visual space between points suggests interpolation or a progression that doesn't exist. This chart type is wholly inappropriate for comparing discrete, unrelated national categories."
+}

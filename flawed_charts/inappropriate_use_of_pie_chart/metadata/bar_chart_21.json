@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_21",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_pie_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The pie chart only displays 6 of the 15 countries, but each slice's percentage is calculated relative to the total of all 15 countries \u2014 so the displayed percentages sum to only about 40% instead of 100%, leaving readers to wonder where the remaining ~60% went. Additionally, a pie chart is fundamentally inappropriate here because these are independent percentage values (each country's share of parliamentary seats), not parts of a single whole \u2014 the countries' values do not sum to any meaningful total. This misrepresents the data as if the six countries collectively account for only a fraction of some shared pool. [NOTE: Generated code failed to execute]"
+}

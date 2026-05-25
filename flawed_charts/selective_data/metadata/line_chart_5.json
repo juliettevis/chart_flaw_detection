@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_5",
+  "chart_type": "line_chart",
+  "flaw_type": "selective_data",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "The chart only shows data from 2015 to 2021, a period where Belgium's renewable electricity share fluctuates between roughly 16% and 26% with notable dips (e.g., dropping from ~20% in 2015 to ~16% in 2016, and from ~26% in 2020 to ~22% in 2021), suggesting stagnation or instability. However, the title still claims to cover 1990\u20132021, hiding the dramatic long-term growth story from near 0% in the 1990s to over 20% \u2014 making Belgium's impressive renewable energy expansion appear much less significant than it actually was."
+}

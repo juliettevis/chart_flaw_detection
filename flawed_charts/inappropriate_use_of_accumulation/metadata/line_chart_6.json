@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_6",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_use_of_accumulation",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart claims to show \"Daily New COVID-19 Cases\" but actually displays cumulative totals, producing a monotonically increasing curve that completely hides the significant decline in daily cases that occurred after the November 2020 peak. A reader would incorrectly conclude that the situation in Italy was continuously worsening throughout the entire year without any periods of decline."
+}

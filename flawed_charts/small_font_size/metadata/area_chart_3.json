@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_3",
+  "chart_type": "area_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The title, axis labels, tick labels, and legend text are all rendered at extremely small font sizes (3\u20135pt), making them nearly impossible to read against the large chart area. A reader would struggle to identify what the axes represent, what units are being used, and which colored area corresponds to which position group. The chart's visual elements remain full-sized, creating a jarring imbalance that renders the text essentially illegible."
+}

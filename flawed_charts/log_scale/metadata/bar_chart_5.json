@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis uses a logarithmic scale, which compresses the enormous differences between regions and makes the bars appear far more similar in height than they actually are. A reader unfamiliar with log scales would likely underestimate how dramatically South-East Asia and Africa dwarf the Americas and Europe in TB deaths. The large gap between ~430,000 deaths and ~17,000 deaths is visually minimized, obscuring the true magnitude of the disparity."
+}

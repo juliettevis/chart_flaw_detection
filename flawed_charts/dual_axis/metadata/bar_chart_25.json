@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_25",
+  "chart_type": "bar_chart",
+  "flaw_type": "dual_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses two different y-axis scales for the three bar groups: \"Furnished\" and \"Semi-furnished\" bars are plotted on the left axis (starting at \u20ac0), while the \"Unfurnished\" bars use a right axis that starts at \u20ac2.0M and has a compressed range. This makes the \"Unfurnished\" bars appear visually comparable in height to the others, falsely suggesting the price gap between furnishing statuses is much smaller than it actually is \u2014 a reader glancing at bar heights alone would severely underestimate how much cheaper unfurnished homes are."
+}

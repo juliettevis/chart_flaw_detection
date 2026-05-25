@@ -1,0 +1,48 @@
+import argparse
+import sys
+import os
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import matplotlib.ticker as mticker
+
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..', '..', '..', 'base_charts'))
+from chart_utils import PALETTE_WONG
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--output_path", required=True)
+args = parser.parse_args()
+
+data_path = os.path.join(os.path.dirname(__file__), '..', '..', '..', '..', '..', 'data', 'superstore.csv')
+df = pd.read_csv(data_path, parse_dates=["Order Date"], dayfirst=True)
+
+df = df[df["Order Date"].dt.year == 2025]
+df["YearMonth"] = df["Order Date"].dt.to_period("M")
+regions = ["West", "East", "Central", "South"]
+pivot = df.groupby(["YearMonth", "Region"])["Sales"].sum().unstack()
+pivot = pivot.reindex(columns=regions).fillna(0)
+dates = pivot.index.to_timestamp()
+
+fig, ax = plt.subplots(figsize=(10, 6))
+ax.stackplot(dates, [pivot[r] for r in regions], labels=regions, colors=PALETTE_WONG[1:len(regions) + 1])
+
+ax.set_title("Monthly Sales by Region (Stacked, 2025)", fontsize=14, fontweight="bold", pad=12)
+ax.set_xlabel("Month", fontsize=12)
+ax.set_ylabel("Sales ($)", fontsize=12)
+ax.tick_params(axis="both", labelsize=10)
+ax.set_xlim(dates[0] - pd.Timedelta(days=15), dates[-1] + pd.Timedelta(days=15))
+ax.xaxis.set_major_locator(mdates.MonthLocator())
+ax.xaxis.set_major_formatter(mdates.DateFormatter("%b"))
+ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"${x:,.0f}"))
+
+ax.set_yticks([0, 8000, 25000, 45000, 60000, 75000, 85000, 100000])
+
+ax.legend(loc="upper left", fontsize=10)
+
+ax.spines["top"].set_visible(False)
+ax.spines["right"].set_visible(False)
+
+plt.xticks(rotation=45, ha="right")
+plt.tight_layout()
+plt.savefig(args.output_path, dpi=300)
+plt.close()

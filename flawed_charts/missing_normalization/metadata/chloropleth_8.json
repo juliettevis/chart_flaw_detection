@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_8",
+  "chart_type": "chloropleth",
+  "flaw_type": "missing_normalization",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This chart misleadingly compares countries by the absolute number of women parliamentarians rather than the percentage of seats held by women. Countries with very large parliaments like China appear to lead in women's representation simply because they have thousands of total seats, while small countries with genuinely high female representation rates (like Rwanda at ~60%) are visually diminished. The title still implies a fair cross-country comparison, but the raw counts make the map essentially a proxy for parliament size rather than gender equity."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_line_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The line chart inappropriately suggests a trend or relationship between countries when none exists\u2014the declining line implies that TB prevalence somehow flows or transitions from Swaziland through to Mozambique, when these are actually independent data points representing different nations. This visualization misleads viewers into seeing patterns or progressions across unrelated categorical data, potentially causing them to draw false conclusions about geographical or alphabetical relationships in disease prevalence."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "indistinguishable_colors",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart is nearly impossible to interpret because all five countries are displayed using almost identical shades of purple. Readers cannot distinguish between India, Nigeria, China, South Africa, and Brazil, making it impossible to track which country's TB death trends they are examining or compare patterns between nations."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_use_of_smoothing",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "This chart misleadingly suggests continuous profit trends between quarters by using smooth curves that imply the existence of intermediate values. The smoothing creates artificial peaks and valleys that don't represent actual quarterly data, making it appear as though there were gradual transitions and sub-quarterly fluctuations in profit when in reality only discrete quarterly measurements exist."
+}

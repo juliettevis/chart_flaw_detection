@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_2",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_legend",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This pie chart shows the distribution of orders by shipping method, but without a legend, viewers have no way to identify which color represents which shipping option. The percentages alone don't provide enough context to understand whether the dominant 60% segment represents Standard Class, Priority, or any other shipping method, making the visualization essentially meaningless despite showing clear proportions."
+}

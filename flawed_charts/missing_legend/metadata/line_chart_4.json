@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "missing_legend",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The chart displays two lines in different colors (blue and red-orange) but provides no legend or labels to identify which line represents males and which represents females. A reader has no way to determine which color corresponds to which sex, making it impossible to interpret the gender-based differences in mortality rates shown in the visualization."
+}

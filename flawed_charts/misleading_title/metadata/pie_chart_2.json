@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_2",
+  "chart_type": "pie_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart's title claims that Same Day Delivery dominates order preferences, but the data clearly shows that Same Day shipping accounts for only 5.2% of orders\u2014the smallest slice of the pie. This misleading title completely misrepresents the actual distribution where Standard Class shipping is overwhelmingly preferred at 60% of all orders."
+}

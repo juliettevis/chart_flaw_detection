@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_6",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_use_of_bar_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart treats population density \u2014 a continuous numeric variable \u2014 as if it were a set of discrete categories, with each country represented as a separate bar. This encoding makes it impossible to see any trend or relationship between density and homicide rate, instead giving the false impression of a comparison between isolated, unordered items. The dense forest of narrow bars obscures the underlying continuous distribution and misleads readers into thinking the x-axis represents categorical groups rather than a numeric scale."
+}

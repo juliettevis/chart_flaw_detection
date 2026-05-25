@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The logarithmic scale severely compresses the wage differences, making it appear that there's much less variation in player salaries than actually exists. The vast majority of players earning between \u20ac1,000-\u20ac50,000 now appear bunched together near the bottom, while the enormous gap between average players and superstars earning \u20ac500,000+ is visually minimized, creating a false impression of wage equality across ages."
+}

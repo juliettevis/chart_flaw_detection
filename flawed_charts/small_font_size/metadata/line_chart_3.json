@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart is nearly impossible to read due to the extremely small text size. The title, axis labels, tick values, and legend are all so tiny that viewers would struggle to understand what data is being presented or interpret the specific values on the axes, making the visualization essentially useless despite the data lines themselves being clearly visible."
+}

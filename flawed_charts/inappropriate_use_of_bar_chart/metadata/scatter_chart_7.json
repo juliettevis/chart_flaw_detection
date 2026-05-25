@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_7",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_use_of_bar_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses a bar chart to display two continuous numeric variables, which implies that each x-value is a discrete category being compared rather than a point along a continuous scale. This encoding completely obscures the underlying relationship between renewable electricity share and CO\u2082 emissions, making it impossible to perceive any trend or correlation. Readers are misled into thinking they are viewing a comparison of separate items rather than a numeric relationship between two quantitative variables."
+}

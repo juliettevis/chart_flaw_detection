@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis extends to \u20ac375M, roughly three times the actual maximum data value of ~\u20ac125M, causing all data points to be compressed into the bottom third of the chart. This makes the variation in player market values across different overall ratings nearly invisible, obscuring meaningful differences that are clearly visible in the original chart."
+}

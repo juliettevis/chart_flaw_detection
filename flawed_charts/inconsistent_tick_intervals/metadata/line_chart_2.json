@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The inconsistent spacing between y-axis tick marks creates a visual distortion that misleads viewers about the relative magnitude of profit changes. The compressed spacing in the middle range ($5,000 to $12,500) and expanded spacing at the extremes make moderate profit variations appear less significant than they actually are, while exaggerating differences at lower and higher values."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "indistinguishable_colors",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The three stacked areas \u2014 Technology, Office Supplies, and Furniture \u2014 are rendered in nearly identical shades of vermillion/orange-red, making it virtually impossible to distinguish one category from another without extensive scrutiny. A reader trying to understand the relative contribution of each category would struggle to identify where one band ends and another begins, undermining the entire purpose of the stacked area chart."
+}

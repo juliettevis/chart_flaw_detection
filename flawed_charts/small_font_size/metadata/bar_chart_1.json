@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "All text elements in this chart \u2014 including the title, axis labels, and tick labels \u2014 are rendered at extremely tiny font sizes (3\u20135pt), making them virtually unreadable against the large, full-sized chart area. A reader would struggle to identify the chart's subject, understand what the axes represent, or read any of the category names and numerical values, despite the bars themselves being clearly visible."
+}

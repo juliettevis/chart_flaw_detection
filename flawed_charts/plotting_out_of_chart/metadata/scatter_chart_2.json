@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart misleadingly truncates the y-axis at 75, causing all the fastest players with sprint speeds above that threshold to appear cut off at the same level. This visualization completely obscures the true distribution of elite sprint speeds and makes it impossible to identify who the actual fastest players are or understand the full range of athletic performance in the dataset."
+}

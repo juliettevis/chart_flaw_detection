@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_4",
+  "chart_type": "scatter_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This scatter plot severely compresses the data into the bottom third of the chart by extending the y-axis to 300 when the maximum mortality rate is only around 100. This makes it nearly impossible to discern meaningful differences in mortality rates between countries, obscuring important patterns and relationships in the TB data that could inform public health decisions."
+}

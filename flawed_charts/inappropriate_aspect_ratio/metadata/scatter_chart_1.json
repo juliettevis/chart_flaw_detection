@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_aspect_ratio",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart has been severely compressed horizontally, squashing 15 rating categories (80\u201394) into a very narrow width. This makes the horizontal spread of data appear almost nonexistent, dramatically exaggerating the apparent steepness of the relationship between overall rating and market value \u2014 what is actually a gradual upward trend looks like an almost vertical climb."
+}

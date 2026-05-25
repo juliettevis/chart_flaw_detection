@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_line_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The line chart misleadingly suggests a continuous relationship or trend between WHO regions, implying that there is some meaningful progression from South-East Asia through to the Americas. This visualization incorrectly treats discrete, geographically distinct regions as if they exist on a continuum, when in reality each region represents an independent category with no inherent ordering or connection between them."
+}

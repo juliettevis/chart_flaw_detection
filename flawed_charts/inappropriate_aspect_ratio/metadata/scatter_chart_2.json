@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_aspect_ratio",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart has been squeezed into a very narrow width while retaining the same height, causing the horizontal age axis to be dramatically compressed. This distortion makes the vertical spread of sprint speeds appear far more dramatic relative to the age range, and any subtle declining trend in sprint speed with age would appear misleadingly steep. Viewers would likely overestimate how sharply sprint speed changes across the age range."
+}

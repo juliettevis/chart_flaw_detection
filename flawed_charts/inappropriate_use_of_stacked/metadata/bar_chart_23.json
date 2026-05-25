@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_23",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_stacked",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart now stacks 12 color-coded layers on top of each other, making it virtually impossible to compare any individual age sub-group across countries. The rainbow palette and sheer number of stacked segments create a visually overwhelming display where only the total bar height (always ~100%) is readable, while every meaningful comparison between sub-groups is lost."
+}

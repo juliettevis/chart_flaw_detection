@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_4",
+  "chart_type": "pie_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The chart title is now so long that it wraps and overlaps with the pie chart itself, making both the title and the top portion of the visualization completely illegible. This creates a confusing mess where readers cannot properly read the chart's purpose or see the data clearly in the overlapped region."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_3",
+  "chart_type": "area_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick labels use an inconsistent mix of formats, switching between plain numbers (0), comma-separated thousands (200), decimal notation (400.0), and abbreviated formats with both lowercase and uppercase 'k' (0.6k, 0.8K). This inconsistent formatting makes it harder to quickly scan and compare values on the chart, as readers must mentally convert between different number representations."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart uses a logarithmic scale on the y-axis for sales data, which severely compresses the visual differences between categories. The dramatic 2x difference between Chairs (~$335,000) and Copiers (~$150,000) appears much smaller on the log scale, making it difficult for readers to grasp the true magnitude of sales variations across product categories."
+}

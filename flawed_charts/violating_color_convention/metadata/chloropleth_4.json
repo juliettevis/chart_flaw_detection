@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_4",
+  "chart_type": "chloropleth",
+  "flaw_type": "violating_color_convention",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The chart uses a green color scale for homicide rates, where darker green indicates higher rates of intentional homicide. This violates color conventions because green is universally associated with safety, positivity, and low danger \u2014 making countries with the highest murder rates appear \"safe\" or \"good\" at a glance, while countries with low rates appear in pale/neutral tones. A red scale (as in the original) would correctly signal danger for higher values."
+}

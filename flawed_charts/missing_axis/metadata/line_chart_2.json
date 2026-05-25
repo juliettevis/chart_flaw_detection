@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "missing_axis",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis is entirely absent from the chart \u2014 there are no tick marks, tick labels, or axis line on the left side, making it impossible to determine the actual profit values for any data point. Readers can see the lines going up and down but have no way to quantify the magnitudes or compare specific values between Furniture and Technology categories."
+}

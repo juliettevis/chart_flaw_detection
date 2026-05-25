@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without a title, viewers are left to guess what this bar chart represents. While the axis labels provide some context, the lack of a descriptive title makes it unclear what specific metric is being tracked, what time period is being analyzed, or what key insight the visualization aims to communicate."
+}

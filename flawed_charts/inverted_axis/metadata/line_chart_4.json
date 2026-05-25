@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis has been inverted so that higher death rates appear at the bottom and lower death rates at the top, which is the opposite of conventional chart orientation. This is particularly misleading because the lines now appear to trend downward as age increases, suggesting mortality decreases with age \u2014 the exact opposite of the true pattern. A reader unfamiliar with the data might incorrectly conclude that older age groups have lower mortality rates."
+}

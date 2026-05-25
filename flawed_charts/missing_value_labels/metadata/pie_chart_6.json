@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_6",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_value_labels",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The pie chart no longer displays any percentage labels on the slices, making it impossible for readers to determine the exact proportion each party represents. Without any numeric annotations, viewers can only make rough visual estimates of the nearly equal split between Democrats and Republicans, leaving the comparison ambiguous and potentially misleading."
+}

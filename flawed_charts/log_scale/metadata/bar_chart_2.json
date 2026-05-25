@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis uses a logarithmic scale instead of the expected linear scale, which compresses the visual differences between bars and makes the data appear far more uniform than it actually is. For example, the gap between ~130 orders (South, Home Office) and ~840 orders (West, Consumer) looks much smaller than it truly is. Readers unfamiliar with log scales will likely underestimate the real magnitude of the differences across regions and segments."
+}

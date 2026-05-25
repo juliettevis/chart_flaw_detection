@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_3",
+  "chart_type": "area_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Both the x-axis and y-axis labels have been removed, leaving readers without any indication of what the horizontal axis (numbers 18\u201340) or the vertical axis (numbers up to ~1500) actually represent. Without these labels, a viewer unfamiliar with the data cannot determine that the x-axis shows player ages or that the y-axis counts the number of players, making the chart ambiguous and harder to interpret correctly."
+}

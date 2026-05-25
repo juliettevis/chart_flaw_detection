@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_3",
+  "chart_type": "area_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart presents the number of players decreasing as it goes up the y-axis, which is counterintuitive and misleading. Readers naturally expect values to increase upward, making it difficult to quickly interpret that the peak around age 25 actually represents the highest number of players, not the lowest as the visual height suggests."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_a",
+  "chart_type": "bar_chart",
+  "flaw_type": "data_of_different_magnitudes",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "Superstore Sales and Profit are grouped bar-by-bar per sub-category. Sales are in the $10\u2074\u2013$10\u2075 range while Profit is often an order of magnitude smaller (and sometimes negative), so the profit bars visually collapse to near-invisible stubs against the sales bars."
+}

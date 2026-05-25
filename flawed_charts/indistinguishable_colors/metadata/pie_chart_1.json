@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_1",
+  "chart_type": "pie_chart",
+  "flaw_type": "indistinguishable_colors",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "All three pie slices now use nearly identical shades of pink/mauve, making it extremely difficult for a reader to distinguish which slice corresponds to Technology, Furniture, or Office Supplies without relying solely on the legend. The subtle differences in hue and lightness between the segments are so minimal that the categories effectively blend together visually, undermining the chart's ability to communicate meaningful distinctions across product categories."
+}

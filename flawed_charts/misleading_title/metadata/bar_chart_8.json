@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_8",
+  "chart_type": "bar_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart clearly shows that the vast majority of orders are concentrated in the lower sales ranges (under $250), with the frequency decreasing dramatically as sales values increase. However, the title misleadingly claims that most orders demonstrate strong high-value sales performance above $1,000, which is the complete opposite of what the data actually reveals."
+}

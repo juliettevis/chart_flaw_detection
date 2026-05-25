@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick marks are placed at highly irregular intervals (e.g., 3,000, then 5,000, then 3,000, then 4,000, then 2,000 gaps), making the gridlines appear unevenly spaced. This distorts the visual perception of the data \u2014 slopes and distances between data points look compressed or stretched depending on which interval they fall in, misleading the reader about the actual rate of change in sales."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_9",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without axis labels, viewers cannot determine what the histogram represents or what units are being measured. The x-axis numbers could be anything from cases to percentages to rates, and the y-axis is equally ambiguous\u2014it's unclear whether these are counts, frequencies, or some other metric. This fundamental lack of context makes the chart nearly impossible to interpret correctly."
+}

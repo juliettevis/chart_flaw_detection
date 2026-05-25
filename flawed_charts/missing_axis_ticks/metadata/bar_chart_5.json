@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart is impossible to interpret quantitatively because the y-axis lacks any tick marks or labels, making it impossible to determine the actual death counts for each region. While the relative heights of the bars show which regions have more deaths, readers cannot extract any specific numerical information about the magnitude of TB deaths, severely limiting the chart's usefulness for data analysis or decision-making."
+}

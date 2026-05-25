@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_8",
+  "chart_type": "chloropleth",
+  "flaw_type": "discretized_continuous_variable",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart artificially groups countries into four discrete color categories, making countries with very similar representation rates (e.g., 24.9% vs. 25.1%) appear drastically different in color. This discretization hides the true continuous variation in the data \u2014 for instance, a country with 15.1% looks identical to one with 24.9%, while appearing completely different from a country at 25.1%, despite the latter two being nearly indistinguishable in reality. The abrupt color jumps at category boundaries create a misleading impression of large gaps in parliamentary representation where none truly exist."
+}

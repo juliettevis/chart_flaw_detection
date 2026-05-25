@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_5",
+  "chart_type": "chloropleth",
+  "flaw_type": "missing_normalization",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The map displays total absolute COVID-19 deaths by country without normalizing for population size, which makes large, populous countries like the United States, Brazil, and India appear disproportionately worse simply because they have more people. This misleads readers into thinking these countries had the worst pandemic outcomes when smaller countries with higher per-capita death rates are visually minimized, rendering the cross-country comparison meaningless."
+}

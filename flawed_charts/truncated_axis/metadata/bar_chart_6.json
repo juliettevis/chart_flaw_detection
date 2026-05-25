@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleads readers by starting the y-axis at 400 rather than zero, which artificially amplifies the perceived differences between countries. The gap between Swaziland (945) and Mozambique (559) appears much more dramatic than it actually is, making it seem like Swaziland has several times more TB prevalence when it's actually less than twice as much."
+}

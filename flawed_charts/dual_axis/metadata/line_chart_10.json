@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_10",
+  "chart_type": "line_chart",
+  "flaw_type": "dual_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "France's line visually appears to rise and track alongside Germany, Spain, and the other countries, suggesting it has experienced similar growth in renewable electricity. However, France's values (reaching only ~12%) are plotted on a compressed secondary axis (capped at 16%), making it look as though France is performing comparably to countries that have actually reached 25\u201340% \u2014 a misleading false correlation that a casual reader would likely miss entirely."
+}

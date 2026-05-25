@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_1",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_legend",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This pie chart displays percentage values for three different segments, but without a legend, it's impossible to determine what each colored segment represents. The reader can see that one segment accounts for 36.1% of sales, another for 32.4%, and the third for 31.5%, but has no way of knowing whether these correspond to Technology, Furniture, or Office Supplies categories."
+}

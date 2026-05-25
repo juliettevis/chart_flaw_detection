@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_3",
+  "chart_type": "pie_chart",
+  "flaw_type": "color_blind_unfriendly",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "This pie chart uses a red-green color scheme that makes it extremely difficult for viewers with deuteranopia (red-green color blindness) to distinguish between different position groups. The alternating red and green segments would appear as similar brownish tones to approximately 5% of male viewers, making it impossible to interpret which slice represents which player position without relying entirely on the legend."
+}

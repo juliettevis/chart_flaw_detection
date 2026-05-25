@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_4",
+  "chart_type": "pie_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "This chart is misleading because it claims that the Americas and Europe lead in global TB mortality, when in fact these regions have the smallest shares of TB deaths (1.6% and 3.5% respectively). The data clearly shows that South-East Asia and Africa account for the vast majority of TB deaths, making the title a complete misrepresentation of the actual distribution."
+}

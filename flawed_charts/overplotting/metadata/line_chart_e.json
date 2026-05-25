@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_e",
+  "chart_type": "line_chart",
+  "flaw_type": "overplotting",
+  "flaw_category": "Hidden Information",
+  "flaw_stage": "Interpretation",
+  "description": "A separate faint line for every country (~200) showing CO₂ emissions per capita over time. With no legend and so many overlapping trajectories, individual country trends are impossible to follow and only a handful of high-emitter lines stand out above the dense cloud."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "indistinguishable_colors",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "Both the \"Male\" and \"Female\" lines are rendered in nearly identical shades of pink/mauve, making it extremely difficult for a reader to distinguish which line represents which sex. Without clear color differentiation, a viewer must rely almost entirely on the legend and markers to tell the categories apart, and even then the similarity of the hues creates persistent confusion about which line is which throughout the chart."
+}

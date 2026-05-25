@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_13",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_binning_size",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The histogram uses inconsistent bin widths \u2014 some bins span only 3 percentage points (e.g., 0-3, 3-6) while others span 10 or even 25 percentage points (e.g., 25-40, 40-65) \u2014 yet all bars are displayed with equal visual width, making the wider bins appear disproportionately tall simply because they capture more data points across a larger range. This misleads readers into thinking that the 25-40% range has a dramatically higher concentration of countries, when in reality the count is inflated by the bin covering 15 percentage points compared to the narrow 3-point bins at the low end."
+}

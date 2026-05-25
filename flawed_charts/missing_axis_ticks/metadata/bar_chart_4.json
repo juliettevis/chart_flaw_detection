@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis has no tick marks or numeric labels, making it impossible to read exact values from the bar heights without relying solely on the bar labels above each bar. Readers cannot use the axis as a reference scale to estimate or compare values visually, which undermines a fundamental purpose of the y-axis."
+}

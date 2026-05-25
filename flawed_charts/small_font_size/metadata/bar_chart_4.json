@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The text throughout this chart \u2014 including the title, axis labels, tick labels, and bar value annotations \u2014 is rendered at an extremely tiny font size, making it nearly impossible to read without significant magnification. The large chart area with full-sized bars creates a stark contrast against the microscopic text, leaving viewers unable to identify the nationalities on the x-axis, understand what the axes represent, or read the data values displayed above the bars."
+}

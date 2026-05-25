@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_a",
+  "chart_type": "area_chart",
+  "flaw_type": "data_of_different_magnitudes",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "USA monthly COVID-19 new cases and new deaths are drawn as overlapping filled areas on a single linear y-axis. Cases peak in the tens of millions while deaths stay in the low hundreds of thousands, so the deaths series flattens against the x-axis and its monthly trend is invisible."
+}

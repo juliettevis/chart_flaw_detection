@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_12",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_binning_size",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The histogram uses drastically unequal bin widths \u2014 some bins span just 1 unit (e.g., 0-1, 1-2) while the last bin spans 40 units (10-50) \u2014 yet all bars are displayed at equal visual widths. This makes the \"10-50\" bin appear comparable in height to narrower bins, masking the fact that it covers a range 40 times wider; a reader would incorrectly perceive the distribution as more uniform than it actually is, since the wide bins artificially concentrate sparse high-value data into visually prominent bars."
+}

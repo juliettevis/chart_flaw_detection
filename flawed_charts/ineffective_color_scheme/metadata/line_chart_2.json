@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "ineffective_color_scheme",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The use of bright, unrelated categorical colors on a time series completely destroys the visual continuity of the trends, making it nearly impossible to track how each category's profit evolves over time. The rainbow of colors creates visual chaos that obscures the temporal patterns and makes it difficult to distinguish between the two product categories being compared."
+}

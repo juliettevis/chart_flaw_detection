@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_5",
+  "chart_type": "chloropleth",
+  "flaw_type": "discretized_continuous_variable",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart bins the continuous COVID-19 death rate into just four arbitrary categories, making countries with nearly identical mortality rates (e.g., 39 vs. 41 deaths per 100,000) appear starkly different colors as if they belong to fundamentally different groups. The discrete categorical color scheme hides the true smooth variation in the data, and boundary effects cause neighboring countries to look drastically different despite having nearly the same underlying values. This gives a misleading impression of sharp, meaningful thresholds where the actual data transitions gradually."
+}

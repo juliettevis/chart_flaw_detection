@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_2",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_value_labels",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This pie chart fails to communicate the actual distribution of shipping methods, as readers cannot determine what percentage or proportion each segment represents. Without value labels, viewers are left to guess at the relative sizes of each category, making it impossible to draw accurate conclusions about which shipping methods are most commonly used. [NOTE: Generated code failed to execute]"
+}

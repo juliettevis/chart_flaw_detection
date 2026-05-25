@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis has no tick marks or numeric labels, making it impossible for readers to determine actual sales values from the chart. Without these reference points, viewers cannot quantify the stacked areas or compare monthly totals to any scale, severely undermining the chart's usefulness for data interpretation."
+}

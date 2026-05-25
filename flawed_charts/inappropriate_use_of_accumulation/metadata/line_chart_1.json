@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_use_of_accumulation",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This chart misleadingly presents sales data as continuously growing when in reality both product categories show significant fluctuations and declines throughout 2025. The apparent upward trend masks the fact that Technology sales declined sharply after May and Office Supplies experienced volatility with a notable dip in August, making it impossible for viewers to identify performance issues or seasonal patterns."
+}

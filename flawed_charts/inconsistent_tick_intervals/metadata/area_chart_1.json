@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The uneven spacing between y-axis tick marks creates a visual distortion that makes it difficult to accurately judge the relative growth in sales. The compressed lower range and expanded upper range exaggerate the perception of growth in later quarters while minimizing the visual impact of earlier sales values."
+}

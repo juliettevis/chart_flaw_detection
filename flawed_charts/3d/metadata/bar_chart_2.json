@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "3d",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The 3D perspective in this chart creates significant visual distortion, making it nearly impossible to accurately compare bar heights across different positions. Bars in the background appear smaller than they actually are, while foreground bars seem exaggerated, undermining the fundamental purpose of a bar chart to enable precise quantitative comparisons."
+}

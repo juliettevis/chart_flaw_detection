@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_units",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis label now reads \"Sprint Speed\" without indicating the scale range (0\u2013100), leaving readers without any context for interpreting the numerical values shown. A viewer cannot tell whether the sprint speed values represent km/h, mph, an arbitrary FIFA rating scale, or some other unit of measurement."
+}

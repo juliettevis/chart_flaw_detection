@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick marks are placed at highly irregular intervals (10, 50, 100, 500, 800, 2,000, 3,000, 8,000, 11,000), creating uneven visual spacing that distorts the apparent rate of change in mortality. Readers accustomed to uniform tick spacing will misread the steepness of the trend \u2014 some segments appear deceptively flat or steep depending on how compressed or stretched the surrounding ticks are. This makes it difficult to accurately compare the magnitude of differences across age groups."
+}

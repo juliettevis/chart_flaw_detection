@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_5",
+  "chart_type": "pie_chart",
+  "flaw_type": "3d",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The 3D perspective effect severely distorts the visual comparison of pie slices, making it nearly impossible to accurately judge the relative proportions. The elliptical shape and visible depth create an optical illusion where segments closer to the viewer appear disproportionately larger than those farther away, undermining the fundamental purpose of a pie chart to show parts of a whole. [NOTE: Generated code failed to execute]"
+}

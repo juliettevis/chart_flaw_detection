@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "trend_line_on_random_data",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart now displays a bold red regression line that suggests sprint speed steadily declines with age, implying a clear and meaningful linear relationship. In reality, the data is extremely noisy with enormous spread at every age \u2014 the trend line hides the fact that the correlation is weak and many players of all ages have very similar sprint speeds. A reader would likely overestimate how strongly age predicts sprint speed based on this authoritative-looking line."
+}

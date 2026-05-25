@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "too_few_data_points",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "This chart shows only a single bar (England) out of what is titled as a \"Top 10\" ranking, giving readers no meaningful basis for comparison across nationalities. The title claims to show the top 10 nationalities, but the extreme reduction in data makes it impossible to understand the relative distribution of players by nationality. A viewer would have no way of knowing how England compares to other countries like Germany, Spain, or France."
+}

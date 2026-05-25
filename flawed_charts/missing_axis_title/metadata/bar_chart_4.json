@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without axis labels, a reader cannot immediately determine what the x-axis categories represent (are these countries, clubs, or something else?) or what the y-axis numbers measure (goals, wages, player counts?). The chart title provides some context, but the absence of axis titles forces readers to infer meaning rather than having it clearly stated, increasing the risk of misinterpretation."
+}

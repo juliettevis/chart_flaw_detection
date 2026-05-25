@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The irregular spacing between tick marks on the y-axis creates a distorted visual representation that makes it difficult to accurately judge the relative differences between values. The compressed spacing in some regions and expanded spacing in others misleads viewers about the true proportions and patterns in the monthly order data."
+}

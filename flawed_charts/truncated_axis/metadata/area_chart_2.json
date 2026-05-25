@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart is misleading because the truncated y-axis starting at $5,000 rather than zero dramatically exaggerates the apparent differences between months, making the variations in sales appear far more dramatic than they actually are. The December peak being cut off at the top further distorts the true scale of the data, preventing viewers from seeing the actual maximum values reached."
+}

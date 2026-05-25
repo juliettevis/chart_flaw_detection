@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "inappropriate_use_of_accumulation",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This chart misleadingly presents quarterly sales as if they're individual period values, but actually shows cumulative totals that only increase over time. Any quarters with declining sales are completely hidden because the stacked areas will always grow larger, making it impossible to identify downward trends or seasonal fluctuations that would be crucial for business decision-making."
+}

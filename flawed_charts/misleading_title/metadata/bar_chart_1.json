@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart clearly shows that Chairs and Phones lead in sales, each exceeding $330,000, while office supplies like Copiers and Accessories are at the bottom with the lowest sales values. However, the title incorrectly claims that office supplies dominate sales, which directly contradicts the visual evidence presented in the bar chart."
+}

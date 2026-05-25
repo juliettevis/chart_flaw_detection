@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "selective_data",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "The chart claims to show \"Number of Orders per Month (2025)\" but only displays May through November, cherry-picking a 7-month window that starts from a moderate level (~110 in May), dips through the summer (~91 in August), and then surges dramatically to ~195 in September \u2014 creating a narrative of strong late-year growth. The omitted months (January, February, March, April, and December) hide the fact that the year started very low (~45-50 orders) and ended high (~185 in December), which would show the full-year trend more accurately and contextualize the September spike differently."
+}

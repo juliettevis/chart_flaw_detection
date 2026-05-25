@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_9",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_binning_size",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "This histogram's unequal bin widths create a misleading representation of the data distribution. The extremely wide bins (like 400-700 and 700-1000) accumulate more countries and appear as prominent bars, while the narrow bins (like 0-50 and 50-100) split what would be a large concentration of low-prevalence countries. This makes it appear that TB prevalence is more evenly distributed across the range than it actually is, when in reality most countries have low prevalence rates. [NOTE: Generated code failed to execute]"
+}

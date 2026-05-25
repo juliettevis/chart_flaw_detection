@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without a title, the viewer is left guessing what these death numbers represent and what specific disease or condition is being tracked across these countries. The absence of context makes it impossible to understand that this is tuberculosis mortality data or what time period is being examined beyond what can be inferred from the axis labels."
+}

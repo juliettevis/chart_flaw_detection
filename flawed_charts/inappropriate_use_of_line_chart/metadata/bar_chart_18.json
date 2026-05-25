@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_18",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_line_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The line chart falsely implies a continuous trend or progression between completely unrelated, discrete countries \u2014 as if there is some meaningful connection or transition between Qatar, Brunei Darussalam, Bahrain, and the rest. The connecting lines suggest that values change smoothly from one country to the next, which is meaningless since the categories are independent nations with no inherent ordering or relationship."
+}

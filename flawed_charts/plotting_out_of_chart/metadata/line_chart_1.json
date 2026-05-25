@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart fails to show the full picture of sales performance by cutting off the y-axis at $28,500, causing the peak sales values for both Technology and Office Supplies to extend beyond the visible chart area. Readers cannot accurately assess the true sales figures for the highest-performing months, making it impossible to properly compare performance peaks or understand the actual scale of sales fluctuations."
+}

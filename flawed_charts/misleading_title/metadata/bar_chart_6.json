@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart displays countries with extremely high TB prevalence rates (ranging from 559 to 945 cases per 100,000 people), yet the title claims these are countries \"successfully eliminating TB.\" This creates a dangerous misrepresentation that could lead viewers to believe these nations have made significant progress against tuberculosis when they actually face severe public health crises."
+}

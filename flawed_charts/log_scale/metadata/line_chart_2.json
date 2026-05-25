@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses a logarithmic y-axis scale, which is inappropriate for profit data that naturally spans a linear range. The log scale compresses the large gap between Furniture (low values, ~$100\u2013$3,500) and Technology (high values, ~$2,000\u2013$19,000), making the two categories appear far more similar in performance than they actually are. Additionally, negative and near-zero profit values \u2014 which are meaningful signals of loss \u2014 are hidden or distorted because the log scale cannot represent them, silently misleading readers about Furniture's true underperformance."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_item_order",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This chart is misleading because it presents countries with TB prevalence in a seemingly random order, making it impossible to quickly identify which countries have the highest or lowest rates. The arbitrary arrangement obscures the natural ranking that would allow viewers to understand the relative severity of TB prevalence across these nations, forcing them to mentally reorder the data to draw any meaningful comparisons."
+}

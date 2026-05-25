@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart violates standard data visualization conventions by presenting the vertical axis upside down, with higher values at the bottom rather than the top. This counterintuitive arrangement forces readers to mentally reverse their expectations when interpreting bar heights, potentially leading to misunderstandings about which countries have more or fewer players."
+}

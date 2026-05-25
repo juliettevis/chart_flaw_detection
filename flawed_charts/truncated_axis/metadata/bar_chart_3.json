@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly exaggerates the differences between months by starting the y-axis at 30 instead of zero. The visual impact makes February appear to have virtually no orders compared to September, when in reality February has about 23% of September's volume\u2014not the near-zero impression created by the truncated axis."
+}

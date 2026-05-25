@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_5",
+  "chart_type": "pie_chart",
+  "flaw_type": "inconsistent_value_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The pie chart's percentage labels are formatted inconsistently across slices: the West slice shows a rounded whole number (\"32%\"), the East slice shows two decimal places (\"29.73%\"), the Central slice has no label at all, and the South slice shows one decimal place (\"16.8%\"). This haphazard mix of formats and the missing label make it difficult for readers to compare values or trust the consistency of the data presentation."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_20",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_scatterplot",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The scatter plot format falsely implies a continuous numeric relationship between the x-axis positions of the countries, as if the spacing between \"Belize\" and \"Dominica\" is mathematically meaningful. The connected-dot visual pattern encourages viewers to interpret trends or progressions across country names, which are purely categorical labels with no inherent numeric order or distance. This chart type is fundamentally inappropriate for comparing discrete, unrelated categories."
+}

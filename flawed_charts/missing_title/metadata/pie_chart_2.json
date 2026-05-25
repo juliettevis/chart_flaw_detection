@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_2",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This pie chart lacks any title or heading, making it impossible to understand what the data represents without carefully examining the legend. Viewers are left guessing whether these percentages represent customer preferences, revenue distribution, or order volume, and have no context about the time period or business context being analyzed."
+}

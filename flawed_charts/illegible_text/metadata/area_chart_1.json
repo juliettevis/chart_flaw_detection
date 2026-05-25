@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The x-axis labels on this chart are completely illegible due to severe overlapping text. The quarterly labels are so long and tightly packed that they run into each other, making it impossible to read which quarter corresponds to which data point. Additionally, the x-axis title overlaps with the tick labels, creating a jumbled mess of text at the bottom of the chart."
+}

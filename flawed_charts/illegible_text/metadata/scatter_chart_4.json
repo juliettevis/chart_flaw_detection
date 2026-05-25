@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_4",
+  "chart_type": "scatter_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart is impossible to read because the axis labels are severely overlapping with their tick labels. The x-axis tick labels have been expanded to extremely verbose formats that collide with each other horizontally, while both axes have negative label padding that causes the axis titles to be overwritten by the tick labels, creating an unreadable mess of overlapping text."
+}

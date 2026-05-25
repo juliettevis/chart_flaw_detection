@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick labels use an inconsistent mix of formatting styles - some show dollar signs with commas ($35,000), others are plain numbers (10000), some use K notation ($15K), and others show decimal places (20000.00). This inconsistency makes it difficult to quickly scan and compare values on the chart, as readers must mentally convert between different formats while interpreting the data."
+}

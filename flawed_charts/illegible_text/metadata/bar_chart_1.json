@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The chart's x-axis is completely illegible because the sub-category labels are now horizontal and overlapping each other, making it impossible to read which product category each bar represents. Additionally, the x-axis label \"Sub-Category\" is pushed up into the tick labels, creating a jumbled mess of text that obscures both the axis title and the category names."
+}

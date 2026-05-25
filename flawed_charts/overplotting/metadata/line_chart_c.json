@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_c",
+  "chart_type": "line_chart",
+  "flaw_type": "overplotting",
+  "flaw_category": "Hidden Information",
+  "flaw_stage": "Interpretation",
+  "description": "Mean Overall rating by Age for each of the 30 most-represented nationalities. Drawing all series in the same color causes the curves to blend into one thick band across the chart."
+}

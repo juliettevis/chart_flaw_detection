@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_4",
+  "chart_type": "pie_chart",
+  "flaw_type": "misrepresentation",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "This pie chart is fundamentally misleading because the visual sizes of the slices don't match the percentage labels shown. For instance, South-East Asia is labeled as 40.2% but visually appears to represent only about 25% of the pie, while Africa shows 36.2% but takes up nearly half the chart. This disconnect between what readers see and what the numbers claim makes it impossible to accurately compare the relative importance of TB deaths across regions."
+}

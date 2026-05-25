@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_units",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis label now reads \"Wage\" without any currency symbol, and the tick labels show plain numbers (e.g., 0, 100, 200, 500) with no \"\u20ac\" prefix or \"K\" suffix. A reader has no way to determine whether wages are in euros, dollars, thousands, or some other unit, making the scale completely ambiguous."
+}

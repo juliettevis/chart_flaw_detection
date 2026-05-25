@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_b",
+  "chart_type": "area_chart",
+  "flaw_type": "data_of_different_magnitudes",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "China's Population, TB prevalence (cases) and TB deaths shown as overlaid filled areas on the same axis. Population (10\u2079) swamps the plot while prevalence (10\u2076) and deaths (10\u2075) are invisible at that vertical scale."
+}

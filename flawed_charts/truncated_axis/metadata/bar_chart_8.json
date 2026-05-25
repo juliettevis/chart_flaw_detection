@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_8",
+  "chart_type": "bar_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This histogram misleadingly exaggerates the differences between the frequency bars by starting the y-axis at 80 instead of zero. The visual impact makes the smaller bars appear even more diminutive compared to the tallest bar, creating a false impression that the distribution is more extreme than it actually is."
+}

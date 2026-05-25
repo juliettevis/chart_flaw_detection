@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "too_few_data_points",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "This chart misleadingly presents TB incidence trends using only two data points from 1990 and 1991, making it impossible to draw meaningful conclusions about the progression of tuberculosis across WHO regions over the supposed 23-year period. The viewer cannot determine whether rates increased, decreased, or fluctuated significantly throughout the decades, yet the smooth area chart suggests a continuous trend that simply doesn't exist with such limited data."
+}

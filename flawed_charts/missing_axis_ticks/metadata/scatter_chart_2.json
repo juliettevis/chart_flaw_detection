@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis has no tick marks or numeric labels, making it impossible to determine the actual sprint speed values of any data points. Readers can see the general distribution of the scatter plot but cannot quantify the y-axis values, severely undermining the chart's usefulness. The axis title remains, but without scale references, it provides little meaningful information."
+}

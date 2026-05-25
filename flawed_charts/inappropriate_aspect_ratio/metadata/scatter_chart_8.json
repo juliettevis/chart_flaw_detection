@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_8",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_aspect_ratio",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart has been squeezed into a very narrow width, compressing the horizontal axis dramatically while keeping the vertical axis the same height. This distortion makes the scatter plot appear much more vertically elongated than it should be, exaggerating the perceived steepness of any price-area relationship and making the data distribution look far more clustered and vertically spread than it actually is."
+}

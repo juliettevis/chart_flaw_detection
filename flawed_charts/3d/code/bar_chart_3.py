@@ -1,0 +1,63 @@
+import argparse
+import sys
+import os
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import numpy as np
+
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..', '..', '..', 'base_charts'))
+from chart_utils import PALETTE_CUSTOM
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--output_path", required=True)
+args = parser.parse_args()
+
+data_path = os.path.join(os.path.dirname(__file__), '..', '..', '..', '..', '..', 'data', 'superstore.csv')
+df = pd.read_csv(data_path, parse_dates=["Order Date"], dayfirst=True)
+df = df[df["Order Date"].dt.year == 2025]
+df["YearMonth"] = df["Order Date"].dt.to_period("M")
+monthly = df.groupby("YearMonth")["Order ID"].nunique().sort_index()
+dates = monthly.index.to_timestamp()
+
+fig, ax = plt.subplots(figsize=(10, 6))
+
+bar_width = 20
+dx = pd.Timedelta(days=4)
+dy_factor = 0.03
+
+base_color = np.array(plt.cm.colors.to_rgba(PALETTE_CUSTOM[0]))
+side_color = np.clip(base_color * np.array([0.65, 0.65, 0.65, 1.0]), 0, 1)
+top_color = np.clip(base_color * np.array([1.1, 1.1, 1.1, 1.0]), 0, 1)
+
+ax.bar(dates, monthly.values, width=bar_width, color=PALETTE_CUSTOM[0], zorder=2, edgecolor='white', linewidth=0.3)
+
+for i, (d, val) in enumerate(zip(dates, monthly.values)):
+    dy = val * dy_factor
+    half_w = pd.Timedelta(days=bar_width / 2)
+
+    side_x = [d + half_w, d + half_w, d + half_w + dx, d + half_w + dx]
+    side_y = [0, val, val + dy, dy]
+    ax.fill(side_x, side_y, color=side_color, zorder=2, edgecolor='white', linewidth=0.3)
+
+    top_x = [d - half_w, d + half_w, d + half_w + dx, d - half_w + dx]
+    top_y = [val, val, val + dy, val + dy]
+    ax.fill(top_x, top_y, color=top_color, zorder=3, edgecolor='white', linewidth=0.3)
+
+ax.set_title("Number of Orders per Month (2025)", fontsize=14, fontweight="bold", pad=12)
+ax.set_xlabel("Month", fontsize=12)
+ax.set_ylabel("Number of Orders", fontsize=12)
+ax.tick_params(axis="both", labelsize=10)
+ax.set_xlim(dates[0] - pd.Timedelta(days=20), dates[-1] + pd.Timedelta(days=25))
+ax.xaxis.set_major_locator(mdates.MonthLocator())
+ax.xaxis.set_major_formatter(mdates.DateFormatter("%b"))
+
+ax.spines["top"].set_visible(False)
+ax.spines["right"].set_visible(False)
+ax.yaxis.grid(True, linewidth=0.3, alpha=0.7)
+ax.set_axisbelow(True)
+
+plt.xticks(rotation=45, ha="right")
+plt.tight_layout()
+plt.savefig(args.output_path, dpi=300)
+plt.close()

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_17",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_pie_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The pie chart only shows 5 of the 15 candidates, but the percentage labels are calculated relative to the total disbursements of all 15 candidates \u2014 so the slices sum to only about 68%, leaving viewers confused about where the remaining 32% went. A pie chart inherently implies that the displayed slices represent a complete whole (100%), so readers will incorrectly assume they are seeing the full picture. This misrepresents how campaign spending is distributed among all candidates."
+}

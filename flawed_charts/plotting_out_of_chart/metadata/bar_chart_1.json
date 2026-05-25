@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart misleads viewers by truncating the y-axis at $250,000, causing the two highest-selling sub-categories (Chairs and Phones) to appear cut off at the same height. This visualization error makes it impossible to accurately compare the top performers and hides approximately $85,000 in sales data for these leading categories."
+}

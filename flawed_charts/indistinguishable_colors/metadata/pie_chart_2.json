@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_2",
+  "chart_type": "pie_chart",
+  "flaw_type": "indistinguishable_colors",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "All four pie slices are rendered in nearly identical shades of pink/mauve, making it extremely difficult for a reader to distinguish between Standard Class, Second Class, First Class, and Same Day shipping categories. Without clear color differentiation, the legend becomes nearly useless, and readers cannot easily match each slice to its corresponding category."
+}

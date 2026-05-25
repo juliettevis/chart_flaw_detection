@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart clearly shows that player wages peak in the late 20s to early 30s and decline significantly after age 35, but the title falsely claims wages remain stable throughout a player's career. This misleading title could lead viewers to incorrectly believe that age has no impact on footballer salaries."
+}

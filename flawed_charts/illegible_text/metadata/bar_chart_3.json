@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The x-axis labels on this chart are completely illegible due to severe overlapping text. The full month names with years are crammed together horizontally, making it impossible to read which month each bar represents. Additionally, the axis label appears to merge with the tick labels, creating a jumbled mess of text at the bottom of the chart."
+}

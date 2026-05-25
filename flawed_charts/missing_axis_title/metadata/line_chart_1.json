@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without axis titles, readers cannot immediately tell what the x-axis represents (time periods? indices?) or what the y-axis measures (revenue? units? percentages?). The dollar-formatted tick labels hint at monetary values, but there is no explicit label confirming this, and the x-axis month labels lack context about what dimension of the data they represent. This forces viewers to infer meaning from context rather than reading it directly from the chart."
+}

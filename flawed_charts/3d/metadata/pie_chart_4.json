@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_4",
+  "chart_type": "pie_chart",
+  "flaw_type": "3d",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The 3D perspective effect applied to this pie chart creates a visual distortion that makes it significantly harder to accurately compare the relative sizes of each segment. The elliptical shape and added depth cause segments at the bottom to appear compressed while those at the top seem enlarged, making it nearly impossible to judge whether Africa or South-East Asia truly represents a larger share of TB deaths."
+}

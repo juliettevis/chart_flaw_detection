@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_2",
+  "chart_type": "pie_chart",
+  "flaw_type": "3d",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The 3D perspective effect in this pie chart makes it extremely difficult to accurately compare the relative sizes of different segments. The elliptical distortion and visible cylinder sides create visual confusion, as the apparent size of each slice depends on its position in the 3D view rather than its actual data value, misleading viewers about the true proportions of shipping methods. [NOTE: Generated code failed to execute]"
+}

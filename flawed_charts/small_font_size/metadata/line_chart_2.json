@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The chart's text is disproportionately tiny compared to the chart elements \u2014 the title, axis labels, tick labels, and legend are all rendered at extremely small font sizes (3\u20135pt) that are barely legible or completely unreadable at normal viewing distances. A reader would struggle to identify what the axes represent, what time periods are shown, or which line corresponds to which category, making the chart effectively impossible to interpret."
+}

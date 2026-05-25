@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_16",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_binning_size",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The histogram uses inconsistent bin widths \u2014 some bins span only 3 years (e.g., 15-18, 18-21) while others span 10 or even 15 years (e.g., 35-45, 55-70) \u2014 yet all bars are displayed with equal visual width. This makes the wider bins appear disproportionately tall simply because they capture more ages, misleading viewers into thinking those age ranges have a higher concentration of developers than they actually do relative to narrower bins."
+}

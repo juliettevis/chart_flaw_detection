@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_4",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_value_labels",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This pie chart fails to communicate any quantitative information about the distribution of TB deaths across regions. Without percentage labels or any numerical indicators, readers can only make rough visual comparisons between slice sizes but cannot determine whether Africa accounts for 30%, 35%, or 40% of deaths, making the chart nearly useless for understanding the actual data. [NOTE: Generated code failed to execute]"
+}

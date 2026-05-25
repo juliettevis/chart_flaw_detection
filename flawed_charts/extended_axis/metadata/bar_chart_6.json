@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The excessive vertical space in this chart makes it nearly impossible to see the meaningful differences between countries' tuberculosis prevalence rates. All the data is compressed into the bottom third of the plot area, making variations that range from 559 to 945 per 100,000 appear almost negligible, when in reality these represent substantial differences in disease burden across countries."
+}

@@ -1,0 +1,10 @@
+{
+  "job_name": "batches/7x7x94shvwejtor4f1a94l2fkp0nh9kzu06a",
+  "submitted_at": "2026-05-03T14:03:49.674929+00:00",
+  "judge_model": "gemini-3-flash-preview",
+  "source_files": [
+    "results/gemini_flash/batches/batches_5lb5y2284s5dzalilx7lxh42mzevc0fsfqiq/results.jsonl"
+  ],
+  "total_requests": 600,
+  "output_path": "/home/juvis/Documents/thesis/dataset_evaluation/compare_results_with_ground_truth/results/batches_5lb5y2284s5dzalilx7lxh42mzevc0fsfqiq/judge_results.jsonl"
+}

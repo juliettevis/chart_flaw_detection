@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The inconsistent spacing between tick marks on the y-axis creates a visual distortion that makes it difficult to accurately judge the relative differences between bars. The irregular intervals compress some ranges while expanding others, potentially exaggerating or minimizing the perceived differences in sales values between categories."
+}

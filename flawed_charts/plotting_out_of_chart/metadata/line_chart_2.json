@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart misleadingly truncates the y-axis at $14,000, causing several peak Technology profit values to extend beyond the visible chart area. This visual cropping makes it impossible to accurately read or compare the highest quarterly profits, particularly the Technology category's strong performance in late 2024 and 2026, potentially understating the true scale of profitability differences between the two categories."
+}

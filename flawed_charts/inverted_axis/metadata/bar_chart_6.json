@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart is misleading because the y-axis scale runs counter to standard convention, with higher TB prevalence values appearing lower on the chart and lower values appearing higher. This inverted representation makes countries with the worst TB burden appear visually less severe, potentially causing readers to misinterpret the relative severity of the epidemic across different nations."
+}

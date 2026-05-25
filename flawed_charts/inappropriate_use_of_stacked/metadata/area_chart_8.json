@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_8",
+  "chart_type": "area_chart",
+  "flaw_type": "inappropriate_use_of_stacked",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart now stacks 30 separate sub-series (each of the 6 WHO regions broken into 5 sub-groups), creating a visually overwhelming rainbow of thin, indistinguishable layers. Individual sub-series are impossible to compare across time, and the legend becomes a cluttered, nearly unreadable list of 30 entries. The sheer number of similarly-sized colored bands renders any meaningful comparison of trends within or between regions completely impossible."
+}

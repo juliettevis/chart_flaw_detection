@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_8",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_use_of_bar_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses a bar chart to display two continuous numeric variables (area and price), which implies each area value is a discrete category being compared rather than a point on a continuous numeric scale. The dense forest of narrow bars makes it impossible to see the underlying trend or relationship between area and price, and the visual encoding suggests the data consists of isolated discrete items rather than a continuous distribution. This fundamentally misrepresents the nature of the data and obscures any correlation that would be visible in a scatter plot."
+}

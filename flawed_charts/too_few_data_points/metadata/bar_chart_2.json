@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "too_few_data_points",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "This chart displays data for only one region (Central) out of four, showing just a single group of bars while the title implies a complete comparison across all regions and customer segments. A reader would incorrectly assume the patterns visible here \u2014 Consumer orders dominating, with Corporate and Home Office far behind \u2014 represent a universal trend, when in fact the other three regions show substantially different relative patterns. The insufficient data creates a misleadingly confident impression of how segments compare across the entire dataset."
+}

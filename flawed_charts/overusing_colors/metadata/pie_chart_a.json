@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_a",
+  "chart_type": "pie_chart",
+  "flaw_type": "overusing_colors",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "17 superstore sub-categories drawn as pie slices, each filled with a different tab20 hue. The legend-like labels on the slices already name the categories, so the color palette only adds visual noise."
+}

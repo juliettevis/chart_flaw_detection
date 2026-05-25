@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis has no tick marks or numeric labels, making it impossible for readers to determine the actual profit values at any point on the chart. While the axis line and title (\"Profit ($)\") remain visible, the absence of scale references forces viewers to guess at the magnitude of profits, severely undermining the chart's usefulness for quantitative comparison."
+}

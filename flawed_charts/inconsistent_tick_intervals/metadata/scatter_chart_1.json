@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick marks are placed at irregular intervals (e.g., \u20ac0M, \u20ac5M, \u20ac15M, \u20ac20M, \u20ac40M, \u20ac55M, \u20ac80M, \u20ac95M, \u20ac110M, \u20ac125M), creating uneven visual spacing between gridlines. This distorts the reader's perception of how values are distributed \u2014 some regions of the chart appear compressed while others look stretched, making it difficult to accurately judge distances and relationships between data points."
+}

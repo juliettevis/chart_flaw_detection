@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_15",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_binning_size",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The histogram uses bins of wildly inconsistent widths (ranging from 5 hours to 25 hours) but displays them as equal-width bars, which is deeply misleading. Wider bins like \"55-80\" (spanning 25 hours) naturally capture more respondents and appear disproportionately tall compared to narrow bins like \"10-15\" (spanning only 5 hours), giving a distorted impression of how work hours are actually distributed. A reader would incorrectly conclude that the concentration of respondents in certain ranges is much higher or lower than it actually is."
+}

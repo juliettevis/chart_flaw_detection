@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "missing_units",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis label now reads \"Sales\" instead of \"Sales ($)\" and the tick labels show plain numbers (e.g., 5,000 instead of $5,000), giving no indication that the values represent dollar amounts. A reader has no way to determine the currency or unit of measurement for the sales figures, making it impossible to interpret the actual scale of the data."
+}

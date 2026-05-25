@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This scatter plot misleadingly exaggerates the decline in sprint speed with age by starting the y-axis at 15 instead of zero. This makes the difference between younger and older players appear much more dramatic than it actually is, creating a false impression that sprint speed drops off a cliff after age 30 when the actual decline is more gradual."
+}

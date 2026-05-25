@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_9",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The inconsistent spacing between tick marks on the y-axis makes it difficult to accurately judge the relative heights of the bars. The irregular intervals create a distorted visual impression where differences between values appear compressed or expanded depending on their position on the axis, potentially misleading viewers about the actual distribution of TB prevalence rates."
+}

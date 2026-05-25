@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_3",
+  "chart_type": "area_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The x-axis labels on this chart are completely unreadable due to severe overlapping. The age values have been written out as full words without any rotation, causing each label to overlap with its neighbors and creating an illegible mess along the bottom of the chart. Additionally, the x-axis title overlaps with these crowded tick labels, making it impossible to properly read any of the age information."
+}

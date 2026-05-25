@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_7",
+  "chart_type": "chloropleth",
+  "flaw_type": "discretized_continuous_variable",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart arbitrarily groups countries into four discrete color buckets, making countries with very similar renewable energy shares (e.g., 4.9% vs. 5.1%) appear dramatically different because they fall on opposite sides of a bin boundary. The bold, qualitatively distinct colors create the false impression of sharp categorical differences in what is actually smoothly varying continuous data, hiding the true distribution and exaggerating contrasts at every boundary."
+}

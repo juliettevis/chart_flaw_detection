@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_20",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_item_order",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The countries are now listed in a scrambled, arbitrary order rather than sorted by homicide rate, making it impossible to quickly identify which countries have the highest or lowest rates. Readers cannot easily spot ranking patterns or compare neighboring bars, as similar values are scattered throughout the chart. This arbitrary ordering obscures the natural hierarchy and makes the data far harder to interpret at a glance."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart lacks axis labels, making it unclear what the horizontal axis represents (years) and what the vertical axis measures (incident cases). Readers must infer from the title and tick labels alone what each axis means, which can lead to confusion about the data being presented."
+}

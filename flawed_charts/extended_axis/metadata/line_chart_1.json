@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis extends to $114,000, roughly three times the actual maximum data value of around $38,000, causing all the lines to be compressed into the bottom third of the chart. This makes the fluctuations and differences between Technology and Office Supplies sales appear nearly flat and insignificant, severely understating the meaningful variation present in the data."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "missing_legend",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This stacked area chart displays colored regions representing different data categories, but without a legend, it's impossible to determine which color corresponds to which region. The viewer can see there are four distinct colored areas contributing to the total sales over time, but has no way to identify whether the orange, blue, green, or yellow areas represent West, East, Central, or South regions, making the visualization essentially meaningless for regional analysis."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The x-axis labels on this chart are completely illegible due to severe overlapping. The full month names run together horizontally, making it impossible to determine which month corresponds to which data point. Additionally, the x-axis title intrudes into the tick label space, creating a jumbled mess of text that obscures the temporal information critical for interpreting this time series visualization."
+}

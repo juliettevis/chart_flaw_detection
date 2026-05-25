@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "area_encoding",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "Each bar's width is proportional to its value, meaning the bar for England is nearly five times wider than the bar for Netherlands, while also being taller. Because the human eye perceives the overall rectangular area (width \u00d7 height), differences between countries appear far more dramatic than the actual data warrants \u2014 England's bar looks roughly 14\u00d7 larger in area than Netherlands', even though the true ratio is only about 3.8\u00d7. This redundant encoding massively distorts the visual comparison between nationalities."
+}

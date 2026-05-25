@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "missing_units",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis label now reads \"Sales\" without any currency indicator, and the tick labels show plain numbers (e.g., 300,000) without a \"$\" prefix. A reader cannot determine whether the values represent dollars, thousands of dollars, units sold, or any other unit of measurement."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly exaggerates the differences between product categories by starting the y-axis at $100,000 instead of zero. The visual gap between Chairs and Copiers appears enormous, suggesting Chairs generate more than double the sales of Copiers, when in reality Chairs only outsell Copiers by about 2.3x. This truncated axis makes moderate differences in sales performance look like dramatic disparities."
+}

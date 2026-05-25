@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "missing_units",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis label now reads \"Profit\" without any unit indicator, and the tick labels show raw numbers (e.g., 20,000) instead of dollar-formatted values (e.g., $20,000). A reader has no way to determine whether the profit values are in dollars, thousands of dollars, euros, or any other currency or unit."
+}

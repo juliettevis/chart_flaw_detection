@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_c",
+  "chart_type": "line_chart",
+  "flaw_type": "data_of_different_magnitudes",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "USA death rates for the All-ages group and the 0–6 days infant group are plotted on a single linear y-axis (per 100,000). The infant rate is roughly three orders of magnitude higher than the all-ages rate, so the all-ages series is pressed flat against the x-axis and its variation over time is invisible."
+}

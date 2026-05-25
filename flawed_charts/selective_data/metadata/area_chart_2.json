@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "selective_data",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "This chart misleadingly suggests that sales have experienced dramatic and consistent growth throughout 2025, when in reality it only shows the last four months of the year, conveniently omitting the earlier months that had lower sales and more variation. The title implies this represents the entire year's performance, making the growth trend appear more impressive and sustained than it actually was."
+}

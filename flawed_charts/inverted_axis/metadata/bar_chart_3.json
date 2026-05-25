@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This bar chart violates the fundamental convention that values should increase as you move upward on the y-axis. With the inverted scale, months with higher order volumes appear to have performed worse, while months with fewer orders seem more successful at first glance. This reversal makes it extremely difficult to accurately compare monthly performance and could lead to completely opposite business conclusions about which months were actually the strongest."
+}

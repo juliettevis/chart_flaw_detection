@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "color_blind_unfriendly",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart uses a color scheme that appears distinct to viewers with normal vision but becomes nearly indistinguishable to those with red-green color blindness (deuteranopia). The alternating red and green tones would collapse into similar muddy browns for affected viewers, making it extremely difficult to differentiate between the regions and understand which areas contribute most to sales at any given time."
+}

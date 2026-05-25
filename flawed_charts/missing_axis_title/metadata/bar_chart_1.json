@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart lacks axis labels, making it impossible to understand what the horizontal and vertical axes represent. Without knowing that the x-axis shows product sub-categories and the y-axis shows sales values in dollars, viewers cannot properly interpret the data being presented."
+}

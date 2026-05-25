@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "color_blind_unfriendly",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart uses red and green colors that appear distinct to viewers with normal color vision but would be nearly indistinguishable to someone with deuteranopia (red-green color blindness). This color choice excludes approximately 5% of male readers who would struggle to differentiate between the Furniture and Technology trend lines, making it impossible for them to compare the quarterly profit patterns between these two categories."
+}

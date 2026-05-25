@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_pie_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This pie chart is fundamentally misleading because it shows TB deaths as if they were parts of a whole, when in reality they represent independent counts from different regions. The percentages only add up to about 85% because two regions were excluded, making it appear as if 15% of TB deaths are unaccounted for, which falsely implies these four regions don't represent the complete global picture."
+}

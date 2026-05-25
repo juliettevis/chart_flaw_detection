@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "inappropriate_use_of_stacked",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart is practically unreadable due to the excessive number of stacked layers\u2014with 13 different sub-categories piled on top of each other using clashing colors, it's impossible to track any individual series across quarters or make meaningful comparisons. The rainbow color palette creates visual chaos, and the thin slices of data make it extremely difficult to determine which segment belongs to which category or to gauge relative changes over time."
+}

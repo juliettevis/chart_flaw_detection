@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_2",
+  "chart_type": "chloropleth",
+  "flaw_type": "missing_normalization",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This choropleth map misleadingly compares total death counts across countries without accounting for population differences. Countries with larger populations like China and India will inevitably appear to have dramatically higher mortality simply because they have more people, making it impossible to draw meaningful conclusions about actual mortality risk or health outcomes between nations."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_aspect_ratio",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart has been squeezed into an unusually narrow width while maintaining the same height, causing the horizontal time axis to be severely compressed. This distortion makes all the sales trends appear far steeper and more dramatic than they actually are, misleading the reader into perceiving much sharper rises and falls in monthly sales. The month labels and data points are crammed together, making it difficult to accurately assess the gradual nature of changes over the year."
+}

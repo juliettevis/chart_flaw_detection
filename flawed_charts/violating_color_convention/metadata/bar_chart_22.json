@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_22",
+  "chart_type": "bar_chart",
+  "flaw_type": "violating_color_convention",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The Democrat and Republican party colors are swapped \u2014 Democrats are shown in red and Republicans in blue, which directly contradicts the universally recognized U.S. political color conventions (blue for Democrats, red for Republicans). This could easily mislead readers into misidentifying which party's spending is which, especially at a glance."
+}

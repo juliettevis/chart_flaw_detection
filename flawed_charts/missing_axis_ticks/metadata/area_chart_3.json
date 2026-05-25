@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_3",
+  "chart_type": "area_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis has no tick marks or numeric labels, making it impossible to read the actual values of the stacked areas. Readers can see the chart and the \"Number of Players\" axis title, but have no way to determine whether peaks represent 500, 1000, or 1500 players without any scale reference."
+}

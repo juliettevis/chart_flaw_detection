@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart clearly shows that players with higher overall ratings command significantly higher market values, with the most expensive players clustering at the top ratings, yet the title incorrectly suggests an inverse relationship between rating and value."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_7",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick labels use wildly inconsistent formatting, mixing plain integers, comma-separated thousands, decimal notation, and abbreviated \"K\" notation, making it unnecessarily difficult to quickly compare values and understand the scale of player counts across different age groups."
+}

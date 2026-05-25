@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_9",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_use_of_smoothing",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart uses a high-degree cubic spline interpolation that introduces artificial wiggles and false inflection points between the actual data measurements, implying data exists at sub-intervals that was never recorded. A reader would be misled into thinking the trend has subtle undulations or temporary reversals between years, when in reality only a handful of discrete yearly measurements exist. The smooth curve fabricates a continuous history of values that were never observed."
+}

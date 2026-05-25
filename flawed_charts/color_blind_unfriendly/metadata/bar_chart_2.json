@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "color_blind_unfriendly",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart uses a red-green color scheme that makes it extremely difficult for people with deuteranopia (the most common form of color blindness) to distinguish between different customer segments. The red and green bars appear as similar muddy brown tones to affected viewers, making it nearly impossible to identify which bars represent Consumer, Corporate, or Home Office segments without relying solely on the legend."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_units",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart fails to indicate whether the sales figures represent dollars, units sold, or some other metric, making it impossible for viewers to understand the actual scale or significance of the values shown. Without knowing if these are monetary amounts or quantities, the data becomes meaningless for decision-making or comparison purposes."
+}

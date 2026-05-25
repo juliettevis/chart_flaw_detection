@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleads viewers by starting the y-axis at 90 instead of zero, which dramatically exaggerates the differences between regions and segments. For example, the West region appears to have orders that are several times higher than the South region, when in reality the difference is much more modest. This truncated axis makes small variations appear as major disparities, potentially leading to incorrect business conclusions about regional performance."
+}

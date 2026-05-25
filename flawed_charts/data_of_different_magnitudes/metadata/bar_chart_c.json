@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_c",
+  "chart_type": "bar_chart",
+  "flaw_type": "data_of_different_magnitudes",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "Population (10\u2078\u201310\u2079) and TB deaths (10\u00b3\u201310\u2074) for the 10 most-populous countries shown on the same linear y-axis. The death bars are smaller than the rendered line thickness of the axis and effectively disappear."
+}

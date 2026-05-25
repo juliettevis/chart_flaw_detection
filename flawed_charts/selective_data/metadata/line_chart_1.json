@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "selective_data",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "This chart misleadingly suggests that Technology sales are in decline while Office Supplies are gaining momentum, when in reality this represents only a small portion of the year that ignores both Technology's strong performance earlier in the year and Office Supplies' dramatic December spike."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_2",
+  "chart_type": "pie_chart",
+  "flaw_type": "misrepresentation",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The percentages displayed on this pie chart are completely misleading - the visual size of each slice doesn't match what the numbers claim. For instance, the segment labeled \"60.0%\" takes up less than half of the pie, while \"19.2%\" appears much larger than one-fifth of the total, making it impossible to accurately assess the actual distribution of shipping methods."
+}

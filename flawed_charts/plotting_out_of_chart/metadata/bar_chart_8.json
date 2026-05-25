@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_8",
+  "chart_type": "bar_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This histogram appears to show the complete distribution of order sales, but the y-axis has been truncated at 5,000 orders, causing the tallest bar to extend beyond the visible chart area. This misleading visualization hides the true frequency of low-value orders (around 6,400 orders under $100), making it impossible to accurately compare the relative frequencies across different sales ranges."
+}

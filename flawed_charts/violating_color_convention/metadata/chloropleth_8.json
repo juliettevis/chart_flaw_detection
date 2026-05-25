@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_8",
+  "chart_type": "chloropleth",
+  "flaw_type": "violating_color_convention",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The color scale is reversed so that countries with the **lowest** female parliamentary representation appear in dark purple while countries with the **highest** representation appear in light/white shades. This contradicts the universal cartographic convention that darker shading indicates higher values, potentially misleading readers into thinking the darkest-colored countries are the ones with the most women in parliament when the opposite is true."
+}

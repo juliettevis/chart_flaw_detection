@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The irregular spacing of y-axis tick marks creates a distorted visual perception where differences between lower values appear exaggerated while differences between higher values appear compressed. This makes it difficult to accurately judge the relative magnitudes of TB deaths across regions and could lead viewers to misinterpret the true scale of differences between the data points."
+}

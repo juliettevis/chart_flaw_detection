@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_3",
+  "chart_type": "area_chart",
+  "flaw_type": "indistinguishable_colors",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "All four position groups (Forward, Midfielder, Defender, Goalkeeper) are rendered in nearly identical shades of vermillion/burnt orange, making it virtually impossible to distinguish one category from another in the stacked area chart. A reader trying to identify which band corresponds to which position group would be severely misled, as the legend colors are nearly indistinguishable from one another at a glance."
+}

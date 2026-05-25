@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart misleadingly truncates the data by cutting off the y-axis at $210,000, causing the highest sales quarters in late 2025 to overflow beyond the visible chart area. Readers cannot see the true peak values or accurately compare the relative performance across quarters, as the most significant data points are hidden from view."
+}

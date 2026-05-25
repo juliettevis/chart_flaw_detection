@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "area_encoding",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "Each bar's width is proportional to its sales value, meaning the data is encoded twice \u2014 once through height and once through width. As a result, the perceived area of each bar grows quadratically with the actual value, making the differences between top-selling and lower-selling sub-categories appear far more dramatic than they truly are. A reader comparing \"Chairs\" to \"Copiers\" will perceive an area ratio much larger than the roughly 2:1 ratio that exists in the actual sales figures."
+}

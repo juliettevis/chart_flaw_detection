@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_3",
+  "chart_type": "area_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis starts at 150 instead of 0, which dramatically exaggerates the differences in player counts between ages. This makes the decline in player numbers after age 25 appear much steeper than it actually is, and the variations in the middle ages seem more pronounced than they would be if the full scale from zero were shown."
+}

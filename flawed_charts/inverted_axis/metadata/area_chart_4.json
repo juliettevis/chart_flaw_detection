@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart violates the fundamental convention that vertical axes should increase from bottom to top. The y-axis has been inverted so that zero is at the top and 12 million is at the bottom, making it appear at first glance that TB incidence is decreasing over time when it's actually increasing. This reversal of the expected axis direction is highly misleading and makes the data difficult to interpret correctly."
+}

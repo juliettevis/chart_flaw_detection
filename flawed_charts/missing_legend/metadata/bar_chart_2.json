@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_legend",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This grouped bar chart shows three distinct sets of colored bars for each region, but without a legend, it's impossible to determine which customer segment each color represents. The reader can see that there are differences between the three groups across regions, but cannot identify whether the blue, orange, or red bars represent Consumer, Corporate, or Home Office segments, making the visualization essentially useless for understanding the actual data relationships."
+}

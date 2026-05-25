@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart is impossible to interpret because there's no y-axis to provide context for the bar heights. Without visible scale markers or labels, readers cannot determine the actual values being represented, making the comparison between regions purely relative with no sense of magnitude or whether the differences are significant."
+}

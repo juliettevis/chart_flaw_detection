@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_a",
+  "chart_type": "line_chart",
+  "flaw_type": "overusing_colors",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "TB incidence trajectories for the 15 highest-incidence countries (2010) drawn each in a different rainbow color. Colors cycle so fast that visually similar hues belong to unrelated countries."
+}

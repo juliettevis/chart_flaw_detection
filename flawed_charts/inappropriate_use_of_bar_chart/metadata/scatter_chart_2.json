@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_use_of_bar_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart completely obscures the relationship between age and sprint speed by using a bar chart for continuous data. The bars suggest that each age is a discrete category to be compared, making it impossible to see the overall trend that sprint speed generally decreases with age. The overlapping bars at each age value create a confusing vertical pattern that provides no meaningful insight into how these two continuous variables relate to each other."
+}

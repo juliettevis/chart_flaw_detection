@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The irregular spacing between y-axis tick marks creates a distorted visual impression of the data, making it difficult to accurately judge the relative differences in sales values. The compressed lower range and expanded upper range can make smaller variations appear more dramatic than they actually are, while potentially minimizing larger differences at higher values."
+}

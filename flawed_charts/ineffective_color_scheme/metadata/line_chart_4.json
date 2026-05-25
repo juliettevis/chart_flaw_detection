@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "ineffective_color_scheme",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "Each line segment and data point is colored with a different bright, unrelated categorical color (red, blue, green, orange, etc.), which destroys the visual continuity of what should be smooth, sequential trend lines. A reader would struggle to follow either the Male or Female trend across age groups, as the constantly shifting colors suggest unrelated discrete categories rather than a continuous progression. The chart becomes visually chaotic, making it impossible to track each series as a coherent whole."
+}

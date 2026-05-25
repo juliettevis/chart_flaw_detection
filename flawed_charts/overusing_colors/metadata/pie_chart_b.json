@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_b",
+  "chart_type": "pie_chart",
+  "flaw_type": "overusing_colors",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "Top 20 football nationalities as a pie, colored with gist_rainbow. Adjacent slices frequently get similar hues while distant slices look like completely unrelated categories, making the color encoding misleading as well as excessive."
+}

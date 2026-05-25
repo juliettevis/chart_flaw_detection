@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_b",
+  "chart_type": "scatter_chart",
+  "flaw_type": "overplotting",
+  "flaw_category": "Hidden Information",
+  "flaw_stage": "Interpretation",
+  "description": "Every superstore order line (~10,000 rows) is plotted as Sales vs Profit with opaque dots. Most orders are small and cluster tightly near the origin, so the central mass of data renders as an indistinguishable blob while only a few outliers remain readable."
+}

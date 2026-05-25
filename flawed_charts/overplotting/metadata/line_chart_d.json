@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_d",
+  "chart_type": "line_chart",
+  "flaw_type": "overplotting",
+  "flaw_category": "Hidden Information",
+  "flaw_stage": "Interpretation",
+  "description": "A separate faint line for every country (~200) showing percent of electricity from non-hydro renewables over 1990–2021. With no legend and so many overlapping trajectories, individual country trends are impossible to follow and the low-share majority forms an unreadable mat at the bottom."
+}

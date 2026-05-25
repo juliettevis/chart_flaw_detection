@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "color_blind_unfriendly",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart is problematic for readers with deuteranopia (red-green color blindness) as the lines representing different countries appear in similar brownish-olive tones, making it nearly impossible to distinguish between India, China, and Brazil's trends. The color choices exclude approximately 5% of male readers from being able to properly interpret the data relationships and identify which line corresponds to which country."
+}

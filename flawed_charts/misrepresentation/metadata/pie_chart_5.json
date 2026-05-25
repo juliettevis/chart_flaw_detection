@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_5",
+  "chart_type": "pie_chart",
+  "flaw_type": "misrepresentation",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "This pie chart grossly misrepresents the actual sales distribution, with the West region appearing to account for only about 15% of sales despite being labeled as 31.8%, while the South region dominates the chart even though it's labeled as just 16.8%. The visual proportions completely contradict the numerical labels, making it impossible to accurately assess the true regional sales breakdown. [NOTE: Generated code failed to execute]"
+}

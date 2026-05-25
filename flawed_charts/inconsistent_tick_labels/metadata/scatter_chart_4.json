@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_4",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The x-axis tick labels use wildly inconsistent formatting styles: plain integers (\"0\", \"600\"), two decimal places (\"200.00\"), an abbreviated \"K\" notation (\"0.4K\"), a misplaced thousands separator (\"8,00\"), and a plain four-digit number (\"1000\"). A reader scanning the axis would struggle to quickly interpret the scale because each label follows a different numerical convention, making comparisons across the axis confusing and error-prone."
+}

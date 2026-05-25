@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "too_few_data_points",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "The chart shows only a single bar (Chairs) out of the claimed \"Top 8 Product Sub-Categories,\" yet the title still implies a comprehensive comparison across 8 categories. A reader would have no basis to understand the relative sales performance across sub-categories, making any conclusion about which products dominate sales deeply misleading."
+}

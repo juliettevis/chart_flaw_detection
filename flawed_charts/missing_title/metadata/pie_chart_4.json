@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_4",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This pie chart lacks a title, making it unclear what data is being presented. Without context, viewers cannot determine whether these percentages represent deaths, cases, or some other metric related to TB, nor can they understand the time period or geographic scope of the data being shown."
+}

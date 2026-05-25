@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_aspect_ratio",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart is squeezed into an unnaturally narrow width, causing the horizontal time axis to be heavily compressed. This makes all trends and fluctuations appear far steeper and more dramatic than they actually are, giving a false impression of extreme volatility in both Furniture and Technology profits over time."
+}

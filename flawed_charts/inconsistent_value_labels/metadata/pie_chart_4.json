@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_4",
+  "chart_type": "pie_chart",
+  "flaw_type": "inconsistent_value_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The percentage labels on the pie chart are formatted inconsistently across slices \u2014 some show no decimal places (e.g. \"40%\"), others show one decimal (e.g. \"10.1%\"), and others show two decimals (e.g. \"36.22%\"), while font sizes vary dramatically from tiny (8pt) to very large (18pt). This haphazard mix makes the chart look unprofessional and forces readers to mentally reconcile different levels of precision, undermining trust in the data presentation."
+}

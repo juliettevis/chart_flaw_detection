@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The inconsistent spacing between y-axis tick marks creates a misleading visual impression where the differences between TB prevalence rates appear distorted. The irregular intervals make it difficult to accurately gauge the relative differences between countries, potentially exaggerating some gaps while minimizing others, which could lead viewers to draw incorrect conclusions about the comparative severity of TB across these nations."
+}

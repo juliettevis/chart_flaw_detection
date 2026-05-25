@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_a",
+  "chart_type": "scatter_chart",
+  "flaw_type": "overusing_colors",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "FIFA 18 Overall vs Potential, colored by the 20 most-represented nationalities with a gist_rainbow palette. Too many hues to distinguish; the reader cannot visually separate nationality groups."
+}

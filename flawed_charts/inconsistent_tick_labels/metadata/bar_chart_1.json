@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis labels use wildly inconsistent formatting, mixing dollar signs with and without spaces, abbreviations like \"K\", decimal places, and thousands separators in an unpredictable pattern. This makes it difficult to quickly compare values and creates unnecessary cognitive load for readers trying to interpret the scale of the data."
+}

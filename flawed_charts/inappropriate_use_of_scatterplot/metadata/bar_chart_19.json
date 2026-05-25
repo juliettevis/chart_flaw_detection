@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_19",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_scatterplot",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The scatter plot implies a continuous numeric relationship between the x-axis positions of unrelated U.S. states, as if the spacing or ordering of states on the x-axis carries quantitative meaning. The isolated dots with no connecting trend line or meaningful numeric x-axis make it nearly impossible to read precise values, and the chart visually suggests that states can be interpolated between \u2014 a fundamentally misleading representation for categorical data."
+}

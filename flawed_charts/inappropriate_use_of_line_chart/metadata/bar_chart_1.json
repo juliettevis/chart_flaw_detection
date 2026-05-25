@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_line_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The line chart falsely implies a continuous trend or relationship between completely unrelated product sub-categories (Chairs, Phones, Storage, etc.), as if there is a meaningful progression from one category to the next. The connected line suggests that sales \"decline\" in a smooth, sequential pattern across these categories, when in reality these are discrete, independent groups with no inherent order or continuity. A reader might incorrectly infer that the categories exist on a spectrum or that changes between adjacent categories are meaningful."
+}

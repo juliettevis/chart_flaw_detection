@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "misrepresentation",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "This chart is deeply misleading because the heights of the bars don't match the numerical values displayed above them. For instance, Timor-Leste shows a value of 802 but its bar is taller than Djibouti's bar which displays 906, and several other bars show dramatic inconsistencies between their visual heights and labeled values, making it impossible to accurately compare the TB prevalence rates across countries."
+}

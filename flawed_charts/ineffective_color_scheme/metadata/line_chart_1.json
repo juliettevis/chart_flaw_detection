@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "ineffective_color_scheme",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The jarring color changes between each month make it nearly impossible to follow the trends for either product category. The random assignment of bright, unrelated colors to sequential time periods breaks the visual continuity that helps viewers understand how sales change over time, turning what should be clear trend lines into a confusing rainbow of disconnected segments."
+}

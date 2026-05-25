@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_8",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_pie_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This pie chart fundamentally misrepresents the data by showing only four sales ranges while claiming to represent the full distribution, with the displayed percentages totaling just 68.8% instead of 100%. The missing 31.2% of orders creates a deceptive gap that makes it impossible to understand the true distribution of sales values across all orders. [NOTE: Generated code failed to execute]"
+}

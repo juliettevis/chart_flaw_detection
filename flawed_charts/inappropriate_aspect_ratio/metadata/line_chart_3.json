@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_aspect_ratio",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The compressed horizontal scale makes the decline in TB deaths appear far more dramatic and precipitous than it actually is. India's gradual increase followed by decline now looks like a sharp spike and crash, while China's steady decrease appears as a steep plunge, creating a misleading impression of rapid changes where the actual trends were much more gradual."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_b",
+  "chart_type": "line_chart",
+  "flaw_type": "data_of_different_magnitudes",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "Monthly COVID-19 deaths for the USA and New Zealand are plotted on a single linear y-axis. USA peaks reach the hundreds of thousands while New Zealand never exceeds a few hundred, so the New Zealand curve collapses onto the x-axis and its trend is unreadable."
+}

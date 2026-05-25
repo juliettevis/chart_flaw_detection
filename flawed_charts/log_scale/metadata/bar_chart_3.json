@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The logarithmic scale severely distorts the data by compressing the visual differences between months, making it appear that January and February (with around 45-50 orders) are almost comparable to September, November, and December (with 185-195 orders), when in reality the latter months have nearly 4 times as many orders. This scale choice makes monthly variations appear minimal and masks the significant spike in orders during the fall months, potentially leading viewers to underestimate the true magnitude of seasonal fluctuations in order volume."
+}

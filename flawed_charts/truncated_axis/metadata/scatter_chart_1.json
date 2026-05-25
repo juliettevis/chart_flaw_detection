@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis starting at \u20ac3M instead of zero makes the differences in player values appear much more dramatic than they actually are. Players valued at \u20ac10-20M appear to have almost no value compared to the highest-valued players, when in reality they still represent substantial market values. This truncated axis exaggerates the relative differences between player valuations and could mislead viewers about the actual distribution of market values across different overall ratings."
+}

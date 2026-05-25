@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart clearly shows that South-East Asia has the highest number of TB deaths, followed by Africa, yet the title falsely claims that Europe leads in TB deaths when it actually has one of the lowest death counts among all WHO regions."
+}

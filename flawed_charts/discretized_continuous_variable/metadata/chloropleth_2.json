@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_2",
+  "chart_type": "chloropleth",
+  "flaw_type": "discretized_continuous_variable",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This map misleadingly presents mortality rates as distinct categories, making countries appear fundamentally different when their actual death rates may differ by just a few points. Countries on either side of arbitrary thresholds (like 749 vs 751 deaths per 100,000) are shown in completely different colors, exaggerating minor differences while obscuring the continuous nature of mortality data and making it difficult to assess true relative differences between nations."
+}

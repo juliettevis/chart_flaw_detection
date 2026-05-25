@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The title, axis labels, and tick labels are all rendered in extremely tiny font sizes (3\u20135pt), making them virtually unreadable against the large chart area. A reader would struggle to identify what the chart is showing, what the axes represent, or what the month labels say, since the text is disproportionately small relative to the bars and overall figure size."
+}

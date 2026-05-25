@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "dual_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses two separate logarithmic y-axes with different scales \u2014 the male axis ranges up to ~20,000 while the female axis only goes to ~11,000 \u2014 making the two lines appear to nearly overlap and track each other almost identically throughout all age groups. A casual reader will assume both series share the same scale and conclude that male and female mortality rates are nearly equal across all ages, when in reality males consistently have substantially higher death rates than females at every age group."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The chart's readability is severely compromised by overlapping text elements. The x-axis year labels now collide with each other horizontally, making it impossible to distinguish individual years. Additionally, the y-axis shows full numeric values with commas that overlap with the axis title, creating an illegible mess where neither the scale values nor the \"Incident Cases\" label can be properly read."
+}

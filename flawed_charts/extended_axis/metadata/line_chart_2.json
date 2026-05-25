@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis extends to $57,000, roughly three times the maximum data value of approximately $19,000, causing all data points to be compressed into the bottom third of the chart. This makes the differences between Furniture and Technology profits appear negligible, and the significant upward trend in Technology profits is nearly invisible to the reader."
+}

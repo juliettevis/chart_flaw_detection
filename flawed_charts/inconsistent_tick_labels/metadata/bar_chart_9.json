@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_9",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The x-axis tick labels use inconsistent number formatting styles across the same axis: some values are plain integers (\"0\", \"400\", \"800\"), one uses two decimal places (\"200.00\"), one uses an abbreviated \"K\" suffix (\"0.6K\"), and one uses a thousands separator (\"1,000\"). This mixing of formats makes it harder for a reader to quickly parse and compare values along the axis, creating unnecessary cognitive load and potential confusion."
+}

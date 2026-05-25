@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without a title, the chart provides no immediate context about what is being shown or why. A reader encountering this scatter plot for the first time would have to infer from the axis labels alone that it relates to FIFA 18 players, missing the intended message about the relationship between age and player wages. The absence of a title makes the visualization feel incomplete and forces unnecessary cognitive effort on the audience."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "dual_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses two different y-axes with vastly different scales \u2014 Furniture ranges from about -$2,000 to $5,000 while Technology ranges from about -$8,000 to $22,000 \u2014 but the axis limits are carefully chosen so both lines appear to track closely together and intersect at similar visual positions. A casual reader will likely assume both series are on the same scale and interpret them as having comparable profit levels, when in reality Technology profits are consistently 4\u20138x higher than Furniture profits."
+}

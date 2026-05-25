@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_f",
+  "chart_type": "line_chart",
+  "flaw_type": "overplotting",
+  "flaw_category": "Overplotting",
+  "flaw_stage": "Plotting",
+  "description": "Monthly COVID-19 death totals for all 240 countries/territories are drawn as separate lines from 2020 to 2026. The resulting tangle of overlapping lines makes it impossible to identify any individual country's trajectory or compare peak timing across countries."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "indistinguishable_colors",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "Both lines are rendered in nearly identical shades of blue, making it virtually impossible to distinguish \"Technology\" from \"Office Supplies\" at a glance. Even when consulting the legend, readers must look extremely carefully to notice the subtle color difference, leading to confusion about which trend belongs to which category. This effectively undermines the chart's core purpose of comparing the two sales series."
+}

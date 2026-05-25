@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_5",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_use_of_smoothing",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart uses cubic spline interpolation to draw a heavily smoothed curve through the data points, which creates false peaks and valleys between the actual measurements. For example, the sharp transitions in the 2015\u20132021 period are smoothed into artificial curves that imply gradual changes that never occurred. Readers may interpret the interpolated curve as representing real intermediate data values, when in fact only the marked points are actual measurements."
+}

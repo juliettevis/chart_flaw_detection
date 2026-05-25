@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_7",
+  "chart_type": "area_chart",
+  "flaw_type": "inappropriate_use_of_stacked",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart now stacks 14 separate sub-series across 4 original categories, using a garish rainbow color palette that makes it virtually impossible to distinguish individual layers. Each sub-series occupies only a thin sliver of the total area, and since adjacent slices have similar hues, readers cannot track any single layer's trend across time or meaningfully compare sub-categories to one another."
+}

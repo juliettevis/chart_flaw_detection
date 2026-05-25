@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "missing_legend",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This stacked area chart displays tuberculosis incidence across different WHO regions over time, but without a legend, it's impossible to determine which colored area represents which region. The visualization shows clear differences in magnitude between regions and trends over time, but the absence of any identifying labels makes the data meaningless to interpret."
+}

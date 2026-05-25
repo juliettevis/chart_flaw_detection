@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_12",
+  "chart_type": "line_chart",
+  "flaw_type": "dual_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses two different y-axis scales \u2014 the left axis spans 0 to ~140,000 deaths for the US and India, while the right axis spans only 0 to 24,000 for Germany \u2014 but both axes display values in the same \"k\" format at similar positions on the chart. This makes Germany's line appear to track closely with the US and India lines, falsely suggesting that Germany's death toll was comparable in magnitude to these much larger countries, when in reality Germany's peak was roughly 5\u20136 times smaller."
+}

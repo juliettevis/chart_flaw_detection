@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_a",
+  "chart_type": "line_chart",
+  "flaw_type": "data_of_different_magnitudes",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "India's population, TB deaths, and HIV-positive TB deaths drawn on a single linear y-axis across 24 years. Population flatlines near the top of the chart while the death series hug the x-axis \u2014 the trends in the two death metrics are invisible."
+}

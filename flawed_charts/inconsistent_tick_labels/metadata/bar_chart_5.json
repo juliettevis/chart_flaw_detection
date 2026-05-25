@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The inconsistent formatting of the y-axis labels makes it unnecessarily difficult to compare values across different regions. The mixing of formats like \"$100K\", \"200,000\", and \"300000.0\" creates visual confusion and requires extra mental effort to interpret the actual death counts, undermining the chart's ability to effectively communicate the relative scale of TB deaths across WHO regions."
+}

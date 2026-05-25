@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_8",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_value_labels",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The pie chart no longer displays any percentage labels on the slices, making it impossible for readers to determine the exact proportion of each age bracket. Viewers can only roughly estimate the relative sizes of the segments by visual inspection, with no numerical information available to confirm their guesses."
+}

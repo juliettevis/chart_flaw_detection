@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart fails to communicate what is being measured on either axis, leaving readers guessing whether the horizontal axis represents time periods and what unit of measurement the vertical axis uses. Without axis labels, it's impossible to understand if we're looking at profit margins, revenue, units sold, or some other metric, making the data essentially meaningless despite the precise values shown."
+}

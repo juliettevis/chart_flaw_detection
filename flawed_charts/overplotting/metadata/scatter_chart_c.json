@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_c",
+  "chart_type": "scatter_chart",
+  "flaw_type": "overplotting",
+  "flaw_category": "Hidden Information",
+  "flaw_stage": "Interpretation",
+  "description": "Every country-year observation (~5,000 points) of TB incidence vs mortality is drawn opaquely. Low-incidence countries pile up in the bottom-left corner as a solid wedge, hiding how many distinct country-years fall in that region."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The x-axis labels in this chart are completely illegible due to severe overlapping. With the horizontal orientation and negative label padding, country names like \"Swaziland,\" \"Djibouti,\" and \"Timor-Leste\" blend into an unreadable mess, making it impossible to identify which bar represents which country. The overlap between the country names and the \"Country\" axis label further compounds the readability problem."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_units",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis labels now show raw numbers (0, 20, 40, etc.) without any currency symbol (\u20ac) or scale indicator (M for millions), making it impossible to determine whether the values represent euros, thousands, millions, or some other unit. The y-axis title also no longer mentions the currency, leaving readers with no way to understand the actual monetary scale of the player market values."
+}

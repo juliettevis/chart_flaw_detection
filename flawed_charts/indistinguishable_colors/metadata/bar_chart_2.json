@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "indistinguishable_colors",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "All three customer segments (Consumer, Corporate, and Home Office) are represented using nearly identical shades of blue, making it virtually impossible to distinguish which bar belongs to which category. A reader glancing at the chart would struggle to match the bars to the legend entries, potentially drawing incorrect conclusions about the relative performance of each segment across regions."
+}

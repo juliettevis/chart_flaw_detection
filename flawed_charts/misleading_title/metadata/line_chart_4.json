@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The title claims that male and female mortality rates are similar across all ages, but the chart clearly shows that males have consistently and substantially higher death rates than females across nearly every age group, with the gap being especially pronounced in the working-age years (15\u201364). This misleading title downplays a significant sex-based disparity in mortality."
+}

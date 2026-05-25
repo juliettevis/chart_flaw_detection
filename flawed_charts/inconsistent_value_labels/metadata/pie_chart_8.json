@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_8",
+  "chart_type": "pie_chart",
+  "flaw_type": "inconsistent_value_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The percentage labels on the three pie slices use wildly inconsistent formatting: the 0\u201314 slice shows a rounded whole number in tiny font (8pt), the 15\u201359 slice displays three decimal places in an oversized font (18pt), and the 60+ slice uses the standard one decimal place at a normal size. This haphazard mix of precision levels and font sizes makes the chart look unprofessional and can confuse readers about which format to trust or compare."
+}

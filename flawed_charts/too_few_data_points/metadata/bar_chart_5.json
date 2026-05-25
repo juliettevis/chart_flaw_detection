@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "too_few_data_points",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "This chart shows only a single bar (South-East Asia), representing just one of the six WHO regions, which gives readers no meaningful basis for comparison across regions. A viewer cannot assess relative TB burden or draw any conclusions about global patterns from a single data point. The chart's title implies a comprehensive regional comparison that the data simply does not support."
+}

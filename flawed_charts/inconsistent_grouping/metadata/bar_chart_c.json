@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_c",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_grouping",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "Cumulative COVID-19 deaths are split into four regional bars for the USA (Northeast, South, Midwest, West) but kept as single country-level bars for Brazil, India, Russia, and Mexico. The chart mixes within-country region granularity with whole-country granularity."
+}

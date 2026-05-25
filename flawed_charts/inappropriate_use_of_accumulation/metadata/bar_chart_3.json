@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_accumulation",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This chart misleadingly shows an ever-increasing trend that masks any month-to-month fluctuations or recent declines in order volume. The steadily rising bars give the false impression that business is continuously growing, when in reality the chart is displaying cumulative totals rather than individual monthly performance, making it impossible to identify periods of decreased orders or seasonal patterns."
+}

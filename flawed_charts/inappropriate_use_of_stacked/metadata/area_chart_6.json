@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_6",
+  "chart_type": "area_chart",
+  "flaw_type": "inappropriate_use_of_stacked",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart now stacks 25 sub-series across 5 countries, each broken into 5 regional sub-groups, creating a visually overwhelming rainbow of thin colored bands. It is impossible to track any individual sub-series across the x-axis or compare regional contributions, and the legend is a cluttered mass of tiny labels that provides no meaningful guidance to the reader."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The logarithmic scale on the y-axis severely distorts the visual representation of TB incidence trends, making it nearly impossible to appreciate the true magnitude of differences between regions. What appears as modest variations on the log scale actually represents millions of cases in difference, misleading viewers about the relative burden of TB across WHO regions and obscuring the dramatic growth in cases that occurred in certain regions over time."
+}

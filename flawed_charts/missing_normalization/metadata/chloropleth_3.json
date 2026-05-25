@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_3",
+  "chart_type": "chloropleth",
+  "flaw_type": "missing_normalization",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart's title and legend claim to show \"CO2 Emissions per Capita\" but actually displays total absolute emissions in thousand metric tons, which heavily favors large, populous countries like China, the United States, and India. This makes it appear that these countries are the worst per-person polluters while masking high per-capita emitters like Gulf states and smaller industrialized nations, creating a fundamentally misleading comparison between countries of vastly different population sizes."
+}

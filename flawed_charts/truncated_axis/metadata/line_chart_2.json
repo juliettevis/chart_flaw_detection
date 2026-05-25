@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly amplifies the performance differences between furniture and technology profits by truncating the y-axis, making furniture's struggles appear more severe and technology's dominance seem more extreme than they actually are. The compressed vertical scale creates an exaggerated visual impression of the gap between the two product lines."
+}

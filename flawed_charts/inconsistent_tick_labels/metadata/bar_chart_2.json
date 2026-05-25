@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick labels use wildly inconsistent formatting, making it difficult to quickly compare values across the chart. Some values show as plain numbers, others include dollar signs, some use comma separators, and others are abbreviated with 'K' or 'k', creating visual confusion and making it harder to understand the actual scale of the data."
+}

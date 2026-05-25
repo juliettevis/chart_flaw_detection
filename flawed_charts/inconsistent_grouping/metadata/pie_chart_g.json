@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_g",
+  "chart_type": "pie_chart",
+  "flaw_type": "inconsistent_grouping",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "Percent of parliamentary seats held by women is shown per individual European country (15 countries) but aggregated to a single continental average for Asia, Africa, and the Americas. The pie mixes country-level granularity in Europe with continent-level averages elsewhere."
+}

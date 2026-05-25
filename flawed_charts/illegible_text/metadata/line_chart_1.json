@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The chart's x-axis labels are completely illegible due to severe overlapping, making it impossible to determine which months correspond to which data points. Additionally, the axis labels have been pushed too close to the tick labels, creating further confusion about what information the axes represent."
+}

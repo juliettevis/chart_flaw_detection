@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_item_order",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The bars are displayed in a scrambled, arbitrary order \u2014 neither ranked by value nor alphabetical \u2014 making it nearly impossible to quickly identify which country has the most players or to spot any ranking pattern. A reader scanning the chart would struggle to compare nationalities meaningfully, as small and large values are interleaved without any logical structure. This hides the natural descending trend visible in the original and creates a misleading impression of the data."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart's y-axis extends all the way to $850,000, making it nearly impossible to see the quarterly variations and differences between product categories. All the data is compressed into the bottom third of the chart, which makes meaningful comparisons between quarters and categories extremely difficult and obscures important trends in the business performance."
+}

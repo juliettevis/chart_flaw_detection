@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_17",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_scatterplot",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The scatter plot uses tiny isolated points to represent disbursement values for each candidate, which implies a continuous numeric relationship between the y-axis positions (candidate names). This visualization misleads readers into thinking there is some meaningful numeric progression or trend along the candidate axis, when in reality the candidates are simply discrete, unrelated categories with no inherent numeric ordering or relationship to one another."
+}

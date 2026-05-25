@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_3",
+  "chart_type": "area_chart",
+  "flaw_type": "color_blind_unfriendly",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "This visualization fails to accommodate colorblind viewers by using reds and greens that appear nearly identical for those with deuteranopia. The distinction between Forwards and Midfielders, as well as Defenders and Goalkeepers, becomes virtually impossible to discern, making the chart's stacked area representation meaningless for approximately 5% of male viewers who cannot differentiate these color choices."
+}

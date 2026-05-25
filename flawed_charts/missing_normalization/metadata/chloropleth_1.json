@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_1",
+  "chart_type": "chloropleth",
+  "flaw_type": "missing_normalization",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This visualization misleadingly shows absolute TB prevalence numbers instead of rates per population, making it appear that large countries like India and China have the worst TB problems simply because they have more people. Small countries with severe TB epidemics appear to have minimal issues, while populous countries with relatively controlled TB rates look catastrophic due to their sheer population size alone."
+}

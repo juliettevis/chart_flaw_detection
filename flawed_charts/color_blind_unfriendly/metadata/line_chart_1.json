@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "color_blind_unfriendly",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart uses red and green colors for the two data series, making it extremely difficult for people with deuteranopia (red-green color blindness) to distinguish between Technology and Office Supplies sales. What appears as clearly different colors to most viewers becomes nearly indistinguishable brownish tones for approximately 5% of male readers, potentially leading to misinterpretation of which product category is performing better at any given time point."
+}

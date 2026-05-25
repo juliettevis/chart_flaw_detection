@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart clearly shows England leading with 1,630 players, nearly 50% more than second-place Germany, yet the title falsely claims that Netherlands dominates player representation when it's actually in 10th place with only 429 players."
+}

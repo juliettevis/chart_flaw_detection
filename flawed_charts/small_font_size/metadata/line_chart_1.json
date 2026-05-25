@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The chart's text is extremely tiny and virtually unreadable \u2014 the title, axis labels, tick labels, and legend text are all rendered at such minuscule font sizes that a reader cannot make out the month names, sales values, category names, or what the chart is even about. The normal-sized chart elements (lines, markers, axes) contrast sharply with the barely-visible text, making the chart nearly impossible to interpret."
+}

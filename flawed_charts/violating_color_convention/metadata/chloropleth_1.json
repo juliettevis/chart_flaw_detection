@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_1",
+  "chart_type": "chloropleth",
+  "flaw_type": "violating_color_convention",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The color scale is reversed so that countries with the highest TB prevalence (most dangerous/severe) appear in light yellow while countries with low prevalence (safer) appear in dark red. This violates the convention that red signals danger or severity, making high-burden countries like those in sub-Saharan Africa appear visually \"safe\" and low-burden countries like those in Europe appear alarming."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses a logarithmic y-axis scale for what is straightforward count data, which compresses the visual differences between nationalities and makes bars that differ by hundreds of players (e.g., England's 1,630 vs. Netherlands' 429) appear far more similar in height than they actually are. A reader unfamiliar with log scales would likely underestimate the true magnitude of differences between the top and bottom countries. The log scale is entirely inappropriate here since the data spans less than one order of magnitude and there is no meaningful reason to apply it."
+}

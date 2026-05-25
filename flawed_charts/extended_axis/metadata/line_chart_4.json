@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis extends to 32,000 even though the maximum data value is around 10,000, compressing all lines into the bottom third of the chart. This makes the dramatic age-related increase in mortality nearly imperceptible, and the substantial differences between male and female death rates \u2014 especially in older age groups \u2014 are almost invisible to the reader."
+}

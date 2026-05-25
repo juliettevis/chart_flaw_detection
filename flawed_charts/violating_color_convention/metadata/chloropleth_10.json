@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_10",
+  "chart_type": "chloropleth",
+  "flaw_type": "violating_color_convention",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The color scale is reversed so that countries with more females per male are shown in blue and countries with more males per female are shown in pink/magenta. This violates the widely understood gender color convention (pink for female, blue for male), making the map intuitively misleading \u2014 a reader would naturally assume pink regions have more females, when in fact it's the opposite."
+}

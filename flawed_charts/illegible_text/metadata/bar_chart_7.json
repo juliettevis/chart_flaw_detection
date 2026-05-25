@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_7",
+  "chart_type": "bar_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The chart's axis labels and tick labels overlap severely, making the text illegible and impossible to read. The x-axis tick labels pile on top of each other and merge with the axis title, while the y-axis numbers crash into their own axis title, creating an unreadable mess that defeats the purpose of labeling the chart."
+}

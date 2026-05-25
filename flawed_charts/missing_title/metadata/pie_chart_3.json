@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_3",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without a title, viewers are left to guess what this pie chart represents. The percentages and legend labels provide clues, but the lack of context makes it unclear whether this shows player distribution in a specific league, team, or dataset, and what the purpose of the visualization is."
+}

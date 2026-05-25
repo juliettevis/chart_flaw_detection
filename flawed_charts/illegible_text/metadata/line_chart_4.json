@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The x-axis tick labels are now displayed horizontally (rotation=0) with the full \"years old\" suffix appended, causing them to heavily overlap each other and become completely unreadable. Additionally, the \"Age Group\" axis title has been pushed up into the tick labels with a negative labelpad, making both the labels and the axis title collide into an illegible mass of text."
+}

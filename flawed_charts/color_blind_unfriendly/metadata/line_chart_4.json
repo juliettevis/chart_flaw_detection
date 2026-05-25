@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "color_blind_unfriendly",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "The two lines representing Male and Female mortality rates are colored in vermillion/orange-red (#D55E00) and green (#009E73), which appear clearly distinct to people with normal color vision. However, for individuals with deuteranopia (red-green color blindness), both colors collapse into similar brownish/olive tones, making it nearly impossible to distinguish which line represents males versus females \u2014 a critical distinction for interpreting the chart's message about sex-based mortality differences."
+}

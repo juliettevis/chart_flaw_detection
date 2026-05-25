@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_3",
+  "chart_type": "area_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart misleadingly truncates the peak data around ages 25-26, where the player count reaches approximately 1,500, by capping the y-axis at 1,100. This visual cropping makes it impossible to accurately assess the true distribution of players at their peak ages, hiding about 25% of the data from view and distorting the reader's understanding of when most FIFA players are in their prime."
+}

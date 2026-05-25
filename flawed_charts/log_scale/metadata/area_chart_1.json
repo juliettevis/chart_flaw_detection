@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart is misleading because it uses a logarithmic scale for sales data that clearly shows proportional growth over time. The log scale compresses the dramatic increases in sales from around $75,000 to nearly $300,000, making the growth appear much more gradual and steady than it actually is. This obscures the significant quarterly variations and the substantial upward trend that would be clearly visible on a linear scale."
+}

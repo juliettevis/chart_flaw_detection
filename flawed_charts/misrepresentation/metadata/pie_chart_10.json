@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_10",
+  "chart_type": "pie_chart",
+  "flaw_type": "misrepresentation",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The pie chart displays percentage labels (e.g., EURO at 36.2%, AMRO at 24.9%) that do not match the actual visual slice sizes \u2014 AMRO's slice appears far larger than EURO's despite EURO being labeled as the biggest region. A reader glancing at the chart would form a completely different understanding of the regional distribution than what the numbers state, creating a significant and misleading contradiction between the visual encoding and the annotations."
+}

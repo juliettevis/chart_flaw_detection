@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_9",
+  "chart_type": "bar_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The chart's y-axis has been artificially truncated, cutting off the true height of the tallest bar which represents the majority of countries with low TB prevalence. This misleading visualization makes it impossible to accurately compare the distribution and hides the fact that most countries cluster in the 0-50 prevalence range, fundamentally distorting the data's story."
+}

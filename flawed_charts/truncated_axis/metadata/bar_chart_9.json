@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_9",
+  "chart_type": "bar_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly exaggerates the differences in country counts across TB prevalence categories by starting the y-axis at 0.7 instead of zero. This makes small differences between bars appear much larger than they actually are, potentially leading viewers to overestimate the variation in TB prevalence distribution across countries."
+}

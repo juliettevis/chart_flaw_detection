@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The logarithmic y-axis scale severely compresses the visual differences between countries, making Brazil's ~5,000 deaths appear relatively close to India's 400,000+ deaths when they actually differ by two orders of magnitude. This transformation obscures the true public health disparities and makes it difficult for readers to grasp the dramatic differences in TB mortality rates across these countries."
+}

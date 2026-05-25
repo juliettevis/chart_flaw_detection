@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_1",
+  "chart_type": "chloropleth",
+  "flaw_type": "discretized_continuous_variable",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This choropleth map misleadingly presents TB prevalence as distinct categories rather than a continuous phenomenon, making countries with prevalence rates of 99 and 101 per 100,000 appear drastically different despite being virtually identical. The arbitrary categorization obscures the true gradual variations in disease burden and creates artificial boundaries that exaggerate small differences while minimizing larger ones within the same category."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_7",
+  "chart_type": "chloropleth",
+  "flaw_type": "violating_color_convention",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The chart uses a red color scale to represent renewable energy production, which violates color conventions since green is universally associated with renewable/clean energy and environmental sustainability, while red typically signals danger, pollution, or negative outcomes. This misleading color choice could cause readers to instinctively interpret countries with high renewable energy percentages as performing poorly rather than positively."
+}

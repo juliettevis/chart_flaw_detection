@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_3",
+  "chart_type": "area_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart clearly shows a dramatic peak in player numbers around age 25, followed by a sharp decline as players age, yet the title incorrectly claims that player numbers remain steady across all ages. This misleading title would cause readers to expect a flat distribution when the data actually reveals a pronounced concentration of younger players in professional football."
+}

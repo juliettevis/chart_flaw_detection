@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_b",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_grouping",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "Average house price is shown as a single aggregate bar for 2-bedroom and 3-bedroom homes, but 4-bedroom homes are split into three separate bars by furnishing status (furnished, semi-furnished, unfurnished). Readers compare whole-group averages against narrower sub-group averages, breaking the like-for-like grouping."
+}

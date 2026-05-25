@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_8",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_binning_size",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "This histogram misleadingly suggests that most orders are concentrated in the lower price ranges, when in reality the dramatically wider bins at higher values ($600-$1200 and $1200-$2000) artificially compress those ranges. The inconsistent bin widths make it impossible to accurately compare the density of orders across different price ranges, creating a deceptive visualization that exaggerates the concentration of low-value orders."
+}

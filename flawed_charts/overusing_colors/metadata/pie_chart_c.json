@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_c",
+  "chart_type": "pie_chart",
+  "flaw_type": "overusing_colors",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "USA deaths by age group (2010), 22 slices from the hsv colormap. With this many hues the reader can no longer match a color to its label without scanning the whole chart."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_8",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This histogram lacks any scale reference on the vertical axis, making it impossible to determine the actual number of orders in each sales bin. Without these y-axis tick marks and values, readers cannot quantify the distribution or make meaningful comparisons between the frequencies of different sales ranges."
+}

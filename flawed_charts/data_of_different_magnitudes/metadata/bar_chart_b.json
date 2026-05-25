@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_b",
+  "chart_type": "bar_chart",
+  "flaw_type": "data_of_different_magnitudes",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "Weekly wage (~\u20ac10\u2075) and market value (~\u20ac10\u2078) for the 10 most-valuable FIFA 18 players shown as grouped bars on a single linear axis. The wage bars become imperceptible next to the value bars that dominate the plot."
+}

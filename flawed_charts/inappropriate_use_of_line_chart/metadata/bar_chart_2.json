@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_line_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses a line graph to display order counts across four geographic regions (Central, East, South, West), which are discrete, unrelated categories with no inherent sequential or continuous relationship. The connecting lines falsely imply a trend or progression between regions, suggesting, for example, that order counts \"increase\" or \"decrease\" as you move from one region to the next, when in reality there is no meaningful ordering or continuity between them. This misleads readers into perceiving patterns or trajectories that do not exist in the data."
+}

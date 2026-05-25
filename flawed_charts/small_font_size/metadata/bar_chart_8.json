@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_8",
+  "chart_type": "bar_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart is nearly impossible to read due to the extremely small text size. The title, axis labels, and tick marks are so tiny that viewers would struggle to understand what data is being presented or read any of the values, making the chart effectively useless despite the data visualization itself being clearly visible."
+}

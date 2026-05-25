@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_9",
+  "chart_type": "bar_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This histogram appears to show that most countries have high TB prevalence rates, with the tallest bars appearing near the bottom of the chart, suggesting that the majority of nations suffer from severe tuberculosis burdens. However, this interpretation is completely backwards due to the inverted y-axis, which places larger counts at the bottom rather than the top, misleading viewers about the actual distribution of TB prevalence globally."
+}

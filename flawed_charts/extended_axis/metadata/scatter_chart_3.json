@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis extends to \u20ac1,700K \u2014 nearly three times the actual maximum wage of ~\u20ac565K \u2014 causing all data points to be compressed into the bottom third of the chart. This makes the substantial variation in player wages (from near \u20ac0K to \u20ac565K) appear trivial, as the differences between high- and low-earning players are visually difficult to distinguish."
+}

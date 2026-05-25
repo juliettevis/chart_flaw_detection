@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_4",
+  "chart_type": "chloropleth",
+  "flaw_type": "discretized_continuous_variable",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart discretizes a continuous homicide rate into four arbitrary categories (Low, Medium, High, Very High), causing countries with nearly identical rates near a boundary (e.g., 7.9 vs. 8.1) to appear in starkly different colors despite being practically indistinguishable. This categorical treatment hides the smooth variation in the data and exaggerates perceived differences between neighboring countries that happen to fall on opposite sides of an arbitrary cutoff. A reader would incorrectly interpret the map as showing four qualitatively distinct groups rather than a continuous spectrum of risk."
+}

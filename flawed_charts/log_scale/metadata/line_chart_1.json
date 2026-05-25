@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly uses a logarithmic scale for monthly sales data, which compresses the visual differences between values and makes the fluctuations appear much smaller than they actually are. The significant variations in sales between months (ranging from about $5,000 to $38,000) now appear as minor changes, and the dramatic spike in December for Office Supplies is visually diminished, potentially leading viewers to underestimate the true magnitude of sales differences between categories and months."
+}

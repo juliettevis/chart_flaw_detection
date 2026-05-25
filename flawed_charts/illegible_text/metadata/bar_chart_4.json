@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The x-axis labels are completely illegible because they overlap with each other and with the x-axis title \"Nationality\", making it impossible to determine which countries are represented in the data. This renders the chart unusable as readers cannot identify what each bar represents."
+}

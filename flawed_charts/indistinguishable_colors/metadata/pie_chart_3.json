@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_3",
+  "chart_type": "pie_chart",
+  "flaw_type": "indistinguishable_colors",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "All four pie slices are rendered in nearly identical shades of green, making it virtually impossible for a reader to distinguish between Forwards, Midfielders, Defenders, and Goalkeepers just by looking at the chart. The legend and percentage labels are present, but without clearly distinct colors, matching a slice to its category requires laborious cross-referencing and is prone to error."
+}

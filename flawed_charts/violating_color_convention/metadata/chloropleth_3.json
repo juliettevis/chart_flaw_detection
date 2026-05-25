@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_3",
+  "chart_type": "chloropleth",
+  "flaw_type": "violating_color_convention",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The color scale is reversed so that countries with the **lowest** CO2 emissions per capita appear in alarming dark red, while the **highest** polluters appear in pale white/light colors. This violates the conventional association where red/dark colors signal danger or high intensity, misleading readers into thinking low-emission countries are the biggest polluters and vice versa."
+}

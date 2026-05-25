@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "ineffective_color_scheme",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The rainbow color scheme creates a false visual hierarchy among the countries, suggesting that some countries are inherently related or form a progression from \"cool\" to \"warm\" when they are simply independent categories. This misleading gradient makes it harder to compare values objectively and draws unwarranted attention to the yellow/green bars in the middle of the spectrum."
+}

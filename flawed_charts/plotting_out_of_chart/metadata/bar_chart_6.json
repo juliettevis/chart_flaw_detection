@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart is misleading because the y-axis has been artificially truncated at 700, cutting off the true heights of the three highest TB prevalence rates. This makes it impossible for readers to accurately compare the values or see that Swaziland and Djibouti have rates approaching 950 per 100,000, significantly higher than what the visual representation suggests."
+}

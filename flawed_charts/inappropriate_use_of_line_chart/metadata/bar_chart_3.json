@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_line_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The line chart falsely implies a continuous trend or progression between monthly order counts, suggesting that the values smoothly transition from one month to the next as if following an underlying trend. While months do have a temporal order, using a line chart here visually overemphasizes the idea of a smooth, connected trajectory rather than showing each month as a discrete aggregate. This can mislead readers into thinking the dips and rises represent a meaningful continuous trend rather than independent monthly totals."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_3",
+  "chart_type": "pie_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart is nearly unreadable due to the extremely small text size. The title, percentage labels, and legend are so tiny that viewers would struggle to extract any meaningful information from the visualization, making it essentially useless for communicating the distribution of players by position group."
+}

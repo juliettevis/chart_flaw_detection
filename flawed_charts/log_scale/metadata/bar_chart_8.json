@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_8",
+  "chart_type": "bar_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This histogram's logarithmic y-axis severely distorts the true distribution of order sales, making the dramatic difference between the low-value orders (around 6,400) and higher-value orders (less than 200 each) appear much smaller than it actually is. The visual compression created by the log scale obscures the fact that small orders vastly outnumber large ones, potentially leading viewers to underestimate how heavily the business relies on low-value transactions."
+}

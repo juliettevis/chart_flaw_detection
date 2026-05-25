@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_7",
+  "chart_type": "line_chart",
+  "flaw_type": "selective_data",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "The chart only shows data from 2010 to 2022, a period where China's CO\u2082 emissions per capita rose modestly from about 5.9 to 7.5 metric tons \u2014 suggesting a gradual, flattening increase. This hides the dramatic surge from 1975 to 2010 (1.3 to 5.9 metric tons), making China's long-term emissions growth trajectory appear far less steep than it actually was over the full ~50-year period. The title still implies the chart covers all available data for China."
+}

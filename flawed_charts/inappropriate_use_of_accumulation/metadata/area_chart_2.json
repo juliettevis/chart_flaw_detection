@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "inappropriate_use_of_accumulation",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This chart misleadingly presents cumulative sales figures as if they were monthly values, making it appear that sales are continuously growing when in reality there could be declining monthly performance. The ever-increasing trend masks any month-to-month fluctuations or recent downturns, giving viewers an overly optimistic view of business performance that doesn't reflect the actual monthly sales patterns."
+}

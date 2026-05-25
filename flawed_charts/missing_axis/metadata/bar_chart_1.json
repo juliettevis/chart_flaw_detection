@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis has been completely removed from the chart \u2014 there are no tick marks, tick labels, axis line, or axis label visible on the left side. Without any y-axis reference, readers cannot determine the actual sales values for any of the bars, making it impossible to accurately interpret the magnitude of differences between sub-categories."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_item_order",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The bars are displayed in a scrambled, arbitrary order rather than sorted by sales value (descending), making it impossible to quickly identify rankings or spot trends. A reader cannot easily determine which sub-categories are highest or lowest performers without carefully reading each bar's value. This random arrangement masks the natural descending pattern and makes meaningful comparison across categories unnecessarily difficult."
+}

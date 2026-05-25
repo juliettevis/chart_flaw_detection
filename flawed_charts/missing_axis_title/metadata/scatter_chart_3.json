@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The chart lacks axis labels entirely, leaving both axes unlabeled. Without these labels, a reader cannot immediately understand what the numbers on the x-axis (player ages) or y-axis (wage values in euros) represent, even though the tick marks and formatted values are still visible. This forces the viewer to guess the meaning of the axes or rely solely on the chart title for context."
+}

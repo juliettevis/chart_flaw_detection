@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_aspect_ratio",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "This chart's compressed horizontal axis creates a severely distorted view of the relationship between age and wages. The narrow aspect ratio makes the wage variations appear far more dramatic and volatile than they actually are, suggesting steep changes over small age differences when in reality the changes are much more gradual. This distortion could lead viewers to overestimate the impact of age on player wages and misinterpret the overall trend patterns in the data."
+}

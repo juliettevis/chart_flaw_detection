@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "indistinguishable_colors",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "Both the Furniture and Technology lines are rendered in nearly identical shades of green (#009E73 and #00A876), making it extremely difficult for a reader to distinguish which line represents which category. Even with the legend present, the two colors are so similar that a viewer would likely confuse one data series for the other, undermining the chart's ability to communicate the difference in profit trends between the two categories."
+}

@@ -1,0 +1,10 @@
+{
+  "job_name": "batches/qngd4r22h125kkdxxm9riyodug6j60pg3nkc",
+  "submitted_at": "2026-05-03T18:50:02.718936+00:00",
+  "judge_model": "gemini-3-flash-preview",
+  "source_files": [
+    "results/kimi/batches/batch_69f78b1af3499c000c98496b/results.jsonl"
+  ],
+  "total_requests": 600,
+  "output_path": "/home/juvis/Documents/thesis/dataset_evaluation/compare_results_with_ground_truth/results/kimi/batch_69f78b1af3499c000c98496b/judge_results.jsonl"
+}

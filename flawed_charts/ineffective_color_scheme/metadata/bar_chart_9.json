@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_9",
+  "chart_type": "bar_chart",
+  "flaw_type": "ineffective_color_scheme",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "This histogram's use of distinct categorical colors for each bin creates a misleading visual hierarchy where there should be none. The bright, unrelated colors disrupt the reader's ability to see the continuous distribution pattern of TB prevalence rates, making it harder to identify the concentration of countries with low prevalence rates and the gradual decline toward higher rates."
+}

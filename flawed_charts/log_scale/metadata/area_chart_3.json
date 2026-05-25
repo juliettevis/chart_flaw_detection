@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_3",
+  "chart_type": "area_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart uses a logarithmic scale for the y-axis when displaying player counts, which dramatically compresses the visual differences between age groups. The peak at age 25 with around 1,500 players appears only marginally higher than ages 35-40 with fewer than 100 players, making the dramatic decline in player numbers at older ages seem much more gradual than it actually is."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_8",
+  "chart_type": "bar_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The x-axis and y-axis labels are now colliding with their respective tick labels, making it difficult to read either the axis titles or the tick values. This creates a cluttered appearance that obscures critical information about the sales distribution and order counts."
+}

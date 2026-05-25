@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_9",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without a title, this histogram leaves viewers guessing about what data is being presented and its significance. The lack of context makes it difficult to understand whether this shows global TB prevalence, data from a specific year, or what the overall purpose of the visualization is meant to communicate."
+}

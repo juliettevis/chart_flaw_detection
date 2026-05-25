@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart misleadingly truncates the data by cutting off the tops of the tallest bars, making it impossible to accurately compare the highest values. The Consumer segment in both East and West regions appears to have similar order counts when in reality they differ significantly, undermining the chart's primary purpose of showing regional differences."
+}

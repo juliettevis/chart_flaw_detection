@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_8",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_aspect_ratio",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart has been squeezed into a much narrower width while keeping the same height, severely distorting the aspect ratio. This compression makes the horizontal (time) axis much shorter relative to the vertical axis, causing all trends \u2014 especially the gradual rise from 1990\u20132010 \u2014 to appear dramatically steeper than they actually are. A reader would likely overestimate the rate of growth in renewable electricity production over this period."
+}

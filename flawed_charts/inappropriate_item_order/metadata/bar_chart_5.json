@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_item_order",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This chart makes it difficult to identify patterns in TB deaths across regions by presenting the data in an arbitrary order. The random arrangement prevents readers from quickly seeing which regions have the highest death rates or understanding the relative magnitude differences between regions, obscuring critical public health insights that would be immediately apparent with a properly ordered visualization."
+}

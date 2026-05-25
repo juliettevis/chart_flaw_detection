@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_6",
+  "chart_type": "pie_chart",
+  "flaw_type": "inconsistent_value_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The two percentage labels on the pie chart use wildly different formatting: the Democrat slice shows a rounded whole number (e.g. \"50%\") in a very large font, while the Republican slice displays four decimal places (e.g. \"49.8012%\") in a tiny font. This inconsistency makes the chart look unprofessional and can confuse readers about the precision and relative significance of each value."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The logarithmic scale severely distorts the perception of differences between countries' TB prevalence rates. What appears to be a modest difference between Swaziland (945) and Mozambique (559) on the log scale actually represents a 69% higher prevalence rate, making the disparities in TB burden seem far less dramatic than they truly are."
+}

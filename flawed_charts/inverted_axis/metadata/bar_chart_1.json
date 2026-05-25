@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This bar chart violates the fundamental convention of data visualization where values should increase upward on the y-axis. The inverted scale makes it appear that the shortest bars represent the highest sales values, which could lead viewers to completely misinterpret the relative performance of different sub-categories."
+}

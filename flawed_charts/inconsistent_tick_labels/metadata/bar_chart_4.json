@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick labels use wildly inconsistent formatting \u2014 some show whole numbers, others use decimal places, and there's a mix of 'K' and 'k' abbreviations alongside full numeric representations with commas. This lack of standardization makes it difficult to quickly compare values and creates visual confusion that undermines the chart's professional appearance."
+}

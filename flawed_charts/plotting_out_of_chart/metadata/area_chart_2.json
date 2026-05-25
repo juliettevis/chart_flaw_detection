@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart is misleading because it truncates the peak sales months, making it impossible to see the actual sales values for September through December. The chart appears to show sales plateauing around $75,000 when in reality they continue growing significantly higher, obscuring important seasonal trends and the true magnitude of year-end sales performance."
+}

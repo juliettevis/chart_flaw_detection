@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_9",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_use_of_bar_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart misleadingly treats assault rate \u2014 a continuous numeric variable \u2014 as if it were a set of discrete categories, with each country's assault value rendered as an isolated bar. This destroys the continuous relationship between the two variables, making it impossible to perceive any trend or correlation and instead giving the false impression that each data point is an independent categorical comparison. Readers cannot tell whether higher assault rates are associated with higher or lower homicide rates, which was the core insight the original scatter plot conveyed."
+}

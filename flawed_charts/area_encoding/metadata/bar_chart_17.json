@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_17",
+  "chart_type": "bar_chart",
+  "flaw_type": "area_encoding",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart encodes each candidate's disbursement value twice: once through bar length (correct) and once through bar thickness, so that bars with larger values appear much thicker. Since the perceived area grows as value\u00b2, the visual difference between top candidates like Sanders/Clinton and lower-ranked candidates like Huckabee is massively exaggerated \u2014 making the gaps look far more extreme than the actual data suggests."
+}

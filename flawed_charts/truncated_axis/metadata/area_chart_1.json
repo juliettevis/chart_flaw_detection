@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart is misleading because the truncated y-axis starting at $50,000 instead of zero dramatically exaggerates the apparent differences in quarterly sales, making small fluctuations appear as major changes. The chart also cuts off the peak sales value at the top, preventing viewers from seeing the true magnitude of the highest performing quarter and distorting the overall growth pattern."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_7",
+  "chart_type": "bar_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This histogram displays the age distribution of FIFA 18 players with the y-axis reversed, making it appear as if fewer players are in the peak age ranges (22-26 years) since the bars now extend downward from the top. This inverted presentation contradicts the standard convention where higher values are represented by taller bars extending upward, potentially misleading viewers about which age groups have the most players."
+}

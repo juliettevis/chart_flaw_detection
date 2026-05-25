@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This scatter plot misleadingly truncates the y-axis at \u20ac90M, causing the highest-valued players (worth \u20ac100M-\u20ac120M) to appear cut off at the top of the chart. This visualization fails to show the true market values of elite players with ratings of 93-94, creating a false impression that player values plateau around \u20ac90M when they actually continue to rise significantly higher."
+}

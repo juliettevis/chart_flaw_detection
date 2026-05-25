@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_4",
+  "chart_type": "area_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart is nearly impossible to read due to the extremely small text size. The title, axis labels, tick labels, and legend are all rendered so tiny that viewers would struggle to understand what data is being presented or extract any meaningful information from the visualization, despite the actual data representation remaining clear and properly sized."
+}

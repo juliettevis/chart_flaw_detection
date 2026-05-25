@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_11",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_use_of_smoothing",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart uses cubic spline interpolation to draw smooth curves between the actual data points, creating the illusion of continuous trends that don't exist in the real data. This smoothing introduces false peaks and valleys between measured years \u2014 for example, suggesting emissions rose and fell at specific intermediate years when in reality only a handful of discrete measurements were taken. Readers may mistakenly interpret the smooth curves as reflecting actual yearly data rather than interpolated guesses between sparse observations."
+}

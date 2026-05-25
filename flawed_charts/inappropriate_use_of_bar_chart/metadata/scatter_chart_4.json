@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_4",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_use_of_bar_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly presents a continuous relationship between TB prevalence and mortality as if they were discrete, unrelated categories. The bar chart format makes it impossible to see the correlation between the two variables, instead making it appear as though each prevalence value is just an arbitrary label rather than a meaningful numeric position on a continuous scale."
+}

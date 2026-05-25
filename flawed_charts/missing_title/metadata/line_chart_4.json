@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without a title, the chart leaves readers without any context about what they are viewing \u2014 they cannot immediately tell whether the data represents the United States, a specific year, or even what the subject matter is. The axis labels alone (\"Age Group\" and \"Death Rate per 100,000\") are insufficient to convey the full scope and purpose of the visualization, forcing the reader to guess the population, time period, and intent behind the comparison."
+}

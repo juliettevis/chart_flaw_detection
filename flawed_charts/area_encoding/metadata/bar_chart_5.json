@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "area_encoding",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "This chart is severely misleading because the visual impact of each bar is determined by its area rather than just its height. Since both the width and height increase with the value, the differences between regions appear dramatically exaggerated\u2014South-East Asia appears to have far more than the actual ~1.1x difference compared to Africa, making the disparities in TB deaths seem much more extreme than they really are."
+}

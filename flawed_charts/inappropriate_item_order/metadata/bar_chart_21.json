@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_21",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_item_order",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The countries are displayed in a scrambled, arbitrary order rather than sorted by their percentage values, making it impossible to quickly identify which countries lead or trail in women's parliamentary representation. The lack of any natural ordering (neither ranked nor alphabetical) forces readers to scan the entire chart without being able to detect any meaningful pattern or ranking. This arbitrary arrangement obscures what should be a clear progression from highest to lowest representation."
+}

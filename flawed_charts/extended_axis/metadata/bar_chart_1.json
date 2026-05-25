@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart is misleading because the y-axis extends to $1 million, making all the bars appear tiny and compressed at the bottom. The significant differences between categories like Chairs ($335,000) and Copiers ($150,000) are visually minimized, making it nearly impossible to compare the relative sales performance across sub-categories at a glance."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_scatterplot",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The scatter plot format creates a misleading impression that there's a meaningful numeric progression or relationship between the nationalities shown on the x-axis. This visualization inappropriately suggests that the position of countries along the horizontal axis has quantitative significance, when in reality these are unordered categorical labels where the sequence is arbitrary."
+}

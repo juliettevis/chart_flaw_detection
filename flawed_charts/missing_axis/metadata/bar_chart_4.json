@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis has been completely removed from the chart, including the axis line, tick marks, tick labels, and axis title. Without the y-axis, readers cannot determine the scale or precise values of the bars from the axis alone, making the chart harder to interpret quantitatively. While bar labels are still present, the absence of the y-axis removes important visual context for understanding the magnitude of differences between nationalities."
+}

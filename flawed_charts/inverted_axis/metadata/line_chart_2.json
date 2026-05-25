@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly presents profit data with an inverted y-axis, making declining trends appear as growth and vice versa. Readers would likely misinterpret the performance of both categories, potentially seeing Technology's strong profits as poor performance since the line appears to trend downward on the inverted scale. This reversal fundamentally distorts the data's meaning without any visual indication that the conventional axis direction has been changed."
+}

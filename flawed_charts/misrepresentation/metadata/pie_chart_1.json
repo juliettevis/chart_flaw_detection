@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_1",
+  "chart_type": "pie_chart",
+  "flaw_type": "misrepresentation",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "This pie chart is misleading because the visual sizes of the slices don't match their percentage labels. For instance, Technology shows 36.1% but visually appears to be a much smaller portion of the pie, while Furniture labeled as 32.4% takes up significantly more visual space than it should, creating a deceptive representation of the actual sales distribution."
+}

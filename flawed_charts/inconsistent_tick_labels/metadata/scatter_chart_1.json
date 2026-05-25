@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick labels use wildly inconsistent formats for displaying the same monetary values \u2014 switching between millions and thousands, using different currency symbol placements, mixing abbreviated and full forms, and even showing raw values. This makes it unnecessarily difficult to quickly compare values at different price points and creates visual confusion that undermines the chart's readability."
+}

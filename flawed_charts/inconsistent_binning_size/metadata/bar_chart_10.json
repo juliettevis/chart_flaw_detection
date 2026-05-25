@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_10",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_binning_size",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The histogram uses bins of wildly inconsistent widths (ranging from 2 percentage points to 25 percentage points) but displays them as equal-width bars, making it impossible to fairly compare across groups. The wider bins like \"15-25\" and \"25-50\" naturally accumulate far more countries, creating misleadingly tall bars that exaggerate the concentration of countries in those ranges while the narrow bins like \"0-3\" and \"3-5\" artificially suppress counts, distorting the true shape of the distribution."
+}

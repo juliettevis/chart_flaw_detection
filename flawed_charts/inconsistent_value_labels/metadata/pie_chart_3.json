@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_3",
+  "chart_type": "pie_chart",
+  "flaw_type": "inconsistent_value_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The pie chart's percentage labels are formatted inconsistently across slices: the Forward slice shows two decimal places in a tiny font (8pt), the Midfielder slice shows a rounded integer in an oversized font (18pt) making it visually dominant, the Goalkeeper label is rotated 45 degrees, and the Defender slice has no label at all. This haphazard labeling makes it difficult to compare values at a glance and gives the impression the chart was assembled by multiple people with no coordination."
+}

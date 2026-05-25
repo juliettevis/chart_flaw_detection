@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis is inverted so that larger values of TB deaths appear at the bottom of the chart while smaller values are at the top, which is the opposite of standard convention. This means trends that appear to be going \"up\" on this chart actually represent a decrease in deaths, and vice versa, making it easy for a reader to misinterpret whether TB mortality is rising or falling over time."
+}

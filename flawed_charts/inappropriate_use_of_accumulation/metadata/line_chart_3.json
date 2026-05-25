@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_3",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_use_of_accumulation",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This chart is misleading because it shows cumulative deaths rather than annual deaths, making it appear that TB deaths are continuously increasing for all countries. The upward-sloping lines hide the fact that several countries have actually achieved significant reductions in annual TB mortality rates over time, particularly China which shows a dramatic decline in the original data."
+}

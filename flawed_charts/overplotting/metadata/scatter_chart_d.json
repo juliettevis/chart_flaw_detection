@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_d",
+  "chart_type": "scatter_chart",
+  "flaw_type": "overplotting",
+  "flaw_category": "Hidden Information",
+  "flaw_stage": "Interpretation",
+  "description": "Every country-week row from the WHO COVID-19 dataset is plotted as new cases vs new deaths. Tens of thousands of points pile up near the origin into an opaque blob, so the actual density distribution and the relationship between cases and deaths are hidden by the overplotting."
+}

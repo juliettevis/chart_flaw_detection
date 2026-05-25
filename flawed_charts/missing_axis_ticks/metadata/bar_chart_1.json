@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis has no tick marks or numeric labels, making it impossible to determine the actual sales values for any of the bars. Readers are left without any quantitative reference points along the vertical axis, forcing them to guess at the magnitude of each bar. The axis title \"Sales ($)\" remains, but without scale indicators, it provides no useful information for interpreting the data."
+}

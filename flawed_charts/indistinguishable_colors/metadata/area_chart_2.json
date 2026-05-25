@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "indistinguishable_colors",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "All four regions (West, East, Central, South) are rendered in nearly identical shades of blue, making it virtually impossible for a reader to distinguish which band belongs to which region. The legend entries appear to reference the same color, so readers cannot reliably match a region's label to its area in the chart, undermining any comparison between regions."
+}

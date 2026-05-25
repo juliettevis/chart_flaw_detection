@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "area_encoding",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The visual impact of differences between countries is drastically exaggerated because the data values are encoded through both bar height and width. When readers perceive the area of each bar rather than just its height, countries with slightly higher TB prevalence appear to have disproportionately larger problems - for instance, Swaziland appears to have almost twice the problem of Mozambique when the actual difference is only about 69%."
+}

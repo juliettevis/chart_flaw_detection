@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_20",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_pie_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The pie chart only displays 6 of the 15 countries, yet each slice's percentage is calculated relative to the sum of all 15 countries' values \u2014 causing the displayed percentages to sum to only about 47% rather than 100%. This misleads viewers into thinking these slices represent tiny fractions of a meaningful whole, when in reality homicide rates are independent measurements that have no legitimate part-to-whole relationship to begin with, making a pie chart entirely inappropriate for this data."
+}

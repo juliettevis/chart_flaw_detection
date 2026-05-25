@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The x-axis label \"Age\" is completely obscured by the numeric tick labels along the x-axis, making it impossible to identify what the horizontal axis represents. This fundamental labeling issue makes the chart difficult to interpret as viewers cannot readily determine what is being measured on the x-axis."
+}

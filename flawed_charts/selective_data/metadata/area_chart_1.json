@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "selective_data",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "This chart misleadingly suggests that sales across all product categories are in decline, when in reality it only shows a brief downturn period from late 2025 to mid-2026, omitting the overall growth trend and recovery that follows. The title claims to represent the full 2023-2026 period, but the visualization cherry-picks just three quarters that paint an overly pessimistic picture of the business performance."
+}

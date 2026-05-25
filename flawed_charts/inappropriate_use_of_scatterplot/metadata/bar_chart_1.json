@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_scatterplot",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The scatter plot incorrectly implies a continuous relationship between the product categories, suggesting that \"Phones\" is somehow numerically between \"Chairs\" and \"Storage\" when these are actually independent categorical variables. This visualization misleads viewers into perceiving trends or patterns across the x-axis where none exist, making it appear as though there's a meaningful progression from one product category to another."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_pie_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This pie chart is fundamentally misleading because it shows only the top 5 months out of the full year but presents them as if they represent a complete whole. The percentages displayed (which sum to about 72%) create confusion about what portion of the data is actually being shown, making it impossible to understand the true distribution of orders across all months in 2025. [NOTE: Generated code failed to execute]"
+}

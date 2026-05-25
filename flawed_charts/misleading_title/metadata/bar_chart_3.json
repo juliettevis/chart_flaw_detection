@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart's title claims a steady decline in orders throughout 2025, but the data clearly shows a significant surge in orders starting in September, with the peak occurring in that month followed by sustained high levels through the end of the year. This misrepresents the actual trend, which shows growth rather than decline in the latter half of the year."
+}

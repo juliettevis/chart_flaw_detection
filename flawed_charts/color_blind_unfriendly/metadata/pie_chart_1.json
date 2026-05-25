@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_1",
+  "chart_type": "pie_chart",
+  "flaw_type": "color_blind_unfriendly",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "This pie chart uses a problematic color scheme that makes it extremely difficult for people with red-green color blindness to distinguish between the different product categories. The vermillion, green, and red colors appear as similar brownish-olive shades to those with deuteranopia, making it nearly impossible to match the legend to the corresponding pie slices without relying on the percentage labels."
+}

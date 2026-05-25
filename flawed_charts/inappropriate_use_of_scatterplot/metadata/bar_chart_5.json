@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_scatterplot",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The scatter plot format misleadingly suggests a continuous relationship or trend across WHO regions, when these are discrete categories with no inherent ordering or numeric relationship. This visualization could lead viewers to incorrectly perceive patterns or interpolate values between the arbitrary positions assigned to each region."
+}

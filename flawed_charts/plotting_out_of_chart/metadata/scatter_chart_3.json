@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart misleadingly truncates the wage scale, cutting off the highest-earning players from view. Readers cannot see the true maximum wages in the dataset, which obscures important outliers and makes it impossible to accurately assess the full range of player salaries or identify the top earners."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_3",
+  "chart_type": "pie_chart",
+  "flaw_type": "misrepresentation",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The pie chart visually misrepresents the actual distribution of players by position group - the slice sizes don't match their percentage labels. For instance, the segment labeled \"30.3%\" for Defenders appears to take up nearly half the pie, while the \"39.9%\" Midfielder segment looks much smaller than it should be, creating a deceptive visualization that would mislead viewers about the true proportions of players in each position."
+}

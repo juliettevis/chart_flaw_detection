@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "too_few_data_points",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "The chart only displays two data points (Q1 2023 and Q2 2023) yet retains the title claiming coverage from 2023\u20132026, creating a false impression that the slight downward trend seen represents a meaningful long-term pattern. With just two quarters of data, any apparent trend is statistically meaningless and misleads readers into drawing broad conclusions about multi-year sales behavior. The vast majority of the actual data \u2014 including significant growth visible in later years \u2014 is completely hidden."
+}

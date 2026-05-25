@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart is practically illegible due to the extremely small text size. The title, axis labels, and tick labels are so tiny that viewers would need to zoom in significantly or strain their eyes to read any of the important information, making the chart essentially useless for quick comprehension or presentation purposes despite the data visualization itself being properly sized."
+}

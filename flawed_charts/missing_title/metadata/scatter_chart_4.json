@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_4",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without a title, viewers are left to guess what this scatter plot represents. While the axis labels provide some context about TB prevalence and mortality rates, the absence of a title means critical information is missing: what year the data is from, what geographic scope it covers, and the overall purpose of comparing these two metrics."
+}

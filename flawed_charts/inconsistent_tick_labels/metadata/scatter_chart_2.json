@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The inconsistent formatting of age labels on the x-axis makes it difficult to quickly read and compare values. The mix of numeric formats (\"15\", \"17.0\"), written words (\"TWENTY\", \"thirty-five\"), and different abbreviations (\"25 yrs\", \"40yo\") creates unnecessary cognitive load and looks unprofessional, undermining the chart's credibility."
+}

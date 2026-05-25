@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The chart's title, axis labels, and tick labels are rendered in extremely tiny font sizes, making them nearly impossible to read. A viewer would struggle to identify what the axes represent or what the chart is about, as the text is so disproportionately small relative to the chart area that it appears as little more than specks. This creates a significant accessibility and comprehension problem, leaving the scatter plot's data points essentially unlabeled and uninterpretable."
+}

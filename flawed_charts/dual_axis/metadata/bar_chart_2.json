@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "dual_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses two different y-axis scales \u2014 the left axis goes up to 900 while the right axis only goes to 330 \u2014 but this is not visually obvious, making the \"Home Office\" bars appear comparable in height to the \"Consumer\" and \"Corporate\" bars. A casual reader will likely assume all three segments are measured on the same scale and conclude that Home Office order counts are similar to or competitive with the other segments, when in reality they are dramatically lower. The false visual parity between the series creates a misleading impression of similar performance across segments."
+}

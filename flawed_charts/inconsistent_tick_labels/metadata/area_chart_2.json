@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The inconsistent formatting on the y-axis makes it difficult to quickly compare values at different heights, as readers must mentally convert between dollar signs with commas, K notation, plain numbers, and decimal formats. This lack of standardization creates unnecessary cognitive load and makes the chart appear unprofessional and confusing."
+}

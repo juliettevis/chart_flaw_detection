@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_3",
+  "chart_type": "area_chart",
+  "flaw_type": "missing_legend",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The chart displays four colored stacked areas but provides no legend or labeling to identify which color corresponds to which position group (Forward, Midfielder, Defender, or Goalkeeper). A reader has no way to determine what each colored band represents, making the chart essentially uninterpretable beyond showing overall player counts by age."
+}

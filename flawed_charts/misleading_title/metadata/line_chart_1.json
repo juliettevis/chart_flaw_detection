@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "This chart misleadingly claims that Office Supplies dominate Technology sales throughout 2025, when the data clearly shows Technology outperforming Office Supplies for most of the year. A viewer might incorrectly conclude that Office Supplies is the stronger product category based on the title, despite the visual evidence showing Technology with consistently higher sales values and peaks."
+}

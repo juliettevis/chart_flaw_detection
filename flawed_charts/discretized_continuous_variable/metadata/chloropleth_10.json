@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_10",
+  "chart_type": "chloropleth",
+  "flaw_type": "discretized_continuous_variable",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The map artificially groups the continuous female-to-male ratio into four discrete color bands, making countries with nearly identical values (e.g., 0.999 vs. 1.001) appear starkly different in color simply because they fall on opposite sides of an arbitrary boundary at 1.00. The smooth gradient of the original data is completely hidden, and viewers are misled into perceiving sharp categorical divisions where the actual differences are negligible. Countries near bin boundaries appear to belong to fundamentally different groups despite having virtually the same ratio."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_7",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_binning_size",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The histogram misleadingly suggests dramatic differences in the age distribution by using bins of wildly varying widths \u2014 some bins cover just 2 years while others span 12 years. This makes the 28-35 age group appear disproportionately large compared to younger groups, when in reality the wider bin is simply capturing more ages, distorting the true distribution pattern of player ages."
+}

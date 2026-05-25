@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_axis_ticks",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis is completely missing its tick marks and numeric labels, making it impossible to read specific market value amounts from the chart. While the axis title \"Market Value (\u20ac)\" remains, readers cannot determine the scale or magnitude of any data point without the reference labels. The horizontal grid lines are still visible but provide no quantitative reference since their corresponding values on the y-axis are absent."
+}

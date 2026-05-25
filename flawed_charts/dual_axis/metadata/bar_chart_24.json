@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_24",
+  "chart_type": "bar_chart",
+  "flaw_type": "dual_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses two separate y-axes with different scale ranges (left axis: 0\u201390, right axis: 15\u2013105) for what appear to be comparable percentages. Because the axes are offset, the 2025 bars appear only slightly taller than the 2010 bars across most countries, visually minimizing the gains made between 2010 and 2025. A casual reader would likely assume both sets of bars share the same scale, leading them to dramatically underestimate how much women's parliamentary representation increased over 15 years."
+}

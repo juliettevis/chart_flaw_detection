@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "missing_legend",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The chart displays two distinct line patterns comparing quarterly profit data, but without a legend, viewers cannot determine which line represents Furniture and which represents Technology. This makes it impossible to draw meaningful conclusions about the relative performance of these two product categories, despite the clear differences in their profit trends and magnitudes."
+}

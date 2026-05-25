@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_19",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_line_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The line chart falsely implies a continuous trend or progression between the 15 states, as if there is a meaningful relationship between one state's spending and the next. In reality, these are discrete, unrelated geographic categories, and the connecting line suggests a directionality or trend that does not exist. A reader might incorrectly infer that campaign spending \"rises\" or \"falls\" across states in a sequential manner."
+}

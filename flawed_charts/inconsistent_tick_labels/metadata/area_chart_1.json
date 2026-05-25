@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis labels use an inconsistent mix of formats, making it difficult to quickly compare values. Some values show dollar signs while others don't, some use thousands notation (K) while others show full numbers, and decimal places vary randomly across the scale. This formatting chaos makes the chart harder to read and appears unprofessional."
+}

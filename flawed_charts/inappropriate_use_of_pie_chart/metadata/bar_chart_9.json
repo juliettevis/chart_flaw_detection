@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_9",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_pie_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This pie chart fundamentally misrepresents the distribution of TB prevalence rates by showing only the top 5 ranges while displaying percentages calculated from the total. The percentages sum to only about 60%, creating the false impression that 40% of the data is somehow missing or unaccounted for, when in reality this visualization simply excludes the lower prevalence ranges that contain many countries. [NOTE: Generated code failed to execute]"
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_7",
+  "chart_type": "bar_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The y-axis starting at 150 instead of zero makes the smallest bars appear even smaller relative to the largest bars, exaggerating the differences in player counts across age groups. This truncated scale makes it harder to accurately assess the true proportional differences between age groups and could mislead viewers into thinking the variation in player counts is more extreme than it actually is."
+}

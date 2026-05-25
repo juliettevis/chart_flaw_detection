@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_value_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The value labels on this chart are wildly inconsistent \u2014 some bars show abbreviated values like \"1.6K\" or \"0.429K\", others display exact integers with or without comma separators, one uses a decimal like \"978.0\", another shows \"799.00\" with two decimal places, and two bars (Argentina and Colombia) have no labels at all. This haphazard labeling makes it difficult to read and compare the bars consistently, creating a confusing and unprofessional appearance."
+}

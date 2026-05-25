@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_10",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_use_of_bar_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses a bar encoding for continuous numeric data, making it appear as though each data point is a discrete category being compared rather than part of a continuous relationship between years of experience and compensation. The dense forest of narrow bars obscures any trend or correlation between the two variables, and multiple overlapping bars at the same x-position create visual confusion since only the tallest bar is visible. A reader would struggle to understand the distribution or direction of the relationship between coding experience and salary."
+}

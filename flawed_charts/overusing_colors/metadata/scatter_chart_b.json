@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_b",
+  "chart_type": "scatter_chart",
+  "flaw_type": "overusing_colors",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "Superstore Sales vs Profit scatter, colored by all 17 sub-categories with tab20. The color key has more entries than the reader can hold in mind at once."
+}

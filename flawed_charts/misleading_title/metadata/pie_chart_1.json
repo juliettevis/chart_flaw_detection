@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_1",
+  "chart_type": "pie_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The chart's title incorrectly claims that Office Supplies dominate the company's sales portfolio, when in reality Office Supplies represents the smallest share at 31.5%, while Technology leads with 36.1%. This misleading title would cause readers to draw the wrong conclusion about which product category is the most important revenue driver for the company."
+}

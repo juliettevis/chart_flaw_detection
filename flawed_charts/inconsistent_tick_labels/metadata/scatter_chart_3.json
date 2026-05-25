@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inconsistent_tick_labels",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis wage labels are confusingly inconsistent, mixing different currency formats (\u20ac0, 100,000, \u20ac200K, 300000, EUR 400k, \u20ac500,000, 0.6M) which makes it difficult to quickly compare wage values across the chart. This inconsistent formatting forces readers to mentally convert between different representations to understand the scale and make comparisons between players' wages."
+}

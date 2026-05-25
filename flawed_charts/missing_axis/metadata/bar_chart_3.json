@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis is entirely absent from the chart \u2014 there are no tick marks, tick labels, or axis line on the left side. Without any numerical reference points, readers cannot determine the actual values of the bars, making it impossible to know whether a bar represents 50, 100, or 200 orders without guessing."
+}

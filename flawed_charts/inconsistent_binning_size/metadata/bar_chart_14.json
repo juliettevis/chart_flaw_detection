@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_14",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_binning_size",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The histogram uses wildly inconsistent bin widths \u2014 some bins span only \u20ac0.5M while others span \u20ac3.0M or even \u20ac5.5M \u2014 yet all bars are rendered at the same visual width. This makes the wider bins (like \u20ac5.0M\u2013\u20ac8.0M and \u20ac8.0M\u2013\u20ac13.5M) appear disproportionately tall because they accumulate far more data points over their larger ranges, giving a misleading impression of the price distribution's shape and density."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly exaggerates the differences between regions by starting the y-axis at 15,000 deaths instead of zero. The visual height differences between bars appear much more dramatic than they actually are, making Europe and the Americas look almost negligible compared to South-East Asia and Africa, when in reality they still represent tens of thousands of deaths."
+}

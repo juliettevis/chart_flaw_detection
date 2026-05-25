@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "ineffective_color_scheme",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The rainbow color scheme applied to this categorical nationality data creates a misleading visual hierarchy, suggesting that some countries are \"hotter\" or more important than others when the data simply represents distinct categories. The perceptual non-uniformity of rainbow colors makes certain bars appear more prominent (like yellow) while others blend together (green-cyan), distorting the viewer's ability to accurately compare the actual player counts across nationalities."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart is misleading because the y-axis extends far beyond the data range, compressing all the bars into the bottom portion of the chart. This makes it nearly impossible to see the meaningful differences between regions - for instance, the fact that South-East Asia has over 7 times more TB deaths than Europe is visually understated when all bars appear similarly small against the unnecessarily tall axis."
+}

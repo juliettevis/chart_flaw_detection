@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_3",
+  "chart_type": "pie_chart",
+  "flaw_type": "3d",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The 3D perspective effect makes it extremely difficult to accurately compare the sizes of the pie slices, as the elliptical distortion and visible depth create visual confusion about the true proportions. The angled view also makes percentage labels harder to read and undermines the chart's ability to clearly communicate the distribution of players across position groups."
+}

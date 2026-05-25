@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_2",
+  "chart_type": "area_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The title, axis labels, tick labels, and legend text are all rendered at extremely small font sizes (3\u20135pt), making them practically unreadable against the large chart area. A reader would struggle to identify what the axes represent, what the units are, or which colored region corresponds to which geographic area, severely undermining the chart's communicative value."
+}

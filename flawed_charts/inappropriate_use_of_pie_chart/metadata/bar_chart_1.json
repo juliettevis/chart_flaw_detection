@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_pie_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This pie chart is fundamentally misleading because it shows only the top 5 sub-categories but displays their percentages relative to all 8 categories, making the slices appear to represent parts of a whole when they actually sum to only about 71% of the total. This creates the false impression that these 5 categories constitute the entire sales picture, when in reality 29% of sales are missing from the visualization. [NOTE: Generated code failed to execute]"
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "too_few_data_points",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "The chart shows only a single country (Swaziland) out of the claimed \"Top 10,\" making it impossible for a reader to compare TB prevalence across countries or understand the broader ranking. The title promises a top-10 comparison, but the single bar provides no meaningful context about how Swaziland's prevalence relates to other high-burden nations, creating a false impression that this isolated data point tells the full story."
+}

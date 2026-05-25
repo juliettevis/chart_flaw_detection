@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_25",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_stacked",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart now stacks 12 thinly-sliced sub-series on top of each other in a single bar per bedroom category, making it virtually impossible to compare any individual segment across the three groups. The rainbow color palette creates visual noise, and the legend with 12 entries is cramped and confusing. Readers cannot meaningfully extract information about furnished vs. semi-furnished vs. unfurnished price differences because every original series has been arbitrarily fractured into four indistinguishable sub-layers."
+}

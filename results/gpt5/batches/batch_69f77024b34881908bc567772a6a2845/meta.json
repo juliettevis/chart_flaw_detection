@@ -1,0 +1,2411 @@
+{
+  "batch_id": "batch_69f77024b34881908bc567772a6a2845",
+  "submitted_at": "2026-05-03T15:56:20.940824+00:00",
+  "model": "gpt-5.4",
+  "prompt": "Evaluate this chart.",
+  "runs_per_chart": 1,
+  "chart_count": 600,
+  "total_requests": 600,
+  "charts": [
+    {
+      "flaw_category": "3d",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "3d",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "3d",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "3d",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "3d",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "3d",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "3d",
+      "chart_name": "pie_chart_1"
+    },
+    {
+      "flaw_category": "3d",
+      "chart_name": "pie_chart_2"
+    },
+    {
+      "flaw_category": "3d",
+      "chart_name": "pie_chart_3"
+    },
+    {
+      "flaw_category": "3d",
+      "chart_name": "pie_chart_4"
+    },
+    {
+      "flaw_category": "3d",
+      "chart_name": "pie_chart_5"
+    },
+    {
+      "flaw_category": "area_encoding",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "area_encoding",
+      "chart_name": "bar_chart_17"
+    },
+    {
+      "flaw_category": "area_encoding",
+      "chart_name": "bar_chart_18"
+    },
+    {
+      "flaw_category": "area_encoding",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "area_encoding",
+      "chart_name": "bar_chart_20"
+    },
+    {
+      "flaw_category": "area_encoding",
+      "chart_name": "bar_chart_21"
+    },
+    {
+      "flaw_category": "area_encoding",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "area_encoding",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "area_encoding",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "area_encoding",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "color_blind_unfriendly",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "color_blind_unfriendly",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "color_blind_unfriendly",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "color_blind_unfriendly",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "color_blind_unfriendly",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "color_blind_unfriendly",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "color_blind_unfriendly",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "color_blind_unfriendly",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "color_blind_unfriendly",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "color_blind_unfriendly",
+      "chart_name": "pie_chart_1"
+    },
+    {
+      "flaw_category": "color_blind_unfriendly",
+      "chart_name": "pie_chart_2"
+    },
+    {
+      "flaw_category": "color_blind_unfriendly",
+      "chart_name": "pie_chart_3"
+    },
+    {
+      "flaw_category": "data_of_different_magnitudes",
+      "chart_name": "area_chart_a"
+    },
+    {
+      "flaw_category": "data_of_different_magnitudes",
+      "chart_name": "area_chart_b"
+    },
+    {
+      "flaw_category": "data_of_different_magnitudes",
+      "chart_name": "bar_chart_a"
+    },
+    {
+      "flaw_category": "data_of_different_magnitudes",
+      "chart_name": "bar_chart_b"
+    },
+    {
+      "flaw_category": "data_of_different_magnitudes",
+      "chart_name": "bar_chart_c"
+    },
+    {
+      "flaw_category": "data_of_different_magnitudes",
+      "chart_name": "line_chart_a"
+    },
+    {
+      "flaw_category": "data_of_different_magnitudes",
+      "chart_name": "line_chart_b"
+    },
+    {
+      "flaw_category": "data_of_different_magnitudes",
+      "chart_name": "line_chart_c"
+    },
+    {
+      "flaw_category": "data_of_different_magnitudes",
+      "chart_name": "scatter_chart_a"
+    },
+    {
+      "flaw_category": "data_of_different_magnitudes",
+      "chart_name": "scatter_chart_c"
+    },
+    {
+      "flaw_category": "discretized_continuous_variable",
+      "chart_name": "chloropleth_1"
+    },
+    {
+      "flaw_category": "discretized_continuous_variable",
+      "chart_name": "chloropleth_10"
+    },
+    {
+      "flaw_category": "discretized_continuous_variable",
+      "chart_name": "chloropleth_2"
+    },
+    {
+      "flaw_category": "discretized_continuous_variable",
+      "chart_name": "chloropleth_3"
+    },
+    {
+      "flaw_category": "discretized_continuous_variable",
+      "chart_name": "chloropleth_4"
+    },
+    {
+      "flaw_category": "discretized_continuous_variable",
+      "chart_name": "chloropleth_5"
+    },
+    {
+      "flaw_category": "discretized_continuous_variable",
+      "chart_name": "chloropleth_6"
+    },
+    {
+      "flaw_category": "discretized_continuous_variable",
+      "chart_name": "chloropleth_7"
+    },
+    {
+      "flaw_category": "discretized_continuous_variable",
+      "chart_name": "chloropleth_8"
+    },
+    {
+      "flaw_category": "discretized_continuous_variable",
+      "chart_name": "chloropleth_9"
+    },
+    {
+      "flaw_category": "dual_axis",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "dual_axis",
+      "chart_name": "bar_chart_22"
+    },
+    {
+      "flaw_category": "dual_axis",
+      "chart_name": "bar_chart_24"
+    },
+    {
+      "flaw_category": "dual_axis",
+      "chart_name": "bar_chart_25"
+    },
+    {
+      "flaw_category": "dual_axis",
+      "chart_name": "line_chart_10"
+    },
+    {
+      "flaw_category": "dual_axis",
+      "chart_name": "line_chart_11"
+    },
+    {
+      "flaw_category": "dual_axis",
+      "chart_name": "line_chart_12"
+    },
+    {
+      "flaw_category": "dual_axis",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "dual_axis",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "dual_axis",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "extended_axis",
+      "chart_name": "scatter_chart_4"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "pie_chart_4"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "pie_chart_5"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "illegible_text",
+      "chart_name": "scatter_chart_4"
+    },
+    {
+      "flaw_category": "inappropriate_aspect_ratio",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "inappropriate_aspect_ratio",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "inappropriate_aspect_ratio",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "inappropriate_aspect_ratio",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "inappropriate_aspect_ratio",
+      "chart_name": "line_chart_8"
+    },
+    {
+      "flaw_category": "inappropriate_aspect_ratio",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "inappropriate_aspect_ratio",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "inappropriate_aspect_ratio",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "inappropriate_aspect_ratio",
+      "chart_name": "scatter_chart_4"
+    },
+    {
+      "flaw_category": "inappropriate_aspect_ratio",
+      "chart_name": "scatter_chart_8"
+    },
+    {
+      "flaw_category": "inappropriate_item_order",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "inappropriate_item_order",
+      "chart_name": "bar_chart_17"
+    },
+    {
+      "flaw_category": "inappropriate_item_order",
+      "chart_name": "bar_chart_18"
+    },
+    {
+      "flaw_category": "inappropriate_item_order",
+      "chart_name": "bar_chart_19"
+    },
+    {
+      "flaw_category": "inappropriate_item_order",
+      "chart_name": "bar_chart_20"
+    },
+    {
+      "flaw_category": "inappropriate_item_order",
+      "chart_name": "bar_chart_21"
+    },
+    {
+      "flaw_category": "inappropriate_item_order",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "inappropriate_item_order",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "inappropriate_item_order",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "inappropriate_item_order",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_accumulation",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_accumulation",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_accumulation",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_accumulation",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_accumulation",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_accumulation",
+      "chart_name": "line_chart_13"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_accumulation",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_accumulation",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_accumulation",
+      "chart_name": "line_chart_6"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_accumulation",
+      "chart_name": "line_chart_9"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_bar_chart",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_bar_chart",
+      "chart_name": "scatter_chart_10"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_bar_chart",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_bar_chart",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_bar_chart",
+      "chart_name": "scatter_chart_4"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_bar_chart",
+      "chart_name": "scatter_chart_5"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_bar_chart",
+      "chart_name": "scatter_chart_6"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_bar_chart",
+      "chart_name": "scatter_chart_7"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_bar_chart",
+      "chart_name": "scatter_chart_8"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_bar_chart",
+      "chart_name": "scatter_chart_9"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_line_chart",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_line_chart",
+      "chart_name": "bar_chart_17"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_line_chart",
+      "chart_name": "bar_chart_18"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_line_chart",
+      "chart_name": "bar_chart_19"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_line_chart",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_line_chart",
+      "chart_name": "bar_chart_20"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_line_chart",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_line_chart",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_line_chart",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_line_chart",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_pie_chart",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_pie_chart",
+      "chart_name": "bar_chart_17"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_pie_chart",
+      "chart_name": "bar_chart_20"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_pie_chart",
+      "chart_name": "bar_chart_21"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_pie_chart",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_pie_chart",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_pie_chart",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_pie_chart",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_pie_chart",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_pie_chart",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_scatterplot",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_scatterplot",
+      "chart_name": "bar_chart_17"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_scatterplot",
+      "chart_name": "bar_chart_18"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_scatterplot",
+      "chart_name": "bar_chart_19"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_scatterplot",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_scatterplot",
+      "chart_name": "bar_chart_20"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_scatterplot",
+      "chart_name": "bar_chart_21"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_scatterplot",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_scatterplot",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_scatterplot",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_smoothing",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_smoothing",
+      "chart_name": "line_chart_11"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_smoothing",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_smoothing",
+      "chart_name": "line_chart_5"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_smoothing",
+      "chart_name": "line_chart_7"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_smoothing",
+      "chart_name": "line_chart_9"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_stacked",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_stacked",
+      "chart_name": "area_chart_5"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_stacked",
+      "chart_name": "area_chart_6"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_stacked",
+      "chart_name": "area_chart_7"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_stacked",
+      "chart_name": "area_chart_8"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_stacked",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_stacked",
+      "chart_name": "bar_chart_22"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_stacked",
+      "chart_name": "bar_chart_23"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_stacked",
+      "chart_name": "bar_chart_24"
+    },
+    {
+      "flaw_category": "inappropriate_use_of_stacked",
+      "chart_name": "bar_chart_25"
+    },
+    {
+      "flaw_category": "inconsistent_binning_size",
+      "chart_name": "bar_chart_10"
+    },
+    {
+      "flaw_category": "inconsistent_binning_size",
+      "chart_name": "bar_chart_11"
+    },
+    {
+      "flaw_category": "inconsistent_binning_size",
+      "chart_name": "bar_chart_12"
+    },
+    {
+      "flaw_category": "inconsistent_binning_size",
+      "chart_name": "bar_chart_13"
+    },
+    {
+      "flaw_category": "inconsistent_binning_size",
+      "chart_name": "bar_chart_14"
+    },
+    {
+      "flaw_category": "inconsistent_binning_size",
+      "chart_name": "bar_chart_15"
+    },
+    {
+      "flaw_category": "inconsistent_binning_size",
+      "chart_name": "bar_chart_16"
+    },
+    {
+      "flaw_category": "inconsistent_binning_size",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "inconsistent_binning_size",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "inconsistent_binning_size",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "inconsistent_grouping",
+      "chart_name": "bar_chart_a"
+    },
+    {
+      "flaw_category": "inconsistent_grouping",
+      "chart_name": "bar_chart_b"
+    },
+    {
+      "flaw_category": "inconsistent_grouping",
+      "chart_name": "bar_chart_c"
+    },
+    {
+      "flaw_category": "inconsistent_grouping",
+      "chart_name": "bar_chart_d"
+    },
+    {
+      "flaw_category": "inconsistent_grouping",
+      "chart_name": "bar_chart_e"
+    },
+    {
+      "flaw_category": "inconsistent_grouping",
+      "chart_name": "pie_chart_a"
+    },
+    {
+      "flaw_category": "inconsistent_grouping",
+      "chart_name": "pie_chart_e"
+    },
+    {
+      "flaw_category": "inconsistent_grouping",
+      "chart_name": "pie_chart_f"
+    },
+    {
+      "flaw_category": "inconsistent_grouping",
+      "chart_name": "pie_chart_g"
+    },
+    {
+      "flaw_category": "inconsistent_grouping",
+      "chart_name": "pie_chart_h"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "inconsistent_tick_intervals",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "inconsistent_tick_labels",
+      "chart_name": "scatter_chart_4"
+    },
+    {
+      "flaw_category": "inconsistent_value_labels",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "inconsistent_value_labels",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "inconsistent_value_labels",
+      "chart_name": "pie_chart_1"
+    },
+    {
+      "flaw_category": "inconsistent_value_labels",
+      "chart_name": "pie_chart_2"
+    },
+    {
+      "flaw_category": "inconsistent_value_labels",
+      "chart_name": "pie_chart_3"
+    },
+    {
+      "flaw_category": "inconsistent_value_labels",
+      "chart_name": "pie_chart_4"
+    },
+    {
+      "flaw_category": "inconsistent_value_labels",
+      "chart_name": "pie_chart_5"
+    },
+    {
+      "flaw_category": "inconsistent_value_labels",
+      "chart_name": "pie_chart_6"
+    },
+    {
+      "flaw_category": "inconsistent_value_labels",
+      "chart_name": "pie_chart_7"
+    },
+    {
+      "flaw_category": "inconsistent_value_labels",
+      "chart_name": "pie_chart_8"
+    },
+    {
+      "flaw_category": "indistinguishable_colors",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "indistinguishable_colors",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "indistinguishable_colors",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "indistinguishable_colors",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "indistinguishable_colors",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "indistinguishable_colors",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "indistinguishable_colors",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "indistinguishable_colors",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "indistinguishable_colors",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "indistinguishable_colors",
+      "chart_name": "pie_chart_1"
+    },
+    {
+      "flaw_category": "indistinguishable_colors",
+      "chart_name": "pie_chart_2"
+    },
+    {
+      "flaw_category": "indistinguishable_colors",
+      "chart_name": "pie_chart_3"
+    },
+    {
+      "flaw_category": "ineffective_color_scheme",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "ineffective_color_scheme",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "ineffective_color_scheme",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "ineffective_color_scheme",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "ineffective_color_scheme",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "ineffective_color_scheme",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "ineffective_color_scheme",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "ineffective_color_scheme",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "ineffective_color_scheme",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "ineffective_color_scheme",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "ineffective_color_scheme",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "ineffective_color_scheme",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "inverted_axis",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "log_scale",
+      "chart_name": "scatter_chart_4"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "pie_chart_1"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "pie_chart_2"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "pie_chart_3"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "pie_chart_4"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "pie_chart_5"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "misleading_title",
+      "chart_name": "scatter_chart_4"
+    },
+    {
+      "flaw_category": "misrepresentation",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "misrepresentation",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "misrepresentation",
+      "chart_name": "pie_chart_1"
+    },
+    {
+      "flaw_category": "misrepresentation",
+      "chart_name": "pie_chart_10"
+    },
+    {
+      "flaw_category": "misrepresentation",
+      "chart_name": "pie_chart_2"
+    },
+    {
+      "flaw_category": "misrepresentation",
+      "chart_name": "pie_chart_3"
+    },
+    {
+      "flaw_category": "misrepresentation",
+      "chart_name": "pie_chart_4"
+    },
+    {
+      "flaw_category": "misrepresentation",
+      "chart_name": "pie_chart_5"
+    },
+    {
+      "flaw_category": "misrepresentation",
+      "chart_name": "pie_chart_6"
+    },
+    {
+      "flaw_category": "misrepresentation",
+      "chart_name": "pie_chart_9"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "missing_axis",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "missing_axis_ticks",
+      "chart_name": "scatter_chart_4"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "missing_axis_title",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "missing_legend",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "missing_legend",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "missing_legend",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "missing_legend",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "missing_legend",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "missing_legend",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "missing_legend",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "missing_legend",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "missing_legend",
+      "chart_name": "pie_chart_1"
+    },
+    {
+      "flaw_category": "missing_legend",
+      "chart_name": "pie_chart_2"
+    },
+    {
+      "flaw_category": "missing_legend",
+      "chart_name": "pie_chart_3"
+    },
+    {
+      "flaw_category": "missing_legend",
+      "chart_name": "pie_chart_4"
+    },
+    {
+      "flaw_category": "missing_legend",
+      "chart_name": "pie_chart_5"
+    },
+    {
+      "flaw_category": "missing_normalization",
+      "chart_name": "bar_chart_18"
+    },
+    {
+      "flaw_category": "missing_normalization",
+      "chart_name": "chloropleth_1"
+    },
+    {
+      "flaw_category": "missing_normalization",
+      "chart_name": "chloropleth_10"
+    },
+    {
+      "flaw_category": "missing_normalization",
+      "chart_name": "chloropleth_2"
+    },
+    {
+      "flaw_category": "missing_normalization",
+      "chart_name": "chloropleth_3"
+    },
+    {
+      "flaw_category": "missing_normalization",
+      "chart_name": "chloropleth_4"
+    },
+    {
+      "flaw_category": "missing_normalization",
+      "chart_name": "chloropleth_5"
+    },
+    {
+      "flaw_category": "missing_normalization",
+      "chart_name": "chloropleth_6"
+    },
+    {
+      "flaw_category": "missing_normalization",
+      "chart_name": "chloropleth_8"
+    },
+    {
+      "flaw_category": "missing_normalization",
+      "chart_name": "chloropleth_9"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "pie_chart_1"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "pie_chart_2"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "pie_chart_3"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "pie_chart_4"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "pie_chart_5"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "missing_title",
+      "chart_name": "scatter_chart_4"
+    },
+    {
+      "flaw_category": "missing_units",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "missing_units",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "missing_units",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "missing_units",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "missing_units",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "missing_units",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "missing_units",
+      "chart_name": "line_chart_7"
+    },
+    {
+      "flaw_category": "missing_units",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "missing_units",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "missing_units",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "missing_value_labels",
+      "chart_name": "pie_chart_1"
+    },
+    {
+      "flaw_category": "missing_value_labels",
+      "chart_name": "pie_chart_10"
+    },
+    {
+      "flaw_category": "missing_value_labels",
+      "chart_name": "pie_chart_2"
+    },
+    {
+      "flaw_category": "missing_value_labels",
+      "chart_name": "pie_chart_3"
+    },
+    {
+      "flaw_category": "missing_value_labels",
+      "chart_name": "pie_chart_4"
+    },
+    {
+      "flaw_category": "missing_value_labels",
+      "chart_name": "pie_chart_5"
+    },
+    {
+      "flaw_category": "missing_value_labels",
+      "chart_name": "pie_chart_6"
+    },
+    {
+      "flaw_category": "missing_value_labels",
+      "chart_name": "pie_chart_7"
+    },
+    {
+      "flaw_category": "missing_value_labels",
+      "chart_name": "pie_chart_8"
+    },
+    {
+      "flaw_category": "missing_value_labels",
+      "chart_name": "pie_chart_9"
+    },
+    {
+      "flaw_category": "overplotting",
+      "chart_name": "bar_chart_22"
+    },
+    {
+      "flaw_category": "overplotting",
+      "chart_name": "line_chart_a"
+    },
+    {
+      "flaw_category": "overplotting",
+      "chart_name": "line_chart_b"
+    },
+    {
+      "flaw_category": "overplotting",
+      "chart_name": "line_chart_c"
+    },
+    {
+      "flaw_category": "overplotting",
+      "chart_name": "line_chart_d"
+    },
+    {
+      "flaw_category": "overplotting",
+      "chart_name": "line_chart_e"
+    },
+    {
+      "flaw_category": "overplotting",
+      "chart_name": "line_chart_f"
+    },
+    {
+      "flaw_category": "overplotting",
+      "chart_name": "scatter_chart_a"
+    },
+    {
+      "flaw_category": "overplotting",
+      "chart_name": "scatter_chart_b"
+    },
+    {
+      "flaw_category": "overplotting",
+      "chart_name": "scatter_chart_c"
+    },
+    {
+      "flaw_category": "overplotting",
+      "chart_name": "scatter_chart_d"
+    },
+    {
+      "flaw_category": "overusing_colors",
+      "chart_name": "bar_chart_a"
+    },
+    {
+      "flaw_category": "overusing_colors",
+      "chart_name": "bar_chart_b"
+    },
+    {
+      "flaw_category": "overusing_colors",
+      "chart_name": "bar_chart_c"
+    },
+    {
+      "flaw_category": "overusing_colors",
+      "chart_name": "line_chart_a"
+    },
+    {
+      "flaw_category": "overusing_colors",
+      "chart_name": "line_chart_b"
+    },
+    {
+      "flaw_category": "overusing_colors",
+      "chart_name": "line_chart_c"
+    },
+    {
+      "flaw_category": "overusing_colors",
+      "chart_name": "pie_chart_a"
+    },
+    {
+      "flaw_category": "overusing_colors",
+      "chart_name": "pie_chart_b"
+    },
+    {
+      "flaw_category": "overusing_colors",
+      "chart_name": "pie_chart_c"
+    },
+    {
+      "flaw_category": "overusing_colors",
+      "chart_name": "scatter_chart_a"
+    },
+    {
+      "flaw_category": "overusing_colors",
+      "chart_name": "scatter_chart_b"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "plotting_out_of_chart",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "selective_data",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "selective_data",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "selective_data",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "selective_data",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "selective_data",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "selective_data",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "selective_data",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "selective_data",
+      "chart_name": "line_chart_5"
+    },
+    {
+      "flaw_category": "selective_data",
+      "chart_name": "line_chart_7"
+    },
+    {
+      "flaw_category": "selective_data",
+      "chart_name": "line_chart_8"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "pie_chart_1"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "pie_chart_2"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "pie_chart_3"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "pie_chart_4"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "pie_chart_5"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "small_font_size",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "too_few_data_points",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "too_few_data_points",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "too_few_data_points",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "too_few_data_points",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "too_few_data_points",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "too_few_data_points",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "too_few_data_points",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "too_few_data_points",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "too_few_data_points",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "too_few_data_points",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "too_few_data_points",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "too_few_data_points",
+      "chart_name": "line_chart_3"
+    },
+    {
+      "flaw_category": "trend_line_on_random_data",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "trend_line_on_random_data",
+      "chart_name": "scatter_chart_10"
+    },
+    {
+      "flaw_category": "trend_line_on_random_data",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "trend_line_on_random_data",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "trend_line_on_random_data",
+      "chart_name": "scatter_chart_4"
+    },
+    {
+      "flaw_category": "trend_line_on_random_data",
+      "chart_name": "scatter_chart_5"
+    },
+    {
+      "flaw_category": "trend_line_on_random_data",
+      "chart_name": "scatter_chart_6"
+    },
+    {
+      "flaw_category": "trend_line_on_random_data",
+      "chart_name": "scatter_chart_7"
+    },
+    {
+      "flaw_category": "trend_line_on_random_data",
+      "chart_name": "scatter_chart_8"
+    },
+    {
+      "flaw_category": "trend_line_on_random_data",
+      "chart_name": "scatter_chart_9"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "area_chart_1"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "area_chart_2"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "area_chart_3"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "area_chart_4"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "bar_chart_1"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "bar_chart_2"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "bar_chart_3"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "bar_chart_4"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "bar_chart_5"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "bar_chart_6"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "bar_chart_7"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "bar_chart_8"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "bar_chart_9"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "line_chart_1"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "line_chart_2"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "scatter_chart_1"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "scatter_chart_2"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "scatter_chart_3"
+    },
+    {
+      "flaw_category": "truncated_axis",
+      "chart_name": "scatter_chart_4"
+    },
+    {
+      "flaw_category": "violating_color_convention",
+      "chart_name": "bar_chart_22"
+    },
+    {
+      "flaw_category": "violating_color_convention",
+      "chart_name": "chloropleth_1"
+    },
+    {
+      "flaw_category": "violating_color_convention",
+      "chart_name": "chloropleth_10"
+    },
+    {
+      "flaw_category": "violating_color_convention",
+      "chart_name": "chloropleth_2"
+    },
+    {
+      "flaw_category": "violating_color_convention",
+      "chart_name": "chloropleth_3"
+    },
+    {
+      "flaw_category": "violating_color_convention",
+      "chart_name": "chloropleth_4"
+    },
+    {
+      "flaw_category": "violating_color_convention",
+      "chart_name": "chloropleth_5"
+    },
+    {
+      "flaw_category": "violating_color_convention",
+      "chart_name": "chloropleth_7"
+    },
+    {
+      "flaw_category": "violating_color_convention",
+      "chart_name": "chloropleth_8"
+    },
+    {
+      "flaw_category": "violating_color_convention",
+      "chart_name": "line_chart_4"
+    },
+    {
+      "flaw_category": "violating_color_convention",
+      "chart_name": "pie_chart_6"
+    }
+  ]
+}

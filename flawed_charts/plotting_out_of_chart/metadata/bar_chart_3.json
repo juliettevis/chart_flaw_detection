@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The chart's y-axis cuts off at 150 orders, making it impossible to see the true height of the busiest months (September, November, and December), which actually had closer to 200 orders. This truncation misleads viewers about the magnitude of order volumes in these peak months and obscures important business trends."
+}

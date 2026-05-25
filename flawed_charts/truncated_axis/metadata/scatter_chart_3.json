@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart's y-axis starts at \u20ac50K instead of zero, which artificially amplifies the wage differences between players. This truncated scale makes modest wage variations appear dramatically larger than they actually are, potentially misleading viewers about the true magnitude of salary disparities among FIFA 18 players."
+}

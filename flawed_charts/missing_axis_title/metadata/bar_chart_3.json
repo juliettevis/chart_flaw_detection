@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart displays a bar graph with values along two axes, but without any labels to indicate what these axes represent. While the title suggests it's about orders over time, viewers cannot definitively know what the vertical axis measures or confirm that the horizontal axis represents time periods, making the data ambiguous and difficult to interpret accurately."
+}

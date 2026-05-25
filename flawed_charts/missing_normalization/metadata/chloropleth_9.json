@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_9",
+  "chart_type": "chloropleth",
+  "flaw_type": "missing_normalization",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This chart shows the absolute number of people aged 60+ by country rather than the percentage, which makes the comparison meaningless because it simply highlights countries with the largest total populations (like China and India) rather than revealing which countries have the most aged demographic profiles. A small country with a very high proportion of elderly residents appears nearly invisible, while populous countries dominate the map regardless of their actual aging patterns."
+}

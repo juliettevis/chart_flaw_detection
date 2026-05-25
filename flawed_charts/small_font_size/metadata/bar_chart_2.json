@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The chart's text elements \u2014 including the title, axis labels, tick labels, and legend \u2014 are rendered at extremely small font sizes, making them nearly impossible to read. A viewer would struggle to identify what the chart is measuring, what the axes represent, or which bars correspond to which customer segments. The large, prominent bars contrast sharply with the microscopic text, creating a deeply confusing and inaccessible visualization."
+}

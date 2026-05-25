@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_5",
+  "chart_type": "bar_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "The x-axis labels are now completely illegible due to severe overlapping text. The long region names run into each other horizontally, making it impossible to distinguish which bar corresponds to which WHO region. Additionally, the labels overlap with the x-axis title, creating a confusing mess of text at the bottom of the chart."
+}

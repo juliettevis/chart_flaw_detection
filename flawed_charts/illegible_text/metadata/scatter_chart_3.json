@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "illegible_text",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart is extremely difficult to read because the axis labels and tick labels severely overlap. The \"Age\" label crashes into the x-axis tick values, while the \"Wage (\u20ac)\" label collides with the y-axis tick values, making it impossible to properly identify what the axes represent or read the actual scale values."
+}

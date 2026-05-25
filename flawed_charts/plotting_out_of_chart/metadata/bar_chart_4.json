@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "plotting_out_of_chart",
+  "flaw_category": "Chaotic Canvas",
+  "flaw_stage": "Plotting",
+  "description": "This chart is misleading because it truncates the bars for the highest-performing countries, particularly England and Germany. By cutting off the visual representation at 1200 players, readers cannot accurately compare the true magnitude of differences between countries, especially the significant lead that England has with 1630 players compared to other nations."
+}

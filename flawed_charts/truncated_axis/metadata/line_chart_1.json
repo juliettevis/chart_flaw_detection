@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly exaggerates the differences between Technology and Office Supplies sales by starting the y-axis at around $3,500 instead of zero. This makes the variations between the two product lines appear much more dramatic than they actually are, potentially leading viewers to overestimate the performance gap between these categories."
+}

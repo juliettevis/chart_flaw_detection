@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_4",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_line_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The line chart falsely implies a continuous trend or relationship between completely unrelated, discrete nationalities (England, Germany, Spain, etc.), as if there is a meaningful progression or transition from one country to the next. The connecting line suggests that values change in a sequential or ordered fashion across categories, which is misleading since the nationalities have no inherent order or continuity. A reader might incorrectly interpret the downward slope as a trend rather than simply reflecting the ranked counts of independent categories."
+}

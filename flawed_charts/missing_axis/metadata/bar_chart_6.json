@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_6",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_axis",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This bar chart displays tuberculosis prevalence data without any vertical reference axis, making it impossible to determine the actual values or scale of the differences between countries. While the data labels on top of each bar provide numbers, readers cannot visually assess relative heights or make accurate comparisons without a y-axis to provide context and measurement reference."
+}

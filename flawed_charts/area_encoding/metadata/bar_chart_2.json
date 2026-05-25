@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "area_encoding",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart encodes each bar's value through both its height and its width simultaneously, meaning the visual area of each bar grows as the square of the underlying value. This causes the eye to perceive differences between categories as far more dramatic than they actually are \u2014 for example, a bar representing twice the orders appears roughly four times as large in area, severely distorting comparisons across regions and segments."
+}

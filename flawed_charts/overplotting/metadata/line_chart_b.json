@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_b",
+  "chart_type": "line_chart",
+  "flaw_type": "overplotting",
+  "flaw_category": "Hidden Information",
+  "flaw_stage": "Interpretation",
+  "description": "Every Age-Group \u00d7 Sex combination for the USA in the mortality dataset drawn as a separate line (~44 lines) in the same color. Lines cross and overlap repeatedly so neither individual series nor their relative ordering can be read."
+}

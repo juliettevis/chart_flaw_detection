@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_9",
+  "chart_type": "scatter_chart",
+  "flaw_type": "trend_line_on_random_data",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart now includes a regression trend line drawn over highly scattered, noisy data where most countries cluster near zero assault rates with wildly varying homicide rates. The solid, authoritative-looking line implies a meaningful positive relationship between assault rates and homicide rates, but the extreme spread and numerous outliers mean the correlation is weak at best \u2014 the trend line is misleading and not statistically justified."
+}

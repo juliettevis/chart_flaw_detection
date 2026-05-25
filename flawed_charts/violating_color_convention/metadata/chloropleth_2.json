@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_2",
+  "chart_type": "chloropleth",
+  "flaw_type": "violating_color_convention",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The chart uses a yellow-to-green color scale for mortality rates, which violates color conventions by making countries with the highest death rates appear in deep green \u2014 a color typically associated with health, safety, and positive outcomes. This misleads readers into perceiving high-mortality countries as \"good\" and low-mortality countries (in pale yellow) as less noteworthy, completely inverting the intuitive danger signal that the original red scale conveyed."
+}

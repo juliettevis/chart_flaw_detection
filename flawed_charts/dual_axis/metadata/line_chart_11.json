@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_11",
+  "chart_type": "line_chart",
+  "flaw_type": "dual_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The chart uses two different y-axis scales that are not immediately obvious to a casual reader: China, India, and Japan share a left axis ranging from 0\u201312, while the United States uses a hidden right axis ranging from 8\u201332. This makes the USA's emissions appear to closely track and even converge with the much lower values of China and Japan, falsely suggesting that their emissions levels are comparable when in reality the USA emits far more per capita. A reader glancing at the chart would likely assume all four lines are on the same scale and draw incorrect conclusions about relative emissions."
+}

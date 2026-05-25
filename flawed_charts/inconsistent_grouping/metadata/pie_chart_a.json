@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_a",
+  "chart_type": "pie_chart",
+  "flaw_type": "inconsistent_grouping",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "Superstore sales are split into four Technology sub-categories (Phones, Machines, Accessories, Copiers) but the Furniture and Office Supplies categories are kept as single aggregate slices. The pie mixes one level of granularity (sub-category) with another (category), so the slices are not comparable like-for-like."
+}

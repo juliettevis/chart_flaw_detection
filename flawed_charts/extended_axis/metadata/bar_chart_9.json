@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_9",
+  "chart_type": "bar_chart",
+  "flaw_type": "extended_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart makes it nearly impossible to see the meaningful differences in TB prevalence distribution across countries. The histogram bars are compressed into the bottom third of the plot area, making it difficult to distinguish that there's actually a significant concentration of countries with low TB rates and a long tail of countries with higher rates\u2014critical information for understanding the global TB burden."
+}

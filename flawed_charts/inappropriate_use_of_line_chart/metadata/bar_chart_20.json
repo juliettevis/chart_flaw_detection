@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_20",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_line_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The line chart falsely implies a continuous trend or progression between entirely unrelated countries, as if there is a meaningful connection between moving from Belize to Dominica to Anguilla and so on. Readers may incorrectly infer that the homicide rate changes in a flowing, sequential manner across these nations, when in reality each country is a discrete, independent data point. The connecting line suggests a relationship or continuity that simply does not exist."
+}

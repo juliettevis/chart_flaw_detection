@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_5",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_value_labels",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This pie chart fails to provide any quantitative information about the sales distribution across regions. Without percentage labels on the slices, viewers cannot determine how much each region contributes to total sales, making it impossible to compare regions accurately or understand their relative importance."
+}

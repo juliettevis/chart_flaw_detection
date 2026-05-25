@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without axis labels, readers cannot immediately tell what the x-axis categories represent or what unit the y-axis measures \u2014 the tick marks showing age ranges and numbers like \"10\" to \"10,000\" are ambiguous without context. A viewer unfamiliar with the dataset would have no way to know whether the y-axis shows raw counts, rates, percentages, or something else entirely. The missing titles force the reader to guess the meaning of both axes, undermining the chart's interpretability."
+}

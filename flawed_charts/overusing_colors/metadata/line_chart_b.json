@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_b",
+  "chart_type": "line_chart",
+  "flaw_type": "overusing_colors",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "Monthly superstore sales split across 17 sub-categories, each a different tab20 color. The chart becomes a rainbow tangle and the reader must rely on the dense legend to identify any series."
+}

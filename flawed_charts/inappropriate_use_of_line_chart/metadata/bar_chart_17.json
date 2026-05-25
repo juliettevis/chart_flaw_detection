@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_17",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_line_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "The line chart falsely implies a continuous trend or relationship between the disbursement values of unrelated political candidates, as if there is a meaningful progression from one candidate to the next. The connecting line suggests that the values rise and fall in a patterned sequence, when in reality these are discrete, independent data points with no inherent ordering or continuity. A reader might mistakenly interpret the shape of the line as indicating some underlying pattern or correlation among the candidates."
+}

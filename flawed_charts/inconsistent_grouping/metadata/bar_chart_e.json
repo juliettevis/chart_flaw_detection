@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_e",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_grouping",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "Campaign disbursements are shown for each Democratic candidate individually (Clinton, Sanders, O'Malley, Webb, Lessig) but collapsed into a single 'Republican (all)' bar for all 17 Republican candidates. The chart mixes candidate-level granularity with party-level aggregation."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis tick marks are placed at highly irregular intervals (e.g., \u20ac0K, \u20ac30K, \u20ac50K, \u20ac120K, \u20ac150K, \u20ac250K, \u20ac400K, \u20ac575K), making the visual spacing between gridlines completely non-uniform. This distorts the reader's perception of the data distribution, making clusters of points appear more or less spread out than they actually are, and falsely suggesting that wage gaps between certain ranges are smaller or larger than they truly are."
+}

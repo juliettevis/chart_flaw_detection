@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_3",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_item_order",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The months are displayed in a scrambled, arbitrary order (Jun, Dec, Mar, Sep, Jan, May, Oct, Feb, Aug, Apr, Nov, Jul) rather than chronologically from January to December. This completely destroys the temporal trend visible in the original chart \u2014 the gradual increase in orders through the year and seasonal peaks \u2014 making it impossible for a reader to identify any meaningful time-based pattern."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_a",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_grouping",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "Superstore profit is shown per sub-category inside Technology (Phones, Machines, Accessories, Copiers) but rolled up to a single total for Furniture and Office Supplies. Readers compare fine-grained tech sub-categories against coarse all-other-category totals, which is not a like-for-like comparison."
+}

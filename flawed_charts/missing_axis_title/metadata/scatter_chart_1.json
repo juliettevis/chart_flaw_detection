@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without axis titles, a reader cannot immediately understand what the x-axis numbers (80\u201394) represent or what the y-axis monetary values (\u20ac0M\u2013\u20ac120M) measure, forcing them to guess the meaning from context alone. The absence of labels like \"Overall Rating\" and \"Market Value (\u20ac)\" makes the chart ambiguous \u2014 the x-axis could be mistaken for age, jersey numbers, or any other numeric attribute. This omission significantly reduces the chart's interpretability and could lead to misreading the relationship being shown."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_10",
+  "chart_type": "pie_chart",
+  "flaw_type": "missing_value_labels",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The pie chart no longer displays any percentage labels on the slices, making it impossible for readers to determine the exact proportion each WHO region contributes to the total. Viewers can only see the relative sizes of the slices visually, but cannot extract any precise numerical information about the distribution of COVID-19 cases across regions."
+}

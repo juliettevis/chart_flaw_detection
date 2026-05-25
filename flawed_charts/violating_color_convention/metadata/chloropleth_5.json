@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_5",
+  "chart_type": "chloropleth",
+  "flaw_type": "violating_color_convention",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The color scale uses cool blues and greens for the highest death rates, which violates the strong convention of using warm/red colors to represent danger, severity, and death. This makes countries with the most COVID-19 deaths appear calm and safe, while countries with fewer deaths appear in warmer yellow tones, potentially misleading readers about the severity of the pandemic's impact."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_21",
+  "chart_type": "bar_chart",
+  "flaw_type": "area_encoding",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart encodes each country's value redundantly through both bar length (as expected) and bar thickness/height, so the perceived area grows roughly as the square of the value. This means the visual difference between Rwanda (~64%) and Cabo Verde (~44%) appears far more dramatic than the actual ~45% difference in percentages would suggest. A reader glancing at the chart will severely overestimate how much larger the top countries' representation is compared to the bottom of the list."
+}

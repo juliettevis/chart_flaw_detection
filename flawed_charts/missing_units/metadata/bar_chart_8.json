@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_8",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_units",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart is misleading because it's impossible to determine what the sales values represent - they could be in dollars, euros, thousands of dollars, or any other currency or scale. Without unit indicators, a reader cannot interpret whether these are meaningful sales figures or understand the actual magnitude of the orders being analyzed."
+}

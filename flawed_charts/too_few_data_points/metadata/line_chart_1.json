@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_1",
+  "chart_type": "line_chart",
+  "flaw_type": "too_few_data_points",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "This chart only shows two months of data (January and February 2025), yet presents them as a trend line for the entire year. With just two data points, the apparent upward trend for both categories is statistically meaningless \u2014 it could easily reverse in subsequent months, as the full dataset actually shows. A reader would incorrectly conclude that both Technology and Office Supplies sales are on a consistent upward trajectory throughout 2025."
+}

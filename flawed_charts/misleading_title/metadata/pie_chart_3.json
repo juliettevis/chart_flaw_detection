@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_3",
+  "chart_type": "pie_chart",
+  "flaw_type": "misleading_title",
+  "flaw_category": "Power of Words",
+  "flaw_stage": "Interpretation",
+  "description": "The title claims that forwards and goalkeepers dominate player positions, but the pie chart clearly shows that midfielders (39.9%) and defenders (30.3%) together make up about 70% of all players, while forwards and goalkeepers combined only account for about 30%. This misleading title completely misrepresents which position groups actually have the most players in the dataset."
+}

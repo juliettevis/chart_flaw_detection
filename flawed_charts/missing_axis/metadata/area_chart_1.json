@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "missing_axis",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The y-axis is completely absent from the chart \u2014 there are no tick marks, tick labels, axis line, or axis label visible on the left side. Without any scale reference for the vertical dimension, readers cannot determine the actual sales values represented by the stacked areas, making it impossible to interpret the magnitude of any category's contribution or overall totals."
+}

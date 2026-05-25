@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_4",
+  "chart_type": "line_chart",
+  "flaw_type": "violating_color_convention",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The colors for Male and Female are swapped from their conventional associations \u2014 males are shown in a pinkish-red color while females are shown in blue, which contradicts the widely recognized color convention of blue for male and pink/red for female, potentially causing readers to misidentify which line represents which sex at a glance."
+}

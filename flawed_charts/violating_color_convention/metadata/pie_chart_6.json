@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_6",
+  "chart_type": "pie_chart",
+  "flaw_type": "violating_color_convention",
+  "flaw_category": "Inconsistency",
+  "flaw_stage": "Plotting",
+  "description": "The chart swaps the traditional political party colors: Democrats are shown in red and Republicans in blue, which directly contradicts the universally recognized color conventions for U.S. political parties (blue for Democrats, red for Republicans). This would mislead viewers into thinking Republican spending is Democrat spending and vice versa, especially at a glance."
+}

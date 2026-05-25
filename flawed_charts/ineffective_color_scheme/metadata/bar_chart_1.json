@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "ineffective_color_scheme",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The use of rainbow colors on this categorical bar chart creates a misleading visual hierarchy, suggesting that product categories have some kind of sequential or ordered relationship when they don't. The rainbow gradient makes it appear as if \"Chairs\" naturally progresses to \"Copiers\" through a spectrum, and the perceptually uneven nature of the rainbow scale makes certain categories like yellow-colored bars appear more prominent than others, distorting the viewer's ability to accurately compare sales values."
+}

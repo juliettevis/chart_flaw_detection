@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_3",
+  "chart_type": "scatter_chart",
+  "flaw_type": "inappropriate_use_of_bar_chart",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This visualization misrepresents the continuous relationship between age and wage by using discrete bars, making it appear as if each age is a separate category rather than part of a continuous spectrum. The bar encoding obscures the underlying patterns and distributions in the data, particularly the wage variations within each age group, and creates a misleading impression that ages are distinct groups to be compared rather than points along a continuous variable."
+}

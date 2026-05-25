@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_1",
+  "chart_type": "scatter_chart",
+  "flaw_type": "log_scale",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "The logarithmic scale on the y-axis severely distorts the true differences in player values, making the gap between a \u20ac20M player and a \u20ac100M player appear similar to the gap between a \u20ac1M and \u20ac5M player. This compression of the upper range masks the enormous value differences between elite players and average ones, potentially leading viewers to underestimate how much more valuable top-rated players truly are in the market."
+}

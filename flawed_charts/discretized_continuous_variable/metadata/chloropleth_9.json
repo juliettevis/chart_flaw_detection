@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_9",
+  "chart_type": "chloropleth",
+  "flaw_type": "discretized_continuous_variable",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart artificially groups the continuous percentage data into just four discrete color categories, making countries with nearly identical values (e.g., 14.9% vs. 15.1%) appear dramatically different because they fall on opposite sides of an arbitrary boundary. The bold, qualitative colors suggest sharp categorical distinctions where none truly exist, hiding the smooth gradient of aging across the world's nations. Readers are misled into perceiving stark regional divides rather than gradual demographic transitions."
+}

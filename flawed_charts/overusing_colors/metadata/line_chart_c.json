@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_c",
+  "chart_type": "line_chart",
+  "flaw_type": "overusing_colors",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "Mean Overall rating by Age for the 20 most-represented nationalities in FIFA 18. All series share a similar magnitude range (~50\u201380), so the flaw is purely about color: 20 categorical tab20 hues \u2014 too many for the reader to map color to category without constant legend-checking."
+}

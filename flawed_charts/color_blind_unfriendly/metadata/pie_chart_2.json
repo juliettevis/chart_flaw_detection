@@ -1,0 +1,8 @@
+{
+  "base_chart": "pie_chart_2",
+  "chart_type": "pie_chart",
+  "flaw_type": "color_blind_unfriendly",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "The pie chart's color scheme creates a significant accessibility barrier for viewers with deuteranopia (red-green color blindness), as the vermillion and green segments appear nearly identical in brownish-olive tones. This makes it extremely difficult for approximately 5% of male viewers to distinguish between different shipping methods, forcing them to rely solely on the legend rather than being able to read the chart directly."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "inappropriate_use_of_scatterplot",
+  "flaw_category": "Choice of Chart",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart misleadingly presents categorical data (regions) as if they exist on a continuous numeric scale, implying that there's some meaningful progression or relationship between Central, East, South, and West regions. The scatter plot format suggests these categories have numeric positions that can be interpolated between, when in reality they are discrete, unordered categories where the spacing between points is meaningless."
+}

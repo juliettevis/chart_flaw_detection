@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_2",
+  "chart_type": "bar_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "This chart lacks any title, making it unclear what data is being presented. Without context, viewers must guess whether these are orders, sales figures, or some other metric being compared across regions and customer segments, significantly reducing the chart's effectiveness in communicating its intended message."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_7",
+  "chart_type": "bar_chart",
+  "flaw_type": "3d",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The unnecessary 3D perspective effect on this histogram makes it difficult to accurately compare bar heights. The bars appear to recede into the distance with exaggerated depth, and the perspective distortion causes bars on the right to appear disproportionately tall relative to their actual values, making it nearly impossible to read precise values or make fair comparisons between age groups."
+}

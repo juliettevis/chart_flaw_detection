@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_7",
+  "chart_type": "bar_chart",
+  "flaw_type": "inconsistent_tick_intervals",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The irregular spacing between y-axis ticks creates a distorted visual perception of the data distribution. The compressed intervals at the bottom (0-500) and top (2800-3000) of the scale make the differences between bar heights appear more dramatic than they actually are, while the expanded middle section minimizes the visual impact of the peak values around ages 24-26."
+}

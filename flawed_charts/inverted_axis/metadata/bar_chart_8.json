@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_8",
+  "chart_type": "bar_chart",
+  "flaw_type": "inverted_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This histogram appears to show sales distributions, but the y-axis runs counter to standard convention with higher values at the bottom and lower values at the top. This inverted scale makes it difficult to quickly interpret the data and could lead viewers to misread the frequency of different sales amounts, potentially drawing opposite conclusions about which sales ranges are most common."
+}

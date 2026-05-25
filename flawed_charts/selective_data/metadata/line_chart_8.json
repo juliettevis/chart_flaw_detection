@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_8",
+  "chart_type": "line_chart",
+  "flaw_type": "selective_data",
+  "flaw_category": "Garbage-in",
+  "flaw_stage": "Input",
+  "description": "The chart's title claims to show USA renewable electricity data from 1990\u20132021, but only the 1990\u20131998 period is actually displayed \u2014 a window during which renewables were essentially flat or slightly declining (from ~2.5% to ~1.1%). This cherry-picked subset hides the dramatic growth from ~2% to ~14% that occurred from 2000 onward, creating the false impression that non-hydro renewable electricity in the USA stagnated or declined over the full 31-year period."
+}

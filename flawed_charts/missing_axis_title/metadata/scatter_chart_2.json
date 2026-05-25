@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_axis_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without axis labels, a reader cannot determine what the x-axis numbers (15\u201340) or y-axis numbers (0\u2013100) represent simply by looking at the chart. While the title hints at the relationship, it is unclear whether the x-axis shows age in years, some index, or another variable, and the y-axis values are equally ambiguous without their descriptive label. This forces the viewer to guess the meaning of the data dimensions rather than reading them directly from the chart."
+}

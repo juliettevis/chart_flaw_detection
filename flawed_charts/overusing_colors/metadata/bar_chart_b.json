@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_b",
+  "chart_type": "bar_chart",
+  "flaw_type": "overusing_colors",
+  "flaw_category": "Color Mess",
+  "flaw_stage": "Visualization Design",
+  "description": "Top 30 FIFA 18 players ranked by market value, with each bar colored by the player's nationality (~15 distinct countries). Color legitimately encodes a secondary category, but the palette has too many hues for the reader to group bars by color."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_7",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_use_of_smoothing",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The chart uses cubic spline interpolation to draw a heavily smoothed curve between the actual data points, creating the false impression of continuous, precisely known values between measurement years. This smooth curve invents non-existent data points and may show artificial undulations or misleading trends (e.g., false dips or accelerations) in years where no measurements were actually taken. Readers may incorrectly believe the emission trajectory between real data points is known with high precision, when in fact only the marked points represent actual measurements."
+}

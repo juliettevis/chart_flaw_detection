@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_2",
+  "chart_type": "scatter_chart",
+  "flaw_type": "missing_title",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "Without a title, the chart provides no context about what is being shown or why. A reader is left to infer the subject and purpose purely from the axis labels, with no indication that this concerns FIFA 18 players or what message the visualization intends to convey. This makes it difficult to quickly understand the chart's relevance or interpret its findings."
+}

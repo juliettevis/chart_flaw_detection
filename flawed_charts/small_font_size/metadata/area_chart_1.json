@@ -1,0 +1,8 @@
+{
+  "base_chart": "area_chart_1",
+  "chart_type": "area_chart",
+  "flaw_type": "small_font_size",
+  "flaw_category": "Incomplete Chart",
+  "flaw_stage": "Plotting",
+  "description": "The title, axis labels, tick labels, and legend text are all rendered at extremely tiny font sizes (3\u20135pt), making them nearly impossible to read against the normal-sized chart area. A reader would struggle to identify what the chart is about, what the axes represent, or which color corresponds to which product category. The disproportionately small text renders the chart effectively uninterpretable despite its large visual elements."
+}

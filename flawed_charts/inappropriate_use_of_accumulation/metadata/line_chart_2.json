@@ -1,0 +1,8 @@
+{
+  "base_chart": "line_chart_2",
+  "chart_type": "line_chart",
+  "flaw_type": "inappropriate_use_of_accumulation",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This chart misleadingly shows both Furniture and Technology profits as continuously rising over time, when in reality the quarterly data has significant fluctuations and periods of decline. The visualization makes it impossible to see that Furniture profits actually dropped to negative values in Q1 2024 and Q4 2026, creating a false impression of consistent growth for both categories."
+}

@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_4",
+  "chart_type": "chloropleth",
+  "flaw_type": "missing_normalization",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "The chart's title and color bar label claim to show homicide \"rates per 100,000,\" but it actually displays estimated absolute homicide counts, which makes large-population countries like Brazil, India, and the United States appear disproportionately dangerous compared to smaller countries with much higher per-capita homicide rates like Honduras or Jamaica. This creates a misleading comparison where population size drives the color intensity rather than actual danger level."
+}

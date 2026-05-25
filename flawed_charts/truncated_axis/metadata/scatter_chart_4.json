@@ -1,0 +1,8 @@
+{
+  "base_chart": "scatter_chart_4",
+  "chart_type": "scatter_chart",
+  "flaw_type": "truncated_axis",
+  "flaw_category": "Choice of Axis",
+  "flaw_stage": "Visualization Design",
+  "description": "This chart is misleading because the y-axis starts at -30 instead of zero, which artificially amplifies the visual differences between countries' mortality rates. The negative starting point makes small variations in mortality rates appear much more dramatic than they actually are, potentially leading viewers to overestimate the disparities between different countries' TB outcomes."
+}

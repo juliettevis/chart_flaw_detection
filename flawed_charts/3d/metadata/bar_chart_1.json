@@ -1,0 +1,8 @@
+{
+  "base_chart": "bar_chart_1",
+  "chart_type": "bar_chart",
+  "flaw_type": "3d",
+  "flaw_category": "Visual Illusion",
+  "flaw_stage": "Perception",
+  "description": "The 3D perspective in this chart makes it extremely difficult to accurately compare sales values between categories. The bars at the front appear larger than those at the back even when they have similar values, and the angled viewing perspective creates visual distortion that undermines any meaningful comparison of the actual sales figures."
+}

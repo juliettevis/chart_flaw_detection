@@ -1,0 +1,8 @@
+{
+  "base_chart": "chloropleth_10",
+  "chart_type": "chloropleth",
+  "flaw_type": "missing_normalization",
+  "flaw_category": "Lie with Statistics",
+  "flaw_stage": "Input",
+  "description": "This chart shows absolute female population counts by country rather than a normalized metric like the female-to-male ratio, making it essentially just a population size map. Large countries like China and India dominate the color scale simply because they have more people overall, while the title and framing imply a meaningful comparison of gender demographics across nations of vastly different sizes."
+}
